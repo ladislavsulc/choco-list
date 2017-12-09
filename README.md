@@ -1,2 +1,12 @@
-# choco-list
-My Favorite Chocolatey Packages
+# My Favorite Chocolatey Packages
+
+- curl 
+- git
+- grepwin
+- lftp
+- nano
+- openssh
+- pandoc
+- rsync
+- strawberryperl
+- vim
