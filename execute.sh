@@ -1,13 +1,13 @@
 #!/bin/bash  
 
-echo "Listing all Chocolatey packages and importing to README.md"
+echo "Listing all Chocolatey packages, importing to README.md..."
 
-# List all Chocolatey packages and import them and format the into README.md
+# List all Chocolatey packages, import them and format them into README.md
 choco list -lo | awk '{print "- "$0}' > README.md
 
-echo "Prepending the Title"
+echo "Prepending the repo title..."
 
-# Prepend the H1 repo name
+# Prepending the repo name as H1
 sed -i '1i # My Favourite Chocolatey packages\n' README.md
 
 sleep 1s # Waits 1 second.
