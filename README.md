@@ -8,20 +8,26 @@
 - chocolateygui 0.15.0
 - curl 7.57.0
 - cwrsync 5.5.0.20160518
+- etcher 1.2.1
+- FiraCode 1.204
 - git 2.15.1.2
 - git.install 2.15.1.2
+- gitter 3.1.0.20170307
 - grepwin 1.6.17
 - hugo 0.30.2
 - hwinfo 5.60
 - hwinfo.install 5.60
-- keypirinha 2.18.2
 - lftp 4.8.0
 - nano 2.5.3
+- nmap 7.60
+- nodejs.install 9.3.0
+- obs-studio 20.1.1
 - openssh 0.0.24.0
-- pandoc 2.0.4
+- pandoc 2.0.5
 - rsync 5.5.0.20160518
 - ruby 2.4.2.2
 - strawberryperl 5.24.1.1
 - tor-browser 7.0.11
 - vim 8.0.604
-- 23 packages installed.
+- wireshark 2.4.3
+- 29 packages installed.
