@@ -6,15 +6,19 @@
 - chocolatey 0.10.8
 - chocolatey-core.extension 1.3.3
 - chocolateygui 0.15.0
+- coretemp 1.11
 - curl 7.57.0
 - cwrsync 5.5.0.20160518
 - etcher 1.2.1
 - FiraCode 1.204
+- Ghostscript 9.22
+- Ghostscript.app 9.22
+- gimp 2.8.22.20171021
 - git 2.15.1.2
 - git.install 2.15.1.2
 - gitter 3.1.0.20170307
 - grepwin 1.6.17
-- hugo 0.30.2
+- hugo 0.31.1
 - hwinfo 5.60
 - hwinfo.install 5.60
 - lftp 4.8.0
@@ -23,11 +27,15 @@
 - nodejs.install 9.3.0
 - obs-studio 20.1.1
 - openssh 0.0.24.0
-- pandoc 2.0.5
+- pandoc 2.0.6
+- qbittorrent 4.0.3
 - rsync 5.5.0.20160518
-- ruby 2.4.2.2
+- ruby 2.5.0.1
 - strawberryperl 5.24.1.1
 - tor-browser 7.0.11
+- treesizefree 4.1.1
+- vcredist2008 9.0.30729.6161
+- vcredist2012 11.0.61031
 - vim 8.0.604
 - wireshark 2.4.3
-- 29 packages installed.
+- 37 packages installed.
