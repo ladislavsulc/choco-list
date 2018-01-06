@@ -3,6 +3,7 @@
 - Chocolatey v0.10.8
 - ack 2.18
 - ag 2.1.0.1
+- blender 2.79
 - chocolatey 0.10.8
 - chocolatey-core.extension 1.3.3
 - chocolateygui 0.15.0
@@ -32,10 +33,11 @@
 - rsync 5.5.0.20160518
 - ruby 2.5.0.1
 - strawberryperl 5.24.1.1
+- subtitleedit 3.5.4
 - tor-browser 7.0.11
 - treesizefree 4.1.1
 - vcredist2008 9.0.30729.6161
 - vcredist2012 11.0.61031
 - vim 8.0.604
 - wireshark 2.4.3
-- 37 packages installed.
+- 39 packages installed.
