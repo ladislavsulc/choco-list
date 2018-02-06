@@ -14,9 +14,12 @@
 - cpu-z.install 1.82.0.20171221
 - curl 7.57.0
 - cwrsync 5.5.0.20160518
+- DotNet4.5 4.5.20120822
 - etcher 1.3.1
 - ffmpeg 3.4.1
 - FiraCode 1.204
+- freemind 1.0.1
+- futuremark-systeminfo 5.1
 - Ghostscript 9.22
 - Ghostscript.app 9.22
 - gimp 2.8.22.20171021
@@ -37,12 +40,15 @@
 - obs-studio 20.1.3
 - openssh 0.0.24.0
 - pandoc 2.1.1
+- prime95 28.10
 - procexp 16.21.0.20170716
 - python 3.6.4.20180116
 - python3 3.6.4.20180116
 - qbittorrent 4.0.3
+- ricochet 1.1.4
 - rsync 5.5.0.20160518
 - ruby 2.5.0.1
+- skyfonts 5.9.2.0
 - sqlitebrowser 3.10.0
 - strawberryperl 5.24.1.1
 - subtitleedit 3.5.4
@@ -53,5 +59,6 @@
 - vcredist2012 11.0.61031
 - vim 8.0.604
 - wget 1.19.4
+- wincdemu 4.1.0.20171221
 - wireshark 2.4.4
-- 53 packages installed.
+- 60 packages installed.
