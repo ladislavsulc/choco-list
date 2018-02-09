@@ -3,7 +3,7 @@
 echo "Listing all Chocolatey packages, importing to README.md..."
 
 # List all Chocolatey packages, import them and format them into README.md
-choco list -lo | awk '{print "- "$0}' > README.md
+choco list -li | awk '{print "- "$0}' > README.md
 
 choco list -lo | sed 's/[0-9]//g' | sed 's/\.//g' > packages.md
 
