@@ -2,10 +2,12 @@
 
 - Chocolatey v0.10.8
 - ack 2.22
+- adobereader 2015.007.20033.02
+- advanced-ip-scanner 2.5.3499
 - ag 2.1.0.1
-- autohotkey 1.1.27.06
-- autohotkey.install 1.1.27.07
-- autohotkey.portable 1.1.27.07
+- autohotkey 1.1.28.00
+- autohotkey.install 1.1.28.00
+- autohotkey.portable 1.1.28.00
 - Bitnami-XAMPP 7.1.11
 - bsplayer 2.71.1081
 - chocolatey 0.10.8
@@ -17,6 +19,8 @@
 - cpu-z 1.83
 - cpu-z.install 1.83
 - discord 0.0.283
+- docker 17.10.0
+- docker-for-windows 17.12.0.15139
 - DotNet4.5.2 4.5.2.20140902
 - dropbox 43.4.50
 - etcher 1.3.1
@@ -25,9 +29,11 @@
 - Firefox 58.0.2
 - git 2.16.1.4
 - git.install 2.16.1.4
-- google-backup-and-sync 3.38.7642.3857
+- google-backup-and-sync 3.39.8370.7843
+- gptgen 1.1.20170316
 - grepwin 1.6.17
-- hugo 0.34
+- hugo 0.36
+- jre8 8.0.161
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20170509
@@ -35,17 +41,20 @@
 - KB3035131 1.0.1
 - keepass 2.38
 - keepass.install 2.38
+- malwarebytes 3.3.1.2183
 - nano 2.5.3
 - nmap 7.60
 - nodejs 9.5.0
 - nodejs.install 9.5.0
 - obs-studio 20.1.3
 - openssh 1.0.0.20180202
-- Opera 51.0.2830.26
+- Opera 51.0.2830.34
+- performancetest 9.0.1022
 - php 7.2.2
+- PowerBI 2.51.4885.701
 - python 3.6.4.20180116
 - python3 3.6.4.20180116
-- qbittorrent 4.0.3
+- qbittorrent 4.0.4
 - rainmeter 4.1.0.2989
 - rsync 5.5.0.20160518
 - ruby 2.5.0.1
@@ -60,28 +69,34 @@
 - vcredist140 14.12.25810
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.20.0
+- visualstudiocode 1.20.1
+- vlc 3.0.0
 - wget 1.19.4
 - wireshark 2.4.4
 - XnView 2.43
-- 63 packages installed.
+- yarn 1.3.2
+- 74 packages installed.
 - 
+- Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.2.97
 - Aplikace IntelR PROSet/Wireless|20.10.2
+- Backup and Sync from Google|3.39.8370.7843
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - Discord|0.0.300
 - Dropbox|44.3.52
 - Figma|3.3.1
+- Freeter|1.2.1
 - ghostwriter version 1.5.0|1.5.0
-- Google Chrome|64.0.3282.140
+- Google Chrome|64.0.3282.167
+- Google2SRT|0.7.6
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.1.03413
 - Intel(R) Network Connections 22.9.16.0|22.9.16.0
 - Intel(R) Processor Graphics|23.20.16.4901
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - IntelR Driver & Support Assistant|3.1.2.2
-- Microsoft OneDrive|17.3.7294.0108
+- Java 8 Update 161|8.0.1610.12
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
@@ -92,9 +107,15 @@
 - Npcap 0.93|0.93
 - Python Launcher|3.6.6196.0
 - Samsung Magician|5.2.0.1610
+- SopCast 4.2.0|4.2.0
 - Telegram Desktop version 1.2.6|1.2.6
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
+- Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
 - Wireshark 2.4.4 64-bit|2.4.4
-- 31 applications not managed with Chocolatey.
+- 37 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at 
+-  https://chocolatey.org/compare

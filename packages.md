@@ -1,5 +1,7 @@
 Chocolatey v
 ack 
+adobereader 
+advanced-ip-scanner 
 ag 
 autohotkey 
 autohotkeyinstall 
@@ -15,6 +17,8 @@ coretemp
 cpu-z 
 cpu-zinstall 
 discord 
+docker 
+docker-for-windows 
 DotNet 
 dropbox 
 etcher 
@@ -24,8 +28,10 @@ Firefox
 git 
 gitinstall 
 google-backup-and-sync 
+gptgen 
 grepwin 
 hugo 
+jre 
 KB 
 KB 
 KB 
@@ -33,6 +39,7 @@ KB
 KB 
 keepass 
 keepassinstall 
+malwarebytes 
 nano 
 nmap 
 nodejs 
@@ -40,7 +47,9 @@ nodejsinstall
 obs-studio 
 openssh 
 Opera 
+performancetest 
 php 
+PowerBI 
 python 
 python 
 qbittorrent 
@@ -59,7 +68,9 @@ vcredist
 vcredist 
 vim 
 visualstudiocode 
+vlc 
 wget 
 wireshark 
 XnView 
+yarn 
  packages installed
