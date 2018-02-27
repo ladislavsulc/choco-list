@@ -10,12 +10,14 @@ Bitnami-XAMPP
 bsplayer 
 chocolatey 
 chocolatey-coreextension 
+chocolatey-uninstallextension 
 chocolatey-windowsupdateextension 
 cinebench 
 composer 
 coretemp 
 cpu-z 
 cpu-zinstall 
+crystaldiskmark 
 discord 
 docker 
 docker-for-windows 
@@ -61,6 +63,7 @@ skyfonts
 steam 
 strawberryperl 
 sublimetext 
+teamspeak 
 thunderbird 
 tor-browser 
 treesizefree 
