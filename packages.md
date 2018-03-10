@@ -1,5 +1,6 @@
 Chocolatey v
 ack 
+adb 
 adobereader 
 advanced-ip-scanner 
 ag 
@@ -18,6 +19,7 @@ coretemp
 cpu-z 
 cpu-zinstall 
 crystaldiskmark 
+curl 
 discord 
 docker 
 docker-for-windows 
@@ -32,6 +34,7 @@ gitinstall
 google-backup-and-sync 
 gptgen 
 grepwin 
+heidisql 
 hugo 
 jre 
 KB 
@@ -42,7 +45,9 @@ KB
 keepass 
 keepassinstall 
 malwarebytes 
+mysqlworkbench 
 nano 
+nexus-root-toolkit 
 nmap 
 nodejs 
 nodejsinstall 
@@ -69,6 +74,7 @@ tor-browser
 treesizefree 
 vcredist 
 vcredist 
+vcredist 
 vim 
 visualstudiocode 
 vlc 
@@ -76,4 +82,5 @@ wget
 wireshark 
 XnView 
 yarn 
+zoom 
  packages installed
