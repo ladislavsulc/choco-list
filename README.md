@@ -30,9 +30,10 @@
 - etcher 1.3.1
 - ffmpeg 3.4.2
 - filezilla 3.31.0
-- Firefox 58.0.2
+- Firefox 59.0
 - git 2.16.2
 - git.install 2.16.2
+- gitbook-editor 7.0.12
 - google-backup-and-sync 3.39.8370.7843
 - gptgen 1.1.20170316
 - grepwin 1.6.17
@@ -46,7 +47,7 @@
 - KB3035131 1.0.1
 - keepass 2.38
 - keepass.install 2.38
-- malwarebytes 3.4.4.239810425
+- malwarebytes 3.4.4.239810435
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - nexus-root-toolkit 2.1.9.20170607
@@ -58,7 +59,7 @@
 - Opera 51.0.2830.55
 - performancetest 9.0.1022
 - php 7.2.3
-- PowerBI 2.56.5023.861
+- PowerBI 2.56.5023.942
 - python 3.6.4.20180116
 - python3 3.6.4.20180116
 - qbittorrent 4.0.4
@@ -72,7 +73,7 @@
 - sublimetext3 3.0.0.3143
 - teamspeak 3.1.8
 - thunderbird 52.6.0
-- tor-browser 7.5
+- tor-browser 7.5.1
 - treesizefree 4.1.2.3
 - vcredist140 14.12.25810
 - vcredist2013 12.0.30501.20150616
@@ -82,10 +83,10 @@
 - vlc 3.0.1
 - wget 1.19.4
 - wireshark 2.4.5
-- XnView 2.43
+- XnView 2.44
 - yarn 1.5.1
 - zoom 4.1.20185.0205
-- 84 packages installed.
+- 85 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -98,8 +99,10 @@
 - Figma|3.5.3
 - Freeter|1.2.1
 - ghostwriter version 1.5.0|1.5.0
-- Google Chrome|64.0.3282.186
+- GitBook Editor|7.0.12
+- Google Chrome|65.0.3325.162
 - Google2SRT|0.7.6
+- HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.1.03413
 - Intel(R) Network Connections 22.9.16.0|22.9.16.0
@@ -109,13 +112,13 @@
 - Java 8 Update 161|8.0.1610.12
 - Logitech Gaming Software 8.96|8.96.88
 - Microsoft Power BI Desktop|2.55.5010.641
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Mozilla Maintenance Service|58.0.2
-- Mozilla Maintenance Service|52.6.0
+- Mozilla Maintenance Service|59.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.93|0.93
 - Python Launcher|3.6.6196.0
@@ -126,4 +129,4 @@
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
-- 39 applications not managed with Chocolatey.
+- 41 applications not managed with Chocolatey.

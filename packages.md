@@ -31,6 +31,7 @@ filezilla
 Firefox 
 git 
 gitinstall 
+gitbook-editor 
 google-backup-and-sync 
 gptgen 
 grepwin 
