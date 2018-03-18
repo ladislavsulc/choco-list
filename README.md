@@ -21,24 +21,27 @@
 - cpu-z 1.83
 - cpu-z.install 1.83
 - crystaldiskmark 5.2.0
-- curl 7.58.0.20180213
+- curl 7.59.0
 - discord 0.0.283
 - docker 17.10.0
 - docker-for-windows 17.12.0.15139
+- DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
-- dropbox 44.4.58
+- dropbox 45.4.92
 - etcher 1.3.1
 - ffmpeg 3.4.2
 - filezilla 3.31.0
-- Firefox 59.0
+- Firefox 59.0.1
 - git 2.16.2
 - git.install 2.16.2
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.39.8370.7843
 - gptgen 1.1.20170316
 - grepwin 1.6.17
+- gtksharp 2.12.45
 - heidisql 9.5.0.5196
 - hugo 0.37
+- InkScape 0.92.2
 - jre8 8.0.161
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
@@ -59,8 +62,10 @@
 - Opera 51.0.2830.55
 - performancetest 9.0.1022
 - php 7.2.3
+- Pinta 1.5.0.20130501
 - PowerBI 2.56.5023.942
 - python 3.6.4.20180116
+- python2 2.7.14
 - python3 3.6.4.20180116
 - qbittorrent 4.0.4
 - rainmeter 4.1.0.2989
@@ -73,20 +78,20 @@
 - sublimetext3 3.0.0.3143
 - teamspeak 3.1.8
 - thunderbird 52.6.0
-- tor-browser 7.5.1
+- tor-browser 7.5.2
 - treesizefree 4.1.2.3
 - vcredist140 14.12.25810
 - vcredist2013 12.0.30501.20150616
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.21.0
+- visualstudiocode 1.21.1
 - vlc 3.0.1
 - wget 1.19.4
 - wireshark 2.4.5
 - XnView 2.44
 - yarn 1.5.1
 - zoom 4.1.20185.0205
-- 85 packages installed.
+- 90 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -95,6 +100,7 @@
 - Aplikace IntelR PROSet/Wireless|20.10.2
 - Backup and Sync from Google|3.39.8370.7843
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
+- BleachBit|2.0
 - Discord|0.0.300
 - Figma|3.5.3
 - Freeter|1.2.1
@@ -108,7 +114,7 @@
 - Intel(R) Network Connections 22.9.16.0|22.9.16.0
 - Intel(R) Processor Graphics|23.20.16.4901
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- IntelR Driver & Support Assistant|3.1.2.2
+- IntelR Driver & Support Assistant|3.2.0.9
 - Java 8 Update 161|8.0.1610.12
 - Logitech Gaming Software 8.96|8.96.88
 - Microsoft Power BI Desktop|2.55.5010.641
@@ -118,10 +124,12 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Mozilla Maintenance Service|59.0
+- Mozilla Maintenance Service|59.0.1
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.93|0.93
+- Nucleo 2.3.0 (only current user)|2.3.0
 - Python Launcher|3.6.6196.0
+- Realtek High Definition Audio Driver|6.0.1.7982
 - Samsung Magician|5.2.0.1610
 - SopCast 4.2.0|4.2.0
 - Telegram Desktop version 1.2.6|1.2.6
@@ -129,4 +137,4 @@
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
-- 41 applications not managed with Chocolatey.
+- 44 applications not managed with Chocolatey.

@@ -24,6 +24,7 @@ discord
 docker 
 docker-for-windows 
 DotNet 
+DotNet 
 dropbox 
 etcher 
 ffmpeg 
@@ -35,8 +36,10 @@ gitbook-editor
 google-backup-and-sync 
 gptgen 
 grepwin 
+gtksharp 
 heidisql 
 hugo 
+InkScape 
 jre 
 KB 
 KB 
@@ -57,7 +60,9 @@ openssh
 Opera 
 performancetest 
 php 
+Pinta 
 PowerBI 
+python 
 python 
 python 
 qbittorrent 
