@@ -1,6 +1,6 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.8
+- Chocolatey v0.10.9
 - ack 2.22
 - adb 1.0.39.20171026
 - adobereader 2015.007.20033.02
@@ -11,15 +11,15 @@
 - autohotkey.portable 1.1.28.00
 - Bitnami-XAMPP 7.2.1
 - bsplayer 2.71.1081
-- chocolatey 0.10.8
+- chocolatey 0.10.9
 - chocolatey-core.extension 1.3.3
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.2
 - cinebench 15.038
 - composer 4.8.0
 - coretemp 1.11
-- cpu-z 1.83
-- cpu-z.install 1.83
+- cpu-z 1.84
+- cpu-z.install 1.84
 - crystaldiskmark 5.2.0
 - curl 7.59.0
 - discord 0.0.283
@@ -32,8 +32,9 @@
 - ffmpeg 3.4.2
 - filezilla 3.31.0
 - Firefox 59.0.1
-- git 2.16.2
-- git.install 2.16.2
+- fontbase 2.2.3
+- git 2.16.3
+- git.install 2.16.3
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.39.8370.7843
 - gptgen 1.1.20170316
@@ -55,15 +56,15 @@
 - nano 2.5.3
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.60
-- nodejs 9.8.0
-- nodejs.install 9.8.0
+- nodejs 9.9.0
+- nodejs.install 9.9.0
 - obs-studio 20.1.3
 - openssh 7.6.0.1
-- Opera 51.0.2830.55
+- Opera 52.0.2871.30
 - performancetest 9.0.1022
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.56.5023.942
+- PowerBI 2.56.5023.1021
 - python 3.6.4.20180116
 - python2 2.7.14
 - python3 3.6.4.20180116
@@ -77,7 +78,7 @@
 - strawberryperl 5.26.1.1
 - sublimetext3 3.0.0.3143
 - teamspeak 3.1.8
-- thunderbird 52.6.0
+- thunderbird 52.7.0
 - tor-browser 7.5.2
 - treesizefree 4.1.2.3
 - vcredist140 14.12.25810
@@ -91,22 +92,23 @@
 - XnView 2.44
 - yarn 1.5.1
 - zoom 4.1.20185.0205
-- 90 packages installed.
+- 91 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.4.104
 - Age of Empires: Definitive Edition [FULL REMOVAL]|1.3.5101.2
 - Aplikace IntelR PROSet/Wireless|20.10.2
-- Backup and Sync from Google|3.39.8370.7843
+- Backup and Sync from Google|3.40.8921.5350
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Discord|0.0.300
 - Figma|3.5.3
+- FontBase|2.3.0
 - Freeter|1.2.1
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
-- Google Chrome|65.0.3325.162
+- Google Chrome|65.0.3325.181
 - Google2SRT|0.7.6
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
@@ -114,8 +116,9 @@
 - Intel(R) Network Connections 22.9.16.0|22.9.16.0
 - Intel(R) Processor Graphics|23.20.16.4901
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- IntelR Driver & Support Assistant|3.2.0.9
+- IntelR Driver &amp; Support Assistant|3.2.0.9
 - Java 8 Update 161|8.0.1610.12
+- Local by Flywheel 2.2.4 (only current user)|2.2.4
 - Logitech Gaming Software 8.96|8.96.88
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
@@ -125,16 +128,19 @@
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
 - Mozilla Maintenance Service|59.0.1
+- Mozilla Maintenance Service|52.7.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.93|0.93
-- Nucleo 2.3.0 (only current user)|2.3.0
+- Nucleo 2.3.1 (only current user)|2.3.1
+- Oracle VM VirtualBox 5.2.4|5.2.4
+- Outline Manager 1.0.2 (only current user)|1.0.2
 - Python Launcher|3.6.6196.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Samsung Magician|5.2.0.1610
 - SopCast 4.2.0|4.2.0
-- Telegram Desktop version 1.2.6|1.2.6
+- Telegram Desktop version 1.2.14|1.2.14
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
-- 44 applications not managed with Chocolatey.
+- 49 applications not managed with Chocolatey.

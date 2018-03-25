@@ -30,6 +30,7 @@ etcher
 ffmpeg 
 filezilla 
 Firefox 
+fontbase 
 git 
 gitinstall 
 gitbook-editor 
