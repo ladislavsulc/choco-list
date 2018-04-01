@@ -26,6 +26,7 @@ docker-for-windows
 DotNet 
 DotNet 
 dropbox 
+Emacs 
 etcher 
 ffmpeg 
 filezilla 
@@ -49,9 +50,11 @@ KB
 KB 
 keepass 
 keepassinstall 
+kitty 
 malwarebytes 
 mysqlworkbench 
 nano 
+neovim 
 nexus-root-toolkit 
 nmap 
 nodejs 
@@ -63,6 +66,8 @@ performancetest
 php 
 Pinta 
 PowerBI 
+putty 
+puttyportable 
 python 
 python 
 python 
@@ -86,6 +91,9 @@ vim
 visualstudiocode 
 vlc 
 wget 
+winscp 
+winscpinstall 
+winsshterm 
 wireshark 
 XnView 
 yarn 

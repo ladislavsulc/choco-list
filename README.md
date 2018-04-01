@@ -24,14 +24,15 @@
 - curl 7.59.0
 - discord 0.0.283
 - docker 17.10.0
-- docker-for-windows 17.12.0.15139
+- docker-for-windows 18.03.0.16762
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
-- dropbox 45.4.92
+- dropbox 46.4.65
+- Emacs 24.5.0.20150611
 - etcher 1.3.1
 - ffmpeg 3.4.2
 - filezilla 3.31.0
-- Firefox 59.0.1
+- Firefox 59.0.2
 - fontbase 2.2.3
 - git 2.16.3
 - git.install 2.16.3
@@ -51,27 +52,31 @@
 - KB3035131 1.0.1
 - keepass 2.38
 - keepass.install 2.38
-- malwarebytes 3.4.4.239810435
+- kitty 0.70.0.3
+- malwarebytes 3.4.4.239810447
 - mysql.workbench 6.3.8
 - nano 2.5.3
+- neovim 0.2.2
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.60
-- nodejs 9.9.0
-- nodejs.install 9.9.0
+- nodejs 9.10.1
+- nodejs.install 9.10.1
 - obs-studio 20.1.3
 - openssh 7.6.0.1
-- Opera 52.0.2871.30
+- Opera 52.0.2871.40
 - performancetest 9.0.1022
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - PowerBI 2.56.5023.1021
-- python 3.6.4.20180116
+- putty 0.70.0.20171219
+- putty.portable 0.70.0.20171219
+- python 3.6.5
 - python2 2.7.14
-- python3 3.6.4.20180116
+- python3 3.6.5
 - qbittorrent 4.0.4
 - rainmeter 4.1.0.2989
 - rsync 5.5.0.20160518
-- ruby 2.5.0.2
+- ruby 2.5.1.1
 - sharex 12.0.0
 - skyfonts 5.9.2.0
 - steam 2.10.91.910201
@@ -79,7 +84,7 @@
 - sublimetext3 3.0.0.3143
 - teamspeak 3.1.8
 - thunderbird 52.7.0
-- tor-browser 7.5.2
+- tor-browser 7.5.3
 - treesizefree 4.1.2.3
 - vcredist140 14.12.25810
 - vcredist2013 12.0.30501.20150616
@@ -88,11 +93,14 @@
 - visualstudiocode 1.21.1
 - vlc 3.0.1
 - wget 1.19.4
+- winscp 5.13.1
+- winscp.install 5.13.1
+- winsshterm 2.2.0
 - wireshark 2.4.5
 - XnView 2.44
 - yarn 1.5.1
 - zoom 4.1.20185.0205
-- 91 packages installed.
+- 99 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -111,6 +119,7 @@
 - Google Chrome|65.0.3325.181
 - Google2SRT|0.7.6
 - HLSW v1.4.0.2|
+- Hyper|1.4.8
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.1.03413
 - Intel(R) Network Connections 22.9.16.0|22.9.16.0
@@ -127,20 +136,22 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Mozilla Maintenance Service|59.0.1
-- Mozilla Maintenance Service|52.7.0
+- Mozilla Maintenance Service|59.0.2
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.93|0.93
 - Nucleo 2.3.1 (only current user)|2.3.1
+- Opera Stable 52.0.2871.40|52.0.2871.40
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Python Launcher|3.6.6196.0
+- Python Launcher|3.6.6295.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Samsung Magician|5.2.0.1610
 - SopCast 4.2.0|4.2.0
-- Telegram Desktop version 1.2.14|1.2.14
+- Storyboarder 1.5.1|1.5.1
+- Telegram Desktop version 1.2.15|1.2.15
+- Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
-- 49 applications not managed with Chocolatey.
+- 52 applications not managed with Chocolatey.
