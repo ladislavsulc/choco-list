@@ -51,14 +51,16 @@ KB
 keepass 
 keepassinstall 
 kitty 
+kodi 
+krita 
 malwarebytes 
+mc 
 mysqlworkbench 
 nano 
 neovim 
 nexus-root-toolkit 
 nmap 
 nodejs 
-nodejsinstall 
 obs-studio 
 openssh 
 Opera 
@@ -81,6 +83,7 @@ steam
 strawberryperl 
 sublimetext 
 teamspeak 
+teamviewer 
 thunderbird 
 tor-browser 
 treesizefree 
