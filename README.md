@@ -1,6 +1,6 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.9
+- Chocolatey v0.10.10
 - ack 2.22
 - adb 27.0.1
 - adobereader 2015.007.20033.02
@@ -11,7 +11,7 @@
 - autohotkey.portable 1.1.28.02
 - Bitnami-XAMPP 7.2.1
 - bsplayer 2.71.1081
-- chocolatey 0.10.9
+- chocolatey 0.10.10
 - chocolatey-core.extension 1.3.3
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.2
@@ -27,9 +27,10 @@
 - docker-for-windows 18.03.0.16762
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
-- dropbox 47.3.73
+- dotnet4.6.2 4.6.01590.20170129
+- dropbox 47.4.74
 - Emacs 24.5.0.20150611
-- etcher 1.3.1
+- etcher 1.4.3
 - ffmpeg 3.4.2
 - filezilla 3.32.0
 - Firefox 59.0.2
@@ -42,7 +43,7 @@
 - grepwin 1.6.17
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.38
+- hugo 0.38.2
 - InkScape 0.92.2
 - jre8 8.0.161
 - KB2919355 1.0.20160915
@@ -54,22 +55,22 @@
 - keepass.install 2.38
 - kitty 0.70.0.3
 - kodi 17.6.0.20171213
-- krita 4.0.0
+- krita 4.0.1
 - malwarebytes 3.4.4.239810447
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
-- neovim 0.2.2
+- neovim 0.2.2.20180420
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.60
 - nodejs 9.11.1
-- obs-studio 20.1.3
-- openssh 7.6.0.1
-- Opera 52.0.2871.40
+- obs-studio 21.1
+- openssh 7.6.1.1
+- Opera 52.0.2871.64
 - performancetest 9.0.1024
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.57.5068.501
+- PowerBI 2.57.5068.721
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.6.5
@@ -79,7 +80,7 @@
 - rainmeter 4.1.0.2989
 - rsync 5.5.0.20160518
 - ruby 2.5.1.1
-- sharex 12.0.0
+- sharex 12.1.1
 - skyfonts 5.9.2.0
 - steam 2.10.91.910201
 - strawberryperl 5.26.1.1
@@ -93,7 +94,7 @@
 - vcredist2013 12.0.30501.20150616
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.21.1
+- visualstudiocode 1.22.2
 - vlc 3.0.1
 - wget 1.19.4
 - winscp 5.13.1
@@ -101,9 +102,9 @@
 - winsshterm 2.2.1
 - wireshark 2.4.5
 - XnView 2.44
-- yarn 1.5.1
-- zoom 4.1.23108.0402
-- 102 packages installed.
+- yarn 1.6.0
+- zoom 4.1.23501.0416
+- 103 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -115,8 +116,7 @@
 - BleachBit|2.0
 - CPUID CPU-Z 1.84|1.84
 - Discord|0.0.300
-- Dropbox|47.3.73
-- Figma|3.6.4
+- Figma|3.6.9
 - FontBase|2.3.0
 - Freeter|1.2.1
 - ghostwriter version 1.5.0|1.5.0
@@ -124,7 +124,7 @@
 - Google Chrome|65.0.3325.181
 - Google2SRT|0.7.6
 - HLSW v1.4.0.2|
-- Hyper|1.4.8
+- Hyper|2.0.0
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.1.03413
 - Intel(R) Management Engine Components|11.7.0.1067
@@ -133,8 +133,10 @@
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - IntelR Driver &amp; Support Assistant|3.2.0.9
 - Java 8 Update 161|8.0.1610.12
+- League of Legends|1.0
 - Local by Flywheel 2.2.4 (only current user)|2.2.4
 - Logitech Gaming Software 8.96|8.96.88
+- Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
@@ -149,7 +151,7 @@
 - Node.js|9.10.1
 - Npcap 0.93|0.93
 - Nucleo 2.3.1 (only current user)|2.3.1
-- Opera Stable 52.0.2871.40|52.0.2871.40
+- Opera Stable 52.0.2871.64|52.0.2871.64
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python Launcher|3.6.6295.0
@@ -157,15 +159,11 @@
 - Samsung Magician|5.2.0.1610
 - SopCast 4.2.0|4.2.0
 - Storyboarder 1.5.1|1.5.1
-- Telegram Desktop version 1.2.15|1.2.15
+- Telegram Desktop version 1.2.17|1.2.17
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows Assessment and Deployment Kit - Windows 10|10.1.16299.15
 - Zoom|4.1
-- 59 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 60 applications not managed with Chocolatey.

@@ -25,6 +25,7 @@ docker
 docker-for-windows 
 DotNet 
 DotNet 
+dotnet 
 dropbox 
 Emacs 
 etcher 
