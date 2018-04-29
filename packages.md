@@ -42,7 +42,7 @@ grepwin
 gtksharp 
 heidisql 
 hugo 
-InkScape 
+hyper 
 jre 
 KB 
 KB 
@@ -62,6 +62,7 @@ neovim
 nexus-root-toolkit 
 nmap 
 nodejs 
+nodejsinstall 
 obs-studio 
 openssh 
 Opera 
@@ -81,7 +82,6 @@ ruby
 sharex 
 skyfonts 
 steam 
-strawberryperl 
 sublimetext 
 teamspeak 
 teamviewer 
@@ -90,14 +90,12 @@ tor-browser
 treesizefree 
 vcredist 
 vcredist 
-vcredist 
 vim 
 visualstudiocode 
 vlc 
 wget 
 winscp 
 winscpinstall 
-winsshterm 
 wireshark 
 XnView 
 yarn 
