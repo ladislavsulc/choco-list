@@ -1,6 +1,13 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.10
+- Chocolatey v0.10.11
+- This is try 1/3. Retrying after 300 milliseconds.
+-  Error converted to warning:
+-  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
+- This is try 2/3. Retrying after 400 milliseconds.
+-  Error converted to warning:
+-  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
+- Maximum tries of 3 reached. Throwing error.
 - ack 2.22
 - adb 27.0.1
 - adobereader 2015.007.20033.02
@@ -11,20 +18,21 @@
 - autohotkey.portable 1.1.28.02
 - Bitnami-XAMPP 7.2.1
 - bsplayer 2.71.1081
-- chocolatey 0.10.10
+- chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.2
 - cinebench 15.038
 - composer 4.8.0
 - coretemp 1.11
-- cpu-z 1.84.0.20180331
-- cpu-z.install 1.84.0.20180331
+- cpu-z 1.85
+- cpu-z.install 1.85
 - crystaldiskmark 5.2.0
-- curl 7.59.0
-- discord 0.0.283
+- curl 7.59.0.20180504
+- discord 0.0.301
+- discord.install 0.0.301
 - docker 17.10.0
-- docker-for-windows 18.03.1.17438
+- docker-for-windows 18.03.1.17513
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
@@ -43,20 +51,18 @@
 - grepwin 1.6.17
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.40
-- hyper 2.0.0
-- jre8 8.0.161
+- hugo 0.40.2
+- jre8 8.0.171
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20170509
 - KB3033929 1.0.3
 - KB3035131 1.0.1
-- keepass 2.38
-- keepass.install 2.38
+- keepass 2.39
 - kitty 0.70.0.3
 - kodi 17.6.0.20171213
 - krita 4.0.1
-- malwarebytes 3.4.5.246710491
+- malwarebytes 3.4.5.246710500
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
@@ -75,9 +81,9 @@
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.6.5
-- python2 2.7.14
+- python2 2.7.15
 - python3 3.6.5
-- qbittorrent 4.0.4
+- qbittorrent 4.1.0
 - rainmeter 4.1.0.2989
 - rsync 5.5.0.20160518
 - ruby 2.5.1.1
@@ -93,7 +99,7 @@
 - vcredist140 14.12.25810
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.22.2
+- visualstudiocode 1.23.0
 - vlc 3.0.1
 - wget 1.19.4
 - winscp 5.13.1
@@ -102,23 +108,23 @@
 - XnView 2.44
 - yarn 1.6.0
 - zoom 4.1.23501.0416
-- 101 packages installed.
+- 100 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.4.104
 - Aplikace IntelR PROSet/Wireless|20.30.1
-- Backup and Sync from Google|3.40.8921.5350
+- Backup and Sync from Google|3.41.9267.0638
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
-- CPUID CPU-Z 1.84|1.84
-- Discord|0.0.300
+- Discord|0.0.301
 - Figma|3.6.9
 - FontBase|2.3.0
 - Freeter|1.2.1
+- Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
-- Google Chrome|65.0.3325.181
+- Google Chrome|66.0.3359.139
 - Google2SRT|0.7.6
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
@@ -128,7 +134,8 @@
 - Intel(R) Processor Graphics|23.20.16.4901
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - IntelR Driver &amp; Support Assistant|3.2.0.9
-- Java 8 Update 161|8.0.1610.12
+- Java 8 Update 171|8.0.1710.11
+- KeePass Password Safe 2.38|2.38
 - Local by Flywheel 2.2.4 (only current user)|2.2.4
 - Logitech Gaming Software 8.96|8.96.88
 - Mark Text 0.9.25|0.9.25
@@ -161,4 +168,4 @@
 - Typora version 0.9.44|0.9.44
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Zoom|4.1
-- 57 applications not managed with Chocolatey.
+- 58 applications not managed with Chocolatey.

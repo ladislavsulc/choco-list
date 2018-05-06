@@ -1,4 +1,11 @@
 Chocolatey v
+This is try / Retrying after  milliseconds
+ Error converted to warning:
+ Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
+This is try / Retrying after  milliseconds
+ Error converted to warning:
+ Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
+Maximum tries of  reached Throwing error
 ack 
 adb 
 adobereader 
@@ -21,6 +28,7 @@ cpu-zinstall
 crystaldiskmark 
 curl 
 discord 
+discordinstall 
 docker 
 docker-for-windows 
 DotNet 
@@ -42,7 +50,6 @@ grepwin
 gtksharp 
 heidisql 
 hugo 
-hyper 
 jre 
 KB 
 KB 
@@ -50,7 +57,6 @@ KB
 KB 
 KB 
 keepass 
-keepassinstall 
 kitty 
 kodi 
 krita 
