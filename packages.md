@@ -1,11 +1,4 @@
 Chocolatey v
-This is try / Retrying after  milliseconds
- Error converted to warning:
- Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
-This is try / Retrying after  milliseconds
- Error converted to warning:
- Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
-Maximum tries of  reached Throwing error
 ack 
 adb 
 adobereader 
@@ -99,6 +92,7 @@ vcredist
 vim 
 visualstudiocode 
 vlc 
+vscode 
 wget 
 winscp 
 winscpinstall 

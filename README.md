@@ -1,13 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.11
-- This is try 1/3. Retrying after 300 milliseconds.
--  Error converted to warning:
--  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
-- This is try 2/3. Retrying after 400 milliseconds.
--  Error converted to warning:
--  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
-- Maximum tries of 3 reached. Throwing error.
 - ack 2.22
 - adb 27.0.1
 - adobereader 2015.007.20033.02
@@ -28,7 +21,7 @@
 - cpu-z 1.85
 - cpu-z.install 1.85
 - crystaldiskmark 5.2.0
-- curl 7.59.0.20180504
+- curl 7.59.0.20180507
 - discord 0.0.301
 - discord.install 0.0.301
 - docker 17.10.0
@@ -36,12 +29,12 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 48.4.58
+- dropbox 50.3.66
 - Emacs 24.5.0.20150611
 - etcher 1.4.4
 - ffmpeg 4.0
-- filezilla 3.32.0
-- Firefox 59.0.2
+- filezilla 3.33.0
+- Firefox 60.0
 - fontbase 2.4.1
 - git 2.17.0
 - git.install 2.17.0
@@ -61,23 +54,23 @@
 - keepass 2.39
 - kitty 0.70.0.3
 - kodi 17.6.0.20171213
-- krita 4.0.1
-- malwarebytes 3.4.5.246710500
+- krita 4.0.3
+- malwarebytes 3.5.1.252210508
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.2.2.20180420
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.0.0
-- nodejs.install 10.0.0
+- nodejs 10.1.0
+- nodejs.install 10.1.0
 - obs-studio 21.1
 - openssh 7.6.1.1
-- Opera 52.0.2871.99
+- Opera 53.0.2907.37
 - performancetest 9.0.1024
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.57.5068.721
+- PowerBI 2.58.5103.501
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.6.5
@@ -91,24 +84,25 @@
 - skyfonts 5.9.2.0
 - steam 2.10.91.910201
 - sublimetext3 3.0.0.3143
-- teamspeak 3.1.8
+- teamspeak 3.1.9
 - teamviewer 13.1.3629
 - thunderbird 52.7.0
-- tor-browser 7.5.3
+- tor-browser 7.5.4
 - treesizefree 4.1.2.3
 - vcredist140 14.12.25810
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.23.0
-- vlc 3.0.1
+- visualstudiocode 1.23.1.20180513
+- vlc 3.0.2
+- vscode 1.23.1.20180513
 - wget 1.19.4
-- winscp 5.13.1
-- winscp.install 5.13.1
-- wireshark 2.4.5
+- winscp 5.13.2
+- winscp.install 5.13.2
+- wireshark 2.6.0
 - XnView 2.44
 - yarn 1.6.0
-- zoom 4.1.23501.0416
-- 100 packages installed.
+- zoom 4.1.24407.0507
+- 101 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -118,6 +112,7 @@
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Discord|0.0.301
+- Dropbox|50.3.66
 - Figma|3.6.9
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -149,11 +144,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Mozilla Maintenance Service|59.0.2
+- Mozilla Maintenance Service|60.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.3.1 (only current user)|2.3.1
-- Opera Stable 52.0.2871.99|52.0.2871.99
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python Launcher|3.6.6295.0
@@ -165,7 +159,7 @@
 - Telegram Desktop version 1.2.17|1.2.17
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
-- Typora version 0.9.44|0.9.44
+- Typora version 0.9.50|0.9.50
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Zoom|4.1
 - 58 applications not managed with Chocolatey.
