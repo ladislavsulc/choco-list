@@ -34,6 +34,7 @@ ffmpeg
 filezilla 
 Firefox 
 fontbase 
+gimp 
 git 
 gitinstall 
 gitbook-editor 
@@ -50,6 +51,7 @@ KB
 KB 
 KB 
 keepass 
+kindle 
 kitty 
 kodi 
 krita 
@@ -80,6 +82,8 @@ rsync
 ruby 
 sharex 
 skyfonts 
+skype 
+slack 
 steam 
 sublimetext 
 teamspeak 
@@ -87,6 +91,7 @@ teamviewer
 thunderbird 
 tor-browser 
 treesizefree 
+typora 
 vcredist 
 vcredist 
 vim 
