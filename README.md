@@ -33,7 +33,7 @@
 - Emacs 24.5.0.20150611
 - etcher 1.4.4
 - ffmpeg 4.0
-- filezilla 3.33.0
+- filezilla 3.34.0
 - Firefox 60.0.2
 - fontbase 2.4.1
 - gimp 2.10.2
@@ -42,10 +42,10 @@
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.42.9747.1898
 - gptgen 1.1.20180516
-- grepwin 1.6.17
+- grepwin 1.8.1
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.41
+- hugo 0.42.1
 - jre8 8.0.171
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
@@ -56,23 +56,23 @@
 - kindle 1.23.50133
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
-- krita 4.0.3
+- krita 4.0.4
 - malwarebytes 3.5.1.252210542
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
-- neovim 0.2.2.20180420
+- neovim 0.3.0
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.4.0
-- nodejs.install 10.4.0
+- nodejs 10.4.1
+- nodejs.install 10.4.1
 - obs-studio 21.1
 - openssh 7.7.1.1
-- Opera 53.0.2907.88
+- Opera 53.0.2907.99
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.59.5135.421
+- PowerBI 2.59.5135.601
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.6.5
@@ -91,7 +91,7 @@
 - teamspeak 3.1.9
 - teamviewer 13.1.3629
 - thunderbird 52.8.0
-- tor-browser 7.5.4
+- tor-browser 7.5.5
 - treesizefree 4.1.2.3
 - typora 0.9.53
 - vcredist140 14.12.25810
@@ -99,7 +99,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180513
 - vlc 3.0.3
-- vscode 1.24.0
+- vscode 1.24.1
 - wget 1.19.4
 - winscp 5.13.2
 - winscp.install 5.13.2
@@ -117,13 +117,13 @@
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Discord|0.0.301
-- Figma|3.6.9
+- Figma|3.6.15
 - FontBase|2.3.0
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
-- Google Chrome|66.0.3359.181
+- Google Chrome|67.0.3396.87
 - Google2SRT|0.7.6
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
@@ -153,6 +153,7 @@
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.0 (only current user)|2.4.0
+- Opera Stable 53.0.2907.99|53.0.2907.99
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python Launcher|3.6.6295.0
@@ -164,9 +165,9 @@
 - Steam|2.10.91.91
 - Storyboarder 1.5.1|1.5.1
 - Strawberry Perl (64-bit)|5.26.2001
-- Telegram Desktop version 1.3|1.3
+- Telegram Desktop version 1.3.7|1.3.7
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Zoom|4.1
-- 60 applications not managed with Chocolatey.
+- 61 applications not managed with Chocolatey.
