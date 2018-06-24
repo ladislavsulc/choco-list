@@ -5,6 +5,7 @@
 - adb 27.0.1
 - adobereader 2015.007.20033.02
 - advanced-ip-scanner 2.5.3581
+- advor 0.3.1.2
 - ag 2.1.0.1
 - autohotkey 1.1.29.01
 - autohotkey.install 1.1.29.01
@@ -29,7 +30,7 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 51.4.66
+- dropbox 52.4.58
 - Emacs 24.5.0.20150611
 - etcher 1.4.4
 - ffmpeg 4.0
@@ -57,18 +58,18 @@
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.0.4
-- malwarebytes 3.5.1.252210542
+- malwarebytes 3.5.1.252210560
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.3.0
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.4.1
-- nodejs.install 10.4.1
+- nodejs 10.5.0
+- nodejs.install 10.5.0
 - obs-studio 21.1
 - openssh 7.7.1.1
-- Opera 53.0.2907.99
+- Opera 53.0.2907.106
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -82,9 +83,9 @@
 - rainmeter 4.1.0.2989
 - rsync 5.7.1.20180411
 - ruby 2.5.1.1
-- sharex 12.1.1
+- sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.23.0.10
+- skype 8.24.0.2
 - slack 3.2.0
 - steam 2.10.91.910301
 - sublimetext3 3.1.1
@@ -101,13 +102,13 @@
 - vlc 3.0.3
 - vscode 1.24.1
 - wget 1.19.4
-- winscp 5.13.2
-- winscp.install 5.13.2
+- winscp 5.13.3
+- winscp.install 5.13.3
 - wireshark 2.6.1
-- XnView 2.44
+- XnView 2.45
 - yarn 1.7.0
 - zoom 4.1.25010.0522
-- 106 packages installed.
+- 107 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Photoshop CC 2018|19.0
@@ -125,6 +126,7 @@
 - GitBook Editor|7.0.12
 - Google Chrome|67.0.3396.87
 - Google2SRT|0.7.6
+- HiSuite|8.0.1.300
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.1.03720
@@ -141,6 +143,8 @@
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
+- Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219|10.0.40219
+- Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219|10.0.40219
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
 - Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|11.0.61030.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
@@ -153,21 +157,23 @@
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.0 (only current user)|2.4.0
-- Opera Stable 53.0.2907.99|53.0.2907.99
+- NVIDIA PhysX|9.14.0702
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python Launcher|3.6.6295.0
 - Realtek High Definition Audio Driver|6.0.1.7982
+- Rocket League|
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.23|8.23
+- Skype verze 8.24|8.24
 - Slack|3.2.0
 - SopCast 4.2.0|4.2.0
 - Steam|2.10.91.91
-- Storyboarder 1.5.1|1.5.1
+- Storyboarder 1.6.1|1.6.1
 - Strawberry Perl (64-bit)|5.26.2001
+- TallowBundle|
 - Telegram Desktop version 1.3.7|1.3.7
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Zoom|4.1
-- 61 applications not managed with Chocolatey.
+- 66 applications not managed with Chocolatey.

@@ -3,6 +3,7 @@ ack
 adb 
 adobereader 
 advanced-ip-scanner 
+advor 
 ag 
 autohotkey 
 autohotkeyinstall 
