@@ -45,6 +45,8 @@ grepwin
 gtksharp 
 heidisql 
 hugo 
+hwinfo 
+hwinfoinstall 
 jre 
 KB 
 KB 
@@ -81,6 +83,7 @@ qbittorrent
 rainmeter 
 rsync 
 ruby 
+rufus 
 sharex 
 skyfonts 
 skype 
@@ -107,3 +110,7 @@ XnView
 yarn 
 zoom 
  packages installed
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolateyorg/compare
