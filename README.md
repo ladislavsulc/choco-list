@@ -26,15 +26,15 @@
 - discord 0.0.301
 - discord.install 0.0.301
 - docker 17.10.0
-- docker-for-windows 18.03.1.17513
+- docker-for-windows 18.06.0.19098
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dropbox 53.4.67
-- Emacs 24.5.0.20150611
+- emacs 26.1.0.20180701
 - etcher 1.4.4
-- ffmpeg 4.0.1
-- filezilla 3.34.0
+- ffmpeg 4.0.2
+- filezilla 3.35.1
 - Firefox 61.0.1
 - fontbase 2.5.3
 - gimp 2.10.4.20180712
@@ -46,10 +46,10 @@
 - grepwin 1.8.1
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.44
+- hugo 0.45
 - hwinfo 5.86
 - hwinfo.install 5.86
-- jre8 8.0.171
+- jre8 8.0.181
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20170509
@@ -59,23 +59,23 @@
 - kindle 1.23.50133
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
-- krita 4.1.0
-- malwarebytes 3.5.1.252210591
+- krita 4.1.1
+- malwarebytes 3.5.1.252210611
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
-- neovim 0.3.0
+- neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.6.0
-- nodejs.install 10.6.0
+- nodejs 10.7.0
+- nodejs.install 10.7.0
 - obs-studio 21.1.2
-- openssh 7.7.1.1
-- Opera 54.0.2952.54
+- openssh 7.7.2.1
+- Opera 54.0.2952.64
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.59.5135.781
+- PowerBI 2.60.5169.3201
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.0
@@ -90,10 +90,10 @@
 - skyfonts 5.9.2.0
 - skype 8.25.0.5
 - slack 3.2.0
-- steam 2.10.91.910301
+- steam 3.0.1.0
 - sublimetext3 3.1.1
 - teamspeak 3.1.9
-- teamviewer 13.1.3629
+- teamviewer 13.2.5287
 - thunderbird 52.9.1
 - tor-browser 7.5.6
 - treesizefree 4.2
@@ -110,7 +110,7 @@
 - wireshark 2.6.1
 - XnView 2.45
 - yarn 1.7.0
-- zoom 4.1.27702.0702
+- zoom 4.1.28245.0718
 - 110 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -142,7 +142,7 @@
 - Intel(R) Processor Graphics|23.20.16.4901
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - IntelR Driver &amp; Support Assistant|3.4.0.4
-- Java 8 Update 171|8.0.1710.11
+- Java 8 Update 181|8.0.1810.13
 - KeePass Password Safe 2.38|2.38
 - Local by Flywheel 2.2.4 (only current user)|2.2.4
 - Logitech Gaming Software 8.96|8.96.88
@@ -188,5 +188,4 @@
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows 7 USB/DVD Download Tool|1.0.30
-- Zoom|4.1
-- 76 applications not managed with Chocolatey.
+- 75 applications not managed with Chocolatey.

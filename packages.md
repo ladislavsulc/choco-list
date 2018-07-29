@@ -29,7 +29,7 @@ DotNet
 DotNet 
 dotnet 
 dropbox 
-Emacs 
+emacs 
 etcher 
 ffmpeg 
 filezilla 
