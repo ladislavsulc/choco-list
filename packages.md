@@ -17,8 +17,6 @@ chocolatey-windowsupdateextension
 cinebench 
 composer 
 coretemp 
-cpu-z 
-cpu-zinstall 
 crystaldiskmark 
 curl 
 discord 

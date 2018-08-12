@@ -1,6 +1,7 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.11
+- [Pending] Removing incomplete install for 'cpu-z.install'
 - ack 2.22
 - adb 28.0.0
 - adobereader 2015.007.20033.02
@@ -19,8 +20,6 @@
 - cinebench 15.038
 - composer 4.8.0
 - coretemp 1.12.1
-- cpu-z 1.85
-- cpu-z.install 1.85
 - crystaldiskmark 5.2.0
 - curl 7.61.0
 - discord 0.0.301
@@ -30,11 +29,11 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 53.4.67
+- dropbox 54.4.90
 - emacs 26.1.0.20180701
 - etcher 1.4.4
 - ffmpeg 4.0.2
-- filezilla 3.35.1
+- filezilla 3.35.2
 - Firefox 61.0.1
 - fontbase 2.5.3
 - gimp 2.10.4.20180712
@@ -60,22 +59,22 @@
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.1.1
-- malwarebytes 3.5.1.252210611
+- malwarebytes 3.5.1.252210620
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.7.0
-- nodejs.install 10.7.0
+- nodejs 10.8.0
+- nodejs.install 10.8.0
 - obs-studio 21.1.2
 - openssh 7.7.2.1
 - Opera 54.0.2952.64
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.60.5169.3201
+- PowerBI 2.60.5169.4101
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.0
@@ -88,30 +87,30 @@
 - rufus 3.1.0.20180625
 - sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.25.0.5
+- skype 8.27.0.85
 - slack 3.2.0
 - steam 3.0.1.0
 - sublimetext3 3.1.1
 - teamspeak 3.1.9
 - teamviewer 13.2.5287
-- thunderbird 52.9.1
+- thunderbird 60.0
 - tor-browser 7.5.6
 - treesizefree 4.2
 - typora 0.9.53
 - vcredist140 14.12.25810
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
-- visualstudiocode 1.23.1.20180513
+- visualstudiocode 1.23.1.20180730
 - vlc 3.0.3
 - vscode 1.25.1
 - wget 1.19.4
 - winscp 5.13.3
 - winscp.install 5.13.3
-- wireshark 2.6.1
+- wireshark 2.6.2
 - XnView 2.45
-- yarn 1.7.0
+- yarn 1.9.4
 - zoom 4.1.28245.0718
-- 110 packages installed.
+- 108 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Creative Cloud|4.6.0.384
@@ -121,17 +120,21 @@
 - Backup and Sync from Google|3.42.9858.3671
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
+- CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
 - Figma|3.6.15
+- Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GIMP 2.10.4|2.10.4
 - GitBook Editor|7.0.12
-- Google Chrome|67.0.3396.99
+- GNU Privacy Guard|2.2.7
+- Google Chrome|68.0.3440.106
 - Google2SRT|0.7.6
+- Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
 - HiSuite|8.0.1.300
 - HLSW v1.4.0.2|
@@ -162,13 +165,12 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Mozilla Maintenance Service|61.0.1
-- Mozilla Maintenance Service|52.9.0
-- Mozilla Thunderbird 52.9.1 (x86 cs)|52.9.1
+- Mozilla Thunderbird 60.0 (x86 cs)|60.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.1 (only current user)|2.4.1
 - NVIDIA PhysX|9.14.0702
+- Opera Stable 54.0.2952.71|54.0.2952.71
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -188,4 +190,4 @@
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 75 applications not managed with Chocolatey.
+- 78 applications not managed with Chocolatey.
