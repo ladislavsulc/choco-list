@@ -1,7 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.11
-- [Pending] Removing incomplete install for 'cpu-z.install'
 - ack 2.22
 - adb 28.0.0
 - adobereader 2015.007.20033.02
@@ -34,7 +33,7 @@
 - etcher 1.4.4
 - ffmpeg 4.0.2
 - filezilla 3.35.2
-- Firefox 61.0.1
+- Firefox 61.0.2
 - fontbase 2.5.3
 - gimp 2.10.4.20180712
 - git 2.18.0
@@ -59,18 +58,18 @@
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.1.1
-- malwarebytes 3.5.1.252210620
+- malwarebytes 3.5.1.252210640
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.8.0
-- nodejs.install 10.8.0
+- nodejs 10.9.0
+- nodejs.install 10.9.0
 - obs-studio 21.1.2
 - openssh 7.7.2.1
-- Opera 54.0.2952.64
+- Opera 55.0.2994.37
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -80,29 +79,29 @@
 - python 3.7.0
 - python2 2.7.15
 - python3 3.7.0
-- qbittorrent 4.1.1
+- qbittorrent 4.1.2
 - rainmeter 4.2.0.3111
 - rsync 5.7.1.20180411
 - ruby 2.5.1.2
 - rufus 3.1.0.20180625
 - sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.27.0.85
+- skype 8.28.0.41
 - slack 3.2.0
 - steam 3.0.1.0
 - sublimetext3 3.1.1
 - teamspeak 3.1.9
-- teamviewer 13.2.5287
+- teamviewer 13.2.14327
 - thunderbird 60.0
 - tor-browser 7.5.6
-- treesizefree 4.2
+- treesizefree 4.2.2
 - typora 0.9.53
 - vcredist140 14.12.25810
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.3
-- vscode 1.25.1
+- vscode 1.26.1
 - wget 1.19.4
 - winscp 5.13.3
 - winscp.install 5.13.3
@@ -123,7 +122,7 @@
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
-- Figma|3.6.15
+- Figma|63.3.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -165,12 +164,12 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
+- Microsoft Visual Studio Code|1.25.1
 - Mozilla Thunderbird 60.0 (x86 cs)|60.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.1 (only current user)|2.4.1
 - NVIDIA PhysX|9.14.0702
-- Opera Stable 54.0.2952.71|54.0.2952.71
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -178,6 +177,7 @@
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.28|8.28
 - Slack|3.2.0
 - SopCast 4.2.0|4.2.0
 - StarDict (remove only)|
@@ -190,4 +190,4 @@
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 78 applications not managed with Chocolatey.
+- 79 applications not managed with Chocolatey.
