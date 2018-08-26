@@ -17,6 +17,7 @@ chocolatey-windowsupdateextension
 cinebench 
 composer 
 coretemp 
+cryptomator 
 crystaldiskmark 
 curl 
 discord 
@@ -78,6 +79,8 @@ python
 python 
 python 
 qbittorrent 
+radmin-server 
+radmin-viewer 
 rainmeter 
 rsync 
 ruby 
