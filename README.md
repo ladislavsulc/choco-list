@@ -25,15 +25,15 @@
 - discord 0.0.301
 - discord.install 0.0.301
 - docker 18.06.1
-- docker-for-windows 18.06.0.19098
+- docker-for-windows 18.06.1.19507
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 55.4.171
+- dropbox 56.4.94
 - emacs 26.1.0.20180701
 - etcher 1.4.4
 - ffmpeg 4.0.2
-- filezilla 3.35.2
+- filezilla 3.36.0
 - Firefox 61.0.2
 - fontbase 2.5.3
 - gimp 2.10.6
@@ -59,7 +59,7 @@
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.1.1
-- malwarebytes 3.5.1.252210651
+- malwarebytes 3.5.1.252210660
 - mc 4.8.19.204
 - mysql.workbench 6.3.8
 - nano 2.5.3
@@ -68,7 +68,7 @@
 - nmap 7.70
 - nodejs 10.9.0
 - nodejs.install 10.9.0
-- obs-studio 21.1.2
+- obs-studio 22.0.1
 - openssh 7.7.2.1
 - Opera 55.0.2994.44
 - performancetest 9.0.1025
@@ -89,7 +89,7 @@
 - rufus 3.1.0.20180625
 - sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.28.0.41
+- skype 8.29.0.50
 - slack 3.2.0
 - steam 3.0.1.0
 - sublimetext3 3.1.1
@@ -103,12 +103,12 @@
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.3
+- vlc 3.0.4
 - vscode 1.26.1
 - wget 1.19.4
-- winscp 5.13.3
-- winscp.install 5.13.3
-- wireshark 2.6.2
+- winscp 5.13.4
+- winscp.install 5.13.4
+- wireshark 2.6.3
 - XnView 2.45
 - yarn 1.9.4
 - zoom 4.1.30528.0821
@@ -118,7 +118,8 @@
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
-- Aplikace IntelR PROSet/Wireless|20.30.1
+- Affinity Publisher Public Beta|1.7.0.57
+- Aplikace IntelR PROSet/Wireless|20.60.0
 - Backup and Sync from Google|3.42.9858.3671
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
@@ -140,12 +141,13 @@
 - HiSuite|8.0.1.300
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
-- Intel(R) Computing Improvement Program|2.1.03720
+- Intel(R) Computing Improvement Program|2.2.03942
 - Intel(R) Management Engine Components|11.7.0.1067
-- Intel(R) Network Connections 23.1.100.0|23.1.100.0
-- Intel(R) Processor Graphics|23.20.16.4901
+- Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
+- Intel(R) Processor Graphics|24.20.100.6194
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- IntelR Driver &amp; Support Assistant|3.4.0.4
+- Intel(R) Wireless Bluetooth(R)|20.60.0
+- IntelR Driver &amp; Support Assistant|3.5.0.3
 - Java 8 Update 181|8.0.1810.13
 - KeePass Password Safe 2.38|2.38
 - Local by Flywheel 2.2.4 (only current user)|2.2.4
@@ -173,24 +175,24 @@
 - NVIDIA PhysX|9.14.0702
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.118.1.8
+- Overwolf|0.118.1.11
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6386.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.28|8.28
 - Slack|3.2.0
 - SopCast 4.2.0|4.2.0
+- Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
 - Steam|2.10.91.91
 - Storyboarder 1.6.1|1.6.1
 - Strawberry Perl (64-bit)|5.26.2001
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.3.10|1.3.10
+- Telegram Desktop version 1.3.14|1.3.14
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 79 applications not managed with Chocolatey.
+- 81 applications not managed with Chocolatey.
