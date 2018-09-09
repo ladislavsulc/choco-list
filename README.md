@@ -2,8 +2,8 @@
 
 - Chocolatey v0.10.11
 - ack 2.22
-- adb 28.0.0
-- adobereader 2015.007.20033.02
+- adb 28.0.1
+- adobereader 2018.011.20058
 - advanced-ip-scanner 2.5.3646
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -21,7 +21,7 @@
 - coretemp 1.12.1
 - cryptomator 1.3.3
 - crystaldiskmark 5.2.0
-- curl 7.61.0
+- curl 7.61.1
 - discord 0.0.301
 - discord.install 0.0.301
 - docker 18.06.1
@@ -34,8 +34,9 @@
 - etcher 1.4.4
 - ffmpeg 4.0.2
 - filezilla 3.36.0
-- Firefox 61.0.2
+- Firefox 62.0
 - fontbase 2.5.3
+- fzf 0.17.4
 - gimp 2.10.6
 - git 2.18.0
 - git.install 2.18.0
@@ -45,9 +46,12 @@
 - grepwin 1.8.1
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.47.1
-- hwinfo 5.86
-- hwinfo.install 5.86
+- hugo 0.48
+- hwinfo 5.88
+- hwinfo.install 5.88
+- imagemagick 7.0.8.10
+- imagemagick.app 7.0.8.10
+- jq 1.5
 - jre8 8.0.181
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
@@ -59,18 +63,19 @@
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.1.1
-- malwarebytes 3.5.1.252210660
+- malwarebytes 3.5.1.252210672
 - mc 4.8.19.204
+- mkcert 1.1.1
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.9.0
-- nodejs.install 10.9.0
+- nodejs 10.10.0
+- nodejs.install 10.10.0
 - obs-studio 22.0.1
 - openssh 7.7.2.1
-- Opera 55.0.2994.44
+- Opera 55.0.2994.56
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -84,27 +89,30 @@
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
+- ripgrep 0.9.0
 - rsync 5.7.1.20180411
 - ruby 2.5.1.2
 - rufus 3.1.0.20180625
 - sharex 12.2.0
 - skyfonts 5.9.2.0
 - skype 8.29.0.50
-- slack 3.2.0
+- slack 3.3.1
 - steam 3.0.1.0
 - sublimetext3 3.1.1
 - teamspeak 3.2.1
 - teamviewer 13.2.14327
 - thunderbird 60.0
-- tor-browser 7.5.6
+- tor-browser 8.0
 - treesizefree 4.2.2
 - typora 0.9.53
 - vcredist140 14.12.25810
+- vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.4
-- vscode 1.26.1
+- vscode 1.27.1
+- webp 1.0.0
 - wget 1.19.4
 - winscp 5.13.4
 - winscp.install 5.13.4
@@ -112,9 +120,10 @@
 - XnView 2.45
 - yarn 1.9.4
 - zoom 4.1.30528.0821
-- 111 packages installed.
+- 119 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
+- Adobe Acrobat Reader DC MUI|18.011.20058
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -134,7 +143,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|68.0.3440.106
+- Google Chrome|69.0.3497.81
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -168,6 +177,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
+- Microsoft Visual Studio Code|1.27.1
 - Mozilla Thunderbird 60.0 (x86 cs)|60.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
@@ -181,7 +191,7 @@
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
-- Slack|3.2.0
+- Slack|3.3.1
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -193,6 +203,8 @@
 - Telegram Desktop version 1.3.14|1.3.14
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
+- Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
+- Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 81 applications not managed with Chocolatey.
+- 85 applications not managed with Chocolatey.

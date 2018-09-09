@@ -34,6 +34,7 @@ ffmpeg
 filezilla 
 Firefox 
 fontbase 
+fzf 
 gimp 
 git 
 gitinstall 
@@ -46,6 +47,9 @@ heidisql
 hugo 
 hwinfo 
 hwinfoinstall 
+imagemagick 
+imagemagickapp 
+jq 
 jre 
 KB 
 KB 
@@ -59,6 +63,7 @@ kodi
 krita 
 malwarebytes 
 mc 
+mkcert 
 mysqlworkbench 
 nano 
 neovim 
@@ -82,6 +87,7 @@ qbittorrent
 radmin-server 
 radmin-viewer 
 rainmeter 
+ripgrep 
 rsync 
 ruby 
 rufus 
@@ -99,10 +105,12 @@ treesizefree
 typora 
 vcredist 
 vcredist 
+vcredist 
 vim 
 visualstudiocode 
 vlc 
 vscode 
+webp 
 wget 
 winscp 
 winscpinstall 
