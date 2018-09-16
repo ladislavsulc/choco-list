@@ -29,7 +29,7 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 56.4.94
+- dropbox 57.4.89
 - emacs 26.1.0.20180701
 - etcher 1.4.4
 - ffmpeg 4.0.2
@@ -38,8 +38,8 @@
 - fontbase 2.5.3
 - fzf 0.17.4
 - gimp 2.10.6
-- git 2.18.0
-- git.install 2.18.0
+- git 2.19.0
+- git.install 2.19.0
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.42.9747.1898
 - gptgen 1.1.20180516
@@ -58,14 +58,14 @@
 - KB2999226 1.0.20170509
 - KB3033929 1.0.3
 - KB3035131 1.0.1
-- keepass 2.39.1
+- keepass 2.40
 - kindle 1.23.50133
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
 - krita 4.1.1
-- malwarebytes 3.5.1.252210672
+- malwarebytes 3.5.1.252210685
 - mc 4.8.19.204
-- mkcert 1.1.1
+- mkcert 1.1.2
 - mysql.workbench 6.3.8
 - nano 2.5.3
 - neovim 0.3.1
@@ -73,13 +73,14 @@
 - nmap 7.70
 - nodejs 10.10.0
 - nodejs.install 10.10.0
-- obs-studio 22.0.1
+- nvm.portable 1.1.7
+- obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 55.0.2994.56
+- Opera 55.0.2994.61
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
-- PowerBI 2.60.5169.4101
+- PowerBI 2.61.5192.541
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.0
@@ -89,13 +90,14 @@
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
-- ripgrep 0.9.0
+- ricochet 1.1.4
+- ripgrep 0.10.0
 - rsync 5.7.1.20180411
 - ruby 2.5.1.2
-- rufus 3.1.0.20180625
+- rufus 3.2
 - sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.29.0.50
+- skype 8.30.0.50
 - slack 3.3.1
 - steam 3.0.1.0
 - sublimetext3 3.1.1
@@ -103,7 +105,7 @@
 - teamviewer 13.2.14327
 - thunderbird 60.0
 - tor-browser 8.0
-- treesizefree 4.2.2
+- treesizefree 4.2.2.1
 - typora 0.9.53
 - vcredist140 14.12.25810
 - vcredist2010 10.0.40219.2
@@ -111,7 +113,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.4
-- vscode 1.27.1
+- vscode 1.27.2
 - webp 1.0.0
 - wget 1.19.4
 - winscp 5.13.4
@@ -120,7 +122,7 @@
 - XnView 2.45
 - yarn 1.9.4
 - zoom 4.1.30528.0821
-- 119 packages installed.
+- 121 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|18.011.20058
@@ -143,7 +145,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|69.0.3497.81
+- Google Chrome|69.0.3497.92
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -159,7 +161,7 @@
 - IntelR Driver &amp; Support Assistant|3.5.0.3
 - Java 8 Update 181|8.0.1810.13
 - KeePass Password Safe 2.38|2.38
-- Local by Flywheel 2.2.4 (only current user)|2.2.4
+- Local by Flywheel 2.3.3|2.3.3
 - Logitech Gaming Software 8.96|8.96.88
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
@@ -177,7 +179,6 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Microsoft Visual Studio Code|1.27.1
 - Mozilla Thunderbird 60.0 (x86 cs)|60.0
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
@@ -203,6 +204,7 @@
 - Telegram Desktop version 1.3.14|1.3.14
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
+- TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Win10Pcap|10.2.5002

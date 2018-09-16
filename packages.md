@@ -71,6 +71,7 @@ nexus-root-toolkit
 nmap 
 nodejs 
 nodejsinstall 
+nvmportable 
 obs-studio 
 openssh 
 Opera 
@@ -87,6 +88,7 @@ qbittorrent
 radmin-server 
 radmin-viewer 
 rainmeter 
+ricochet 
 ripgrep 
 rsync 
 ruby 
