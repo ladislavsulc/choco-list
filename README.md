@@ -3,7 +3,7 @@
 - Chocolatey v0.10.11
 - ack 2.22
 - adb 28.0.1
-- adobereader 2018.011.20058
+- adobereader 2018.011.20063
 - advanced-ip-scanner 2.5.3646
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -17,7 +17,7 @@
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.2
 - cinebench 15.038
-- composer 4.8.0
+- composer 4.9.0
 - coretemp 1.12.1
 - cryptomator 1.3.4
 - crystaldiskmark 5.2.0
@@ -29,7 +29,7 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 58.3.88
+- dropbox 58.4.92
 - emacs 26.1.0.20180701
 - etcher 1.4.4
 - ffmpeg 4.0.2
@@ -62,8 +62,8 @@
 - kindle 1.23.50133
 - kitty 0.70.0.5
 - kodi 17.6.0.20171213
-- krita 4.1.1
-- malwarebytes 3.6.1.271110697
+- krita 4.1.3
+- malwarebytes 3.6.1.271110709
 - mc 4.8.19.204
 - mkcert 1.1.2
 - mysql.workbench 6.3.8
@@ -76,7 +76,7 @@
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 55.0.2994.61
+- Opera 56.0.3051.31
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -97,7 +97,7 @@
 - rufus 3.3
 - sharex 12.2.0
 - skyfonts 5.9.2.0
-- skype 8.30.0.50
+- skype 8.31.0.92
 - slack 3.3.1
 - steam 3.0.1.0
 - sublimetext3 3.1.1
@@ -106,7 +106,7 @@
 - thunderbird 60.0
 - tor-browser 8.0.1
 - treesizefree 4.2.2.1
-- typora 0.9.57
+- typora 0.9.58
 - vcredist140 14.12.25810
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
@@ -120,8 +120,8 @@
 - winscp.install 5.13.4
 - wireshark 2.6.3
 - XnView 2.45
-- yarn 1.9.4
-- zoom 4.1.30528.0821
+- yarn 1.10.0
+- zoom 4.1.33259.0925
 - 121 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -134,10 +134,10 @@
 - Backup and Sync from Google|3.42.9858.3671
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
+- Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
-- Dropbox|58.3.88
 - Figma|63.3.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
@@ -162,7 +162,7 @@
 - IntelR Driver &amp; Support Assistant|3.5.0.3
 - Java 8 Update 181|8.0.1810.13
 - KeePass Password Safe 2.38|2.38
-- Local by Flywheel 2.3.3|2.3.3
+- Local by Flywheel 2.4.1|2.4.1
 - Logitech Gaming Software 8.96|8.96.88
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
@@ -187,7 +187,7 @@
 - NVIDIA PhysX|9.14.0702
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.118.1.11
+- Overwolf|0.118.1.13
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6386.0
 - Realtek High Definition Audio Driver|6.0.1.7982
@@ -203,12 +203,13 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.3.14|1.3.14
+- Telegram Desktop version 1.4|1.4
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
+- Vivaldi|2.0.1309.29
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 87 applications not managed with Chocolatey.
+- 88 applications not managed with Chocolatey.
