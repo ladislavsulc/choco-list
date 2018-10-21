@@ -29,7 +29,8 @@
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
-- dropbox 59.4.93
+- dotnet4.7.1 4.7.2558.0
+- dropbox 60.3.89
 - emacs 26.1.0.20180701
 - etcher 1.4.5
 - ffmpeg 4.0.2
@@ -47,15 +48,15 @@
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
 - hugo 0.49
-- hwinfo 5.88
-- hwinfo.install 5.88
+- hwinfo 5.90
+- hwinfo.install 5.90
 - imagemagick 7.0.8.10
 - imagemagick.app 7.0.8.10
 - jq 1.5
 - jre8 8.0.181
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
-- KB2999226 1.0.20170509
+- KB2999226 1.0.20181019
 - KB3033929 1.0.4
 - KB3035131 1.0.2
 - keepass 2.40
@@ -63,7 +64,7 @@
 - kitty 0.70.0.6
 - kodi 17.6.0.20171213
 - krita 4.1.5
-- malwarebytes 3.6.1.271110719
+- malwarebytes 3.6.1.271110743
 - mc 4.8.19.204
 - mkcert 1.1.2
 - mysql.workbench 6.3.8
@@ -71,21 +72,21 @@
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.11.0
-- nodejs.install 10.11.0
+- nodejs 10.12.0
+- nodejs.install 10.12.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 56.0.3051.36
+- Opera 56.0.3051.52
 - performancetest 9.0.1025
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - PowerBI 2.62.5222.761
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
-- python 3.7.0
+- python 3.7.1
 - python2 2.7.15
-- python3 3.7.0
+- python3 3.7.1
 - qbittorrent 4.1.3
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
@@ -107,29 +108,29 @@
 - tor-browser 8.0.2
 - treesizefree 4.2.2.1
 - typora 0.9.58
-- vcredist140 14.12.25810
+- vcredist140 14.15.26706
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.4
-- vscode 1.28.1
+- vscode 1.28.2
 - webp 1.0.0
 - wget 1.19.4
 - winscp 5.13.4
 - winscp.install 5.13.4
 - wireshark 2.6.4
-- XnView 2.45
+- XnView 2.46
 - yarn 1.10.1
 - zoom 4.1.33259.0925
-- 121 packages installed.
+- 122 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.008.20074
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
-- Affinity Publisher Public Beta|1.7.0.139
+- Affinity Publisher Public Beta|1.7.0.145
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - Backup and Sync from Google|3.42.9858.3671
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
@@ -146,14 +147,14 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|69.0.3497.100
+- Google Chrome|70.0.3538.67
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
 - HiSuite|8.0.1.303
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
-- Intel(R) Computing Improvement Program|2.2.04036
+- Intel(R) Computing Improvement Program|2.4.04140
 - Intel(R) Management Engine Components|1824.12.0.1140
 - Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
 - Intel(R) Processor Graphics|24.20.100.6286
@@ -162,7 +163,8 @@
 - IntelR Driver &amp; Support Assistant|3.5.1.7
 - Java 8 Update 181|8.0.1810.13
 - KeePass Password Safe 2.38|2.38
-- Local by Flywheel 2.4.2|2.4.2
+- Laragon 3.5.0|3.5.0.181017
+- Local by Flywheel 2.4.3|2.4.3
 - Logitech Gaming Software 8.96|8.96.88
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
@@ -178,21 +180,20 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810|14.12.25810.0
-- Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810|14.12.25810.0
-- Microsoft Visual Studio Code|1.28.1
+- Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
+- Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
 - Mozilla Maintenance Service|62.0.3
 - Mozilla Thunderbird 60.2.1 (x86 cs)|60.2.1
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.2 (only current user)|2.4.2
 - NVIDIA PhysX|9.14.0702
-- Opera Stable 56.0.3051.36|56.0.3051.36
+- Opera Stable 56.0.3051.52|56.0.3051.52
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.118.3.8
 - Python 3.6.5 (64-bit)|3.6.5150.0
-- Python Launcher|3.7.6386.0
+- Python Launcher|3.7.6501.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
@@ -213,7 +214,7 @@
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- Vivaldi|2.0.1309.37
+- Vivaldi|2.0.1309.42
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
 - 92 applications not managed with Chocolatey.
