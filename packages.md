@@ -5,8 +5,6 @@ adobereader
 advanced-ip-scanner 
 advor 
 ag 
-autohotkey 
-autohotkeyinstall 
 autohotkeyportable 
 Bitnami-XAMPP 
 bsplayer 

@@ -7,8 +7,6 @@
 - advanced-ip-scanner 2.5.3646
 - advor 0.3.1.2
 - ag 2.1.0.1
-- autohotkey 1.1.30.00
-- autohotkey.install 1.1.30.00
 - autohotkey.portable 1.1.30.00
 - Bitnami-XAMPP 7.2.1
 - bsplayer 2.71.1081
@@ -30,19 +28,19 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 60.3.89
+- dropbox 60.4.107
 - emacs 26.1.0.20180701
 - etcher 1.4.5
 - ffmpeg 4.0.2
-- filezilla 3.37.4
-- Firefox 62.0.3
+- filezilla 3.38.1
+- Firefox 63.0
 - fontbase 2.6.3
 - fzf 0.17.5
 - gimp 2.10.6
 - git 2.19.1
 - git.install 2.19.1
 - gitbook-editor 7.0.12
-- google-backup-and-sync 3.42.9747.1898
+- google-backup-and-sync 3.42.9858.3671
 - gptgen 1.1.20180516
 - grepwin 1.9.0
 - gtksharp 2.12.45
@@ -64,7 +62,7 @@
 - kitty 0.70.0.6
 - kodi 17.6.0.20171213
 - krita 4.1.5
-- malwarebytes 3.6.1.271110743
+- malwarebytes 3.6.1.271110757
 - mc 4.8.19.204
 - mkcert 1.1.2
 - mysql.workbench 6.3.8
@@ -94,10 +92,10 @@
 - ricochet 1.1.4
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
-- ruby 2.5.1.2
+- ruby 2.5.3.1
 - rufus 3.3
 - sharex 12.2.0
-- skyfonts 5.9.2.0
+- skyfonts 5.9.5.0
 - skype 8.32.0.53
 - slack 3.3.1
 - steam 3.0.1.0
@@ -123,16 +121,16 @@
 - XnView 2.46
 - yarn 1.10.1
 - zoom 4.1.33259.0925
-- 122 packages installed.
+- 120 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.008.20074
+- Adobe Acrobat Reader DC MUI|19.008.20080
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
 - Affinity Publisher Public Beta|1.7.0.145
 - Aplikace IntelR PROSet/Wireless|20.80.0
-- Backup and Sync from Google|3.42.9858.3671
+- AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Composer - Php Dependency Manager|
@@ -147,7 +145,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|70.0.3538.67
+- Google Chrome|70.0.3538.77
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -182,8 +180,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
-- Mozilla Maintenance Service|62.0.3
+- Mozilla Maintenance Service|63.0
 - Mozilla Thunderbird 60.2.1 (x86 cs)|60.2.1
+- MySQL Compare 1|1.0.1.4
+- MySQL Data Compare 1|1.0.1.1
+- MySQL Workbench 8.0 CE|8.0.13
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.2 (only current user)|2.4.2
@@ -197,6 +198,7 @@
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
+- SkyFontst|5.9.2.1
 - Slack|3.3.3
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -214,7 +216,10 @@
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- Vivaldi|2.0.1309.42
+- Vivaldi|2.1.1337.36
+- WD Discovery|3.0.384
+- WD Drive Utilities|2.0.0.48
+- WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 92 applications not managed with Chocolatey.
+- 99 applications not managed with Chocolatey.
