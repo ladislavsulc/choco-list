@@ -7,8 +7,12 @@
 - advanced-ip-scanner 2.5.3646
 - advor 0.3.1.2
 - ag 2.1.0.1
-- autohotkey.portable 1.1.30.00
+- autohotkey.portable 1.1.30.01
 - Bitnami-XAMPP 7.2.1
+- Boxstarter 2.12.0
+- Boxstarter.Bootstrapper 2.12.0
+- Boxstarter.Common 2.12.0
+- Boxstarter.WinConfig 2.12.0
 - bsplayer 2.71.1081
 - chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
@@ -19,21 +23,21 @@
 - coretemp 1.12.1
 - cryptomator 1.3.4
 - crystaldiskmark 5.2.0
-- curl 7.61.1
+- curl 7.62.0
 - discord 0.0.301
 - discord.install 0.0.301
-- docker 18.06.1
+- docker 18.09.0
 - docker-for-windows 18.06.1.19507
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 60.4.107
+- dropbox 61.4.95
 - emacs 26.1.0.20180701
-- etcher 1.4.5
+- etcher 1.4.6
 - ffmpeg 4.0.2
 - filezilla 3.38.1
-- Firefox 63.0
+- Firefox 63.0.1
 - fontbase 2.6.3
 - fzf 0.17.5
 - gimp 2.10.6
@@ -51,7 +55,7 @@
 - imagemagick 7.0.8.10
 - imagemagick.app 7.0.8.10
 - jq 1.5
-- jre8 8.0.181
+- jre8 8.0.191
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -62,7 +66,7 @@
 - kitty 0.70.0.6
 - kodi 17.6.0.20171213
 - krita 4.1.5
-- malwarebytes 3.6.1.271110757
+- malwarebytes 3.6.1.271110779
 - mc 4.8.19.204
 - mkcert 1.1.2
 - mysql.workbench 6.3.8
@@ -70,15 +74,16 @@
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.12.0
-- nodejs.install 10.12.0
+- nodejs 10.13.0
+- nodejs.install 10.13.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 56.0.3051.52
-- performancetest 9.0.1025
+- Opera 56.0.3051.99
+- performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
+- poedit 2.1.1
 - PowerBI 2.62.5222.761
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
@@ -94,18 +99,18 @@
 - rsync 5.7.1.20180411
 - ruby 2.5.3.1
 - rufus 3.3
-- sharex 12.2.0
+- sharex 12.3.0
 - skyfonts 5.9.5.0
-- skype 8.32.0.53
-- slack 3.3.1
+- skype 8.33.0.50
+- slack 3.3.3
 - steam 3.0.1.0
 - sublimetext3 3.1.1
 - teamspeak 3.2.1
 - teamviewer 13.2.26558
-- thunderbird 60.2.1
-- tor-browser 8.0.2
+- thunderbird 60.3.0
+- tor-browser 8.0.3
 - treesizefree 4.2.2.1
-- typora 0.9.58
+- typora 0.9.60
 - vcredist140 14.15.26706
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
@@ -119,16 +124,16 @@
 - winscp.install 5.13.4
 - wireshark 2.6.4
 - XnView 2.46
-- yarn 1.10.1
-- zoom 4.1.33259.0925
-- 120 packages installed.
+- yarn 1.12.3
+- zoom 4.1.34583.1107
+- 125 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.008.20080
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
-- Affinity Publisher Public Beta|1.7.0.145
+- Affinity Publisher Public Beta|1.7.0.162
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
@@ -159,7 +164,7 @@
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|20.70.0
 - IntelR Driver &amp; Support Assistant|3.5.1.7
-- Java 8 Update 181|8.0.1810.13
+- Java 8 Update 191|8.0.1910.12
 - KeePass Password Safe 2.38|2.38
 - Laragon 3.5.0|3.5.0.181017
 - Local by Flywheel 2.4.3|2.4.3
@@ -180,8 +185,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
-- Mozilla Maintenance Service|63.0
-- Mozilla Thunderbird 60.2.1 (x86 cs)|60.2.1
+- Mozilla Maintenance Service|63.0.1
+- Mozilla Thunderbird 60.3.0 (x86 cs)|60.3.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - MySQL Workbench 8.0 CE|8.0.13
@@ -189,16 +194,15 @@
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.2 (only current user)|2.4.2
 - NVIDIA PhysX|9.14.0702
-- Opera Stable 56.0.3051.52|56.0.3051.52
+- Opera Stable 56.0.3051.99|56.0.3051.99
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.118.3.8
+- Overwolf|0.119.1.19
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6501.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
-- SkyFontst|5.9.2.1
 - Slack|3.3.3
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -222,4 +226,4 @@
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 99 applications not managed with Chocolatey.
+- 98 applications not managed with Chocolatey.

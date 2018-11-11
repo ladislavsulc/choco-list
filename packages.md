@@ -7,6 +7,10 @@ advor
 ag 
 autohotkeyportable 
 Bitnami-XAMPP 
+Boxstarter 
+BoxstarterBootstrapper 
+BoxstarterCommon 
+BoxstarterWinConfig 
 bsplayer 
 chocolatey 
 chocolatey-coreextension 
@@ -77,6 +81,7 @@ Opera
 performancetest 
 php 
 Pinta 
+poedit 
 PowerBI 
 putty 
 puttyportable 
