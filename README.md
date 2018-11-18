@@ -32,15 +32,15 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 61.4.95
+- dropbox 62.3.99
 - emacs 26.1.0.20180701
 - etcher 1.4.6
-- ffmpeg 4.0.2
+- ffmpeg 4.1
 - filezilla 3.38.1
-- Firefox 63.0.1
+- Firefox 63.0.3
 - fontbase 2.6.3
 - fzf 0.17.5
-- gimp 2.10.6
+- gimp 2.10.8
 - git 2.19.1
 - git.install 2.19.1
 - gitbook-editor 7.0.12
@@ -49,13 +49,13 @@
 - grepwin 1.9.0
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.49
+- hugo 0.51
 - hwinfo 5.90
 - hwinfo.install 5.90
 - imagemagick 7.0.8.10
 - imagemagick.app 7.0.8.10
 - jq 1.5
-- jre8 8.0.191
+- jre8 8.0.191.20181114
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -66,7 +66,7 @@
 - kitty 0.70.0.6
 - kodi 17.6.0.20171213
 - krita 4.1.5
-- malwarebytes 3.6.1.271110779
+- malwarebytes 3.6.1.271110790
 - mc 4.8.19.204
 - mkcert 1.1.2
 - mysql.workbench 6.3.8
@@ -129,7 +129,7 @@
 - 125 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.008.20080
+- Adobe Acrobat Reader DC MUI|19.008.20081
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -142,7 +142,7 @@
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
-- Figma|65.1.0
+- Figma|66.2.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -150,7 +150,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|70.0.3538.77
+- Google Chrome|70.0.3538.102
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -165,6 +165,7 @@
 - Intel(R) Wireless Bluetooth(R)|20.70.0
 - IntelR Driver &amp; Support Assistant|3.5.1.7
 - Java 8 Update 191|8.0.1910.12
+- Java 8 Update 191 (64-bit)|8.0.1910.12
 - KeePass Password Safe 2.38|2.38
 - Laragon 3.5.0|3.5.0.181017
 - Local by Flywheel 2.4.3|2.4.3
@@ -185,19 +186,19 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
-- Mozilla Maintenance Service|63.0.1
-- Mozilla Thunderbird 60.3.0 (x86 cs)|60.3.0
+- Mozilla Maintenance Service|63.0.3
+- Mozilla Thunderbird 60.3.1 (x86 cs)|60.3.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - MySQL Workbench 8.0 CE|8.0.13
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
-- Nucleo 2.4.2 (only current user)|2.4.2
+- Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
 - Opera Stable 56.0.3051.99|56.0.3051.99
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.119.1.19
+- Overwolf|0.119.2.19
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6501.0
 - Realtek High Definition Audio Driver|6.0.1.7982
@@ -220,10 +221,13 @@
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- Vivaldi|2.1.1337.36
 - WD Discovery|3.0.384
 - WD Drive Utilities|2.0.0.48
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
 - 98 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
