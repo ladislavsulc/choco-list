@@ -51,7 +51,6 @@ hugo
 hwinfo 
 hwinfoinstall 
 imagemagick 
-imagemagickapp 
 jq 
 jre 
 KB 
@@ -64,7 +63,6 @@ kindle
 kitty 
 kodi 
 krita 
-malwarebytes 
 mc 
 mkcert 
 mysqlworkbench 

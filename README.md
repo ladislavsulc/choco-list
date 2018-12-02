@@ -24,36 +24,35 @@
 - cryptomator 1.3.4
 - crystaldiskmark 5.2.0
 - curl 7.62.0
-- discord 0.0.301
-- discord.install 0.0.301
+- discord 0.0.301.20181127
+- discord.install 0.0.301.20181127
 - docker 18.09.0
 - docker-for-windows 18.06.1.19507
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 62.3.99
+- dropbox 62.4.103
 - emacs 26.1.0.20180701
-- etcher 1.4.6
+- etcher 1.4.8
 - ffmpeg 4.1
-- filezilla 3.38.1
+- filezilla 3.39.0
 - Firefox 63.0.3
-- fontbase 2.6.3
+- fontbase 2.6.4
 - fzf 0.17.5
 - gimp 2.10.8
-- git 2.19.1
-- git.install 2.19.1
+- git 2.19.2
+- git.install 2.19.2
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.42.9858.3671
 - gptgen 1.1.20180516
 - grepwin 1.9.0
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.51
-- hwinfo 5.90
-- hwinfo.install 5.90
-- imagemagick 7.0.8.10
-- imagemagick.app 7.0.8.10
+- hugo 0.52
+- hwinfo 5.92
+- hwinfo.install 5.92
+- imagemagick 7.0.8.14
 - jq 1.5
 - jre8 8.0.191.20181114
 - KB2919355 1.0.20160915
@@ -63,28 +62,27 @@
 - KB3035131 1.0.2
 - keepass 2.40
 - kindle 1.23.50133
-- kitty 0.70.0.6
+- kitty 0.70.0.7
 - kodi 17.6.0.20171213
 - krita 4.1.5
-- malwarebytes 3.6.1.271110790
-- mc 4.8.19.204
+- mc 4.8.21.209
 - mkcert 1.1.2
-- mysql.workbench 6.3.8
+- mysql.workbench 8.0.13.20181109
 - nano 2.5.3
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 10.13.0
-- nodejs.install 10.13.0
+- nodejs 11.3.0
+- nodejs.install 11.3.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 56.0.3051.99
+- Opera 57.0.3098.76
 - performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - poedit 2.1.1
-- PowerBI 2.62.5222.761
+- PowerBI 2.64.5285.741
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.1
@@ -126,7 +124,7 @@
 - XnView 2.46
 - yarn 1.12.3
 - zoom 4.1.34583.1107
-- 125 packages installed.
+- 123 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.008.20081
@@ -142,6 +140,7 @@
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
+- Etcher 1.4.6 (only current user)|1.4.6
 - Figma|66.2.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
@@ -150,7 +149,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|70.0.3538.102
+- Google Chrome|70.0.3538.110
 - Google2SRT|0.7.6
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -170,8 +169,10 @@
 - Laragon 3.5.0|3.5.0.181017
 - Local by Flywheel 2.4.3|2.4.3
 - Logitech Gaming Software 8.96|8.96.88
+- Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
+- Microsoft Power BI Desktop (x64)|2.62.5222.761
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -187,7 +188,7 @@
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
 - Mozilla Maintenance Service|63.0.3
-- Mozilla Thunderbird 60.3.1 (x86 cs)|60.3.1
+- Mozilla Thunderbird 60.3.2 (x86 cs)|60.3.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - MySQL Workbench 8.0 CE|8.0.13
@@ -195,15 +196,16 @@
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
-- Opera Stable 56.0.3051.99|56.0.3051.99
+- Opera Stable 57.0.3098.76|57.0.3098.76
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.119.2.19
+- Overwolf|0.119.4.24
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6501.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.34|8.34
 - Slack|3.3.3
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -221,13 +223,10 @@
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- WD Discovery|3.0.384
+- WD Discovery|3.2.256
 - WD Drive Utilities|2.0.0.48
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
-- 98 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- Xenu's Link Sleuth|1.3.9
+- 103 applications not managed with Chocolatey.
