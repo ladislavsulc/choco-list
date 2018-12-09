@@ -16,6 +16,7 @@
 - bsplayer 2.71.1081
 - chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
+- chocolatey-misc-helpers.extension 0.0.1
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.3
 - cinebench 15.038
@@ -27,7 +28,8 @@
 - discord 0.0.301.20181127
 - discord.install 0.0.301.20181127
 - docker 18.09.0
-- docker-for-windows 18.06.1.19507
+- docker-desktop 2.0.0.0
+- docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
@@ -52,7 +54,8 @@
 - hugo 0.52
 - hwinfo 5.92
 - hwinfo.install 5.92
-- imagemagick 7.0.8.14
+- imagemagick 7.0.8.15
+- imagemagick.app 7.0.8.15
 - jq 1.5
 - jre8 8.0.191.20181114
 - KB2919355 1.0.20160915
@@ -72,12 +75,12 @@
 - neovim 0.3.1
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.3.0
-- nodejs.install 11.3.0
+- nodejs 11.4.0
+- nodejs.install 11.4.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 57.0.3098.76
+- Opera 57.0.3098.91
 - performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -88,7 +91,7 @@
 - python 3.7.1
 - python2 2.7.15
 - python3 3.7.1
-- qbittorrent 4.1.3
+- qbittorrent 4.1.4
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
@@ -96,35 +99,35 @@
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
 - ruby 2.5.3.1
-- rufus 3.3
-- sharex 12.3.0
+- rufus 3.4
+- sharex 12.3.1
 - skyfonts 5.9.5.0
-- skype 8.33.0.50
+- skype 8.34.0.78
 - slack 3.3.3
-- steam 3.0.1.0
+- steam 3.0.1.20181204
 - sublimetext3 3.1.1
 - teamspeak 3.2.1
-- teamviewer 13.2.26558
-- thunderbird 60.3.0
+- teamviewer 14.0.13880
+- thunderbird 60.3.2
 - tor-browser 8.0.3
 - treesizefree 4.2.2.1
 - typora 0.9.60
-- vcredist140 14.15.26706
+- vcredist140 14.16.27012.6
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.4
-- vscode 1.28.2
+- vscode 1.29.1
 - webp 1.0.0
-- wget 1.19.4
-- winscp 5.13.4
-- winscp.install 5.13.4
-- wireshark 2.6.4
+- Wget 1.20
+- winscp 5.13.5
+- winscp.install 5.13.5
+- wireshark 2.6.5
 - XnView 2.46
 - yarn 1.12.3
-- zoom 4.1.34583.1107
-- 123 packages installed.
+- zoom 4.1.34814.1119
+- 126 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.008.20081
@@ -172,7 +175,6 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
-- Microsoft Power BI Desktop (x64)|2.62.5222.761
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -185,10 +187,12 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706|14.15.26706.0
-- Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706|14.15.26706.0
+- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012|14.16.27012.6
+- Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27012|14.16.27012.6
+- Microsoft Visual Studio Code|1.29.1
+- Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|63.0.3
-- Mozilla Thunderbird 60.3.2 (x86 cs)|60.3.2
+- Mozilla Thunderbird 60.3.3 (x86 cs)|60.3.3
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - MySQL Workbench 8.0 CE|8.0.13
@@ -196,7 +200,6 @@
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
-- Opera Stable 57.0.3098.76|57.0.3098.76
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.119.4.24
@@ -216,17 +219,20 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- TeamViewer 13|13.2.26558
+- TeamViewer 14|14.0.13880
 - Telegram Desktop version 1.4.3|1.4.3
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.2.2|4.2.2
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
+- Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.2.256
 - WD Drive Utilities|2.0.0.48
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
+- Windows SDK AddOn|10.1.0.0
+- Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 103 applications not managed with Chocolatey.
+- 106 applications not managed with Chocolatey.

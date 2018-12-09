@@ -14,6 +14,7 @@ BoxstarterWinConfig
 bsplayer 
 chocolatey 
 chocolatey-coreextension 
+chocolatey-misc-helpersextension 
 chocolatey-uninstallextension 
 chocolatey-windowsupdateextension 
 cinebench 
@@ -25,6 +26,7 @@ curl
 discord 
 discordinstall 
 docker 
+docker-desktop 
 docker-for-windows 
 DotNet 
 DotNet 
@@ -51,6 +53,7 @@ hugo
 hwinfo 
 hwinfoinstall 
 imagemagick 
+imagemagickapp 
 jq 
 jre 
 KB 
@@ -115,7 +118,7 @@ visualstudiocode
 vlc 
 vscode 
 webp 
-wget 
+Wget 
 winscp 
 winscpinstall 
 wireshark 
