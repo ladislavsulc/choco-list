@@ -104,12 +104,14 @@ skype
 slack 
 steam 
 sublimetext 
+subtitleedit 
 teamspeak 
 teamviewer 
 thunderbird 
 tor-browser 
 treesizefree 
 typora 
+unetbootin 
 vcredist 
 vcredist 
 vcredist 

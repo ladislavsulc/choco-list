@@ -16,7 +16,7 @@
 - bsplayer 2.71.1081
 - chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
-- chocolatey-misc-helpers.extension 0.0.1
+- chocolatey-misc-helpers.extension 0.0.3
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.3
 - cinebench 15.038
@@ -24,7 +24,7 @@
 - coretemp 1.12.1
 - cryptomator 1.3.4
 - crystaldiskmark 5.2.0
-- curl 7.62.0
+- curl 7.63.0
 - discord 0.0.301.20181127
 - discord.install 0.0.301.20181127
 - docker 18.09.0
@@ -34,17 +34,17 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 62.4.103
+- dropbox 63.4.107
 - emacs 26.1.0.20180701
 - etcher 1.4.8
 - ffmpeg 4.1
 - filezilla 3.39.0
-- Firefox 63.0.3
+- Firefox 64.0
 - fontbase 2.6.4
 - fzf 0.17.5
 - gimp 2.10.8
-- git 2.19.2
-- git.install 2.19.2
+- git 2.20.1
+- git.install 2.20.1
 - gitbook-editor 7.0.12
 - google-backup-and-sync 3.42.9858.3671
 - gptgen 1.1.20180516
@@ -54,8 +54,8 @@
 - hugo 0.52
 - hwinfo 5.92
 - hwinfo.install 5.92
-- imagemagick 7.0.8.15
-- imagemagick.app 7.0.8.15
+- imagemagick 7.0.8.16
+- imagemagick.app 7.0.8.16
 - jq 1.5
 - jre8 8.0.191.20181114
 - KB2919355 1.0.20160915
@@ -67,7 +67,7 @@
 - kindle 1.23.50133
 - kitty 0.70.0.7
 - kodi 17.6.0.20171213
-- krita 4.1.5
+- krita 4.1.7
 - mc 4.8.21.209
 - mkcert 1.1.2
 - mysql.workbench 8.0.13.20181109
@@ -80,12 +80,12 @@
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 57.0.3098.91
+- Opera 57.0.3098.102
 - performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - poedit 2.1.1
-- PowerBI 2.64.5285.741
+- PowerBI 2.65.5313.701
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.1
@@ -98,53 +98,56 @@
 - ricochet 1.1.4
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
-- ruby 2.5.3.1
+- ruby 2.5.3.101
 - rufus 3.4
 - sharex 12.3.1
 - skyfonts 5.9.5.0
-- skype 8.34.0.78
+- skype 8.36.0.52
 - slack 3.3.3
 - steam 3.0.1.20181204
 - sublimetext3 3.1.1
+- subtitleedit 3.5.7
 - teamspeak 3.2.1
-- teamviewer 14.0.13880
-- thunderbird 60.3.2
-- tor-browser 8.0.3
+- teamviewer 14.1.3399
+- thunderbird 60.3.3
+- tor-browser 8.0.4
 - treesizefree 4.2.2.1
 - typora 0.9.60
+- unetbootin 6.5.5
 - vcredist140 14.16.27012.6
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.4
-- vscode 1.29.1
+- vscode 1.30.0
 - webp 1.0.0
 - Wget 1.20
-- winscp 5.13.5
-- winscp.install 5.13.5
+- winscp.install 5.13.6
 - wireshark 2.6.5
 - XnView 2.46
 - yarn 1.12.3
 - zoom 4.1.34814.1119
-- 126 packages installed.
+- 127 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.008.20081
+- Adobe Acrobat Reader DC MUI|19.010.20064
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
-- Affinity Publisher Public Beta|1.7.0.162
+- Affinity Designer Customer Beta|1.7.0.188
+- Affinity Publisher Public Beta|1.7.0.192
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
+- Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
 - Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|66.2.0
+- Figma|67.5.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -152,8 +155,8 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|70.0.3538.110
-- Google2SRT|0.7.6
+- Google Chrome|71.0.3578.98
+- Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
 - HiSuite|8.0.1.303
@@ -189,8 +192,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012|14.16.27012.6
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27012|14.16.27012.6
-- Microsoft Visual Studio Code|1.29.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Firefox 64.0 (x64 cs)|64.0
 - Mozilla Maintenance Service|63.0.3
 - Mozilla Thunderbird 60.3.3 (x86 cs)|60.3.3
 - MySQL Compare 1|1.0.1.4
@@ -200,15 +203,15 @@
 - Npcap 0.99-r2|0.99-r2
 - Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
+- Opera Stable 57.0.3098.102|57.0.3098.102
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.119.4.24
+- Overwolf|0.120.1.9
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6501.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.34|8.34
 - Slack|3.3.3
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -219,8 +222,7 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- TeamViewer 14|14.0.13880
-- Telegram Desktop version 1.4.3|1.4.3
+- Telegram Desktop version 1.5.2|1.5.2
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.2.2|4.2.2
@@ -235,4 +237,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 106 applications not managed with Chocolatey.
+- 107 applications not managed with Chocolatey.
