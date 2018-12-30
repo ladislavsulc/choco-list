@@ -28,6 +28,7 @@ discordinstall
 docker 
 docker-desktop 
 docker-for-windows 
+dokany 
 DotNet 
 DotNet 
 dotnet 
@@ -128,3 +129,7 @@ XnView
 yarn 
 zoom 
  packages installed
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolateyorg/compare
