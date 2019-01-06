@@ -25,6 +25,7 @@ crystaldiskmark
 curl 
 discord 
 discordinstall 
+ditto 
 docker 
 docker-desktop 
 docker-for-windows 
@@ -45,6 +46,7 @@ gimp
 git 
 gitinstall 
 gitbook-editor 
+gnucash 
 google-backup-and-sync 
 gptgen 
 grepwin 
@@ -69,6 +71,7 @@ kodi
 krita 
 mc 
 mkcert 
+mobaxterm 
 mysqlworkbench 
 nano 
 neovim 
@@ -106,6 +109,7 @@ slack
 steam 
 sublimetext 
 subtitleedit 
+TcpView 
 teamspeak 
 teamviewer 
 thunderbird 
@@ -116,12 +120,14 @@ unetbootin
 vcredist 
 vcredist 
 vcredist 
+vcredist 
 vim 
 visualstudiocode 
 vlc 
 vscode 
 webp 
 Wget 
+whois 
 winscp 
 winscpinstall 
 wireshark 
@@ -129,7 +135,3 @@ XnView
 yarn 
 zoom 
  packages installed
-
-Did you know Pro / Business automatically syncs with Programs and
- Features? Learn more about Package Synchronizer at
- https://chocolateyorg/compare

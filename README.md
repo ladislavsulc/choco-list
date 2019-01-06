@@ -13,7 +13,7 @@
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
 - Boxstarter.WinConfig 2.12.0
-- bsplayer 2.71.1081
+- bsplayer 2.73.1084
 - chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3
@@ -27,6 +27,7 @@
 - curl 7.63.0
 - discord 0.0.301.20181127
 - discord.install 0.0.301.20181127
+- ditto 3.22.20.0
 - docker 18.09.0
 - docker-desktop 2.0.0.0
 - docker-for-windows 99.0.0.0
@@ -47,6 +48,7 @@
 - git 2.20.1
 - git.install 2.20.1
 - gitbook-editor 7.0.12
+- gnucash 3.3
 - google-backup-and-sync 3.42.9858.3671
 - gptgen 1.1.20180516
 - grepwin 1.9.0
@@ -71,9 +73,10 @@
 - krita 4.1.7
 - mc 4.8.21.209
 - mkcert 1.1.2
+- mobaxterm 11.0.0
 - mysql.workbench 8.0.13.20181109
 - nano 2.5.3
-- neovim 0.3.1
+- neovim 0.3.2
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
 - nodejs 11.6.0
@@ -81,25 +84,25 @@
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.7.2.1
-- Opera 57.0.3098.106
+- Opera 57.0.3098.110
 - performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - poedit 2.1.1
-- PowerBI 2.65.5313.701
+- PowerBI 2.65.5313.841
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.2
 - python2 2.7.15
 - python3 3.7.2
-- qbittorrent 4.1.4
+- qbittorrent 4.1.5
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
 - ricochet 1.1.4
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
-- ruby 2.5.3.101
+- ruby 2.6.0.1
 - rufus 3.4
 - sharex 12.3.1
 - skyfonts 5.9.5.0
@@ -107,10 +110,11 @@
 - slack 3.3.3
 - steam 3.0.1.20181204
 - sublimetext3 3.1.1
-- subtitleedit 3.5.7
-- teamspeak 3.2.1
+- subtitleedit 3.5.8
+- TcpView 3.05
+- teamspeak 3.2.3
 - teamviewer 14.1.3399
-- thunderbird 60.3.3
+- thunderbird 60.4.0
 - tor-browser 8.0.4
 - treesizefree 4.2.2.1
 - typora 0.9.60
@@ -118,22 +122,24 @@
 - vcredist140 14.16.27012.6
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
+- vcredist2017 14.16.27012.6
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.4
-- vscode 1.30.0
+- vlc 3.0.5
+- vscode 1.30.1
 - webp 1.0.0
 - Wget 1.20
+- whois 1.20
 - winscp 5.13.6
 - winscp.install 5.13.6
 - wireshark 2.6.5
 - XnView 2.46
 - yarn 1.12.3
-- zoom 4.1.34814.1119
-- 129 packages installed.
+- zoom 4.1.35374.1217
+- 135 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.010.20064
+- Adobe Acrobat Reader DC MUI|19.010.20069
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -199,10 +205,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012|14.16.27012.6
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27012|14.16.27012.6
+- Microsoft Visual Studio Code|1.30.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Firefox 64.0 (x64 cs)|64.0
-- Mozilla Maintenance Service|63.0.3
-- Mozilla Thunderbird 60.3.3 (x86 cs)|60.3.3
+- Mozilla Thunderbird 60.4.0 (x86 cs)|60.4.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - MySQL Workbench 8.0 CE|8.0.13
@@ -212,14 +218,14 @@
 - Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 57.0.3098.106|57.0.3098.106
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.120.1.9
+- Overwolf|0.121.1.32
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6565.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
+- Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
 - Slack|3.3.3
 - SopCast 4.2.0|4.2.0
