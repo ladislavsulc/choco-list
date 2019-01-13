@@ -21,7 +21,7 @@
 - chocolatey-windowsupdate.extension 1.0.3
 - cinebench 15.038
 - composer 4.9.0
-- coretemp 1.12.1
+- coretemp 1.13
 - cryptomator 1.4.0
 - crystaldiskmark 5.2.0
 - curl 7.63.0
@@ -36,19 +36,19 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 64.3.123
+- dropbox 64.4.141
 - emacs 26.1.0.20180701
 - etcher 1.4.9
 - ffmpeg 4.1
 - filezilla 3.39.0
-- Firefox 64.0
+- Firefox 64.0.2
 - fontbase 2.6.4
 - fzf 0.17.5
 - gimp 2.10.8
 - git 2.20.1
 - git.install 2.20.1
 - gitbook-editor 7.0.12
-- gnucash 3.3
+- gnucash 3.4
 - google-backup-and-sync 3.42.9858.3671
 - gptgen 1.1.20180516
 - grepwin 1.9.0
@@ -66,13 +66,13 @@
 - KB2999226 1.0.20181019
 - KB3033929 1.0.4
 - KB3035131 1.0.2
-- keepass 2.40
+- keepass 2.41
 - kindle 1.24.51068
-- kitty 0.70.0.7
+- kitty 0.70.0.8
 - kodi 17.6.0.20171213
 - krita 4.1.7
 - mc 4.8.21.209
-- mkcert 1.1.2
+- mkcert 1.2.0
 - mobaxterm 11.0.0
 - mysql.workbench 8.0.13.20181109
 - nano 2.5.3
@@ -83,8 +83,8 @@
 - nodejs.install 11.6.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
-- openssh 7.7.2.1
-- Opera 57.0.3098.110
+- openssh 7.9.0.1
+- Opera 57.0.3098.116
 - performancetest 9.0.1028
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -117,12 +117,12 @@
 - thunderbird 60.4.0
 - tor-browser 8.0.4
 - treesizefree 4.2.2.1
-- typora 0.9.60
+- typora 0.9.62
 - unetbootin 6.5.5
-- vcredist140 14.16.27012.6
+- vcredist140 14.16.27024.1
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
-- vcredist2017 14.16.27012.6
+- vcredist2017 14.16.27024.1
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.5
@@ -157,9 +157,8 @@
 - CPUID CPU-Z 1.86|1.86
 - Discord|0.0.301
 - DIY DataRecovery MBRtool|2.3.200
-- Dropbox|64.3.123
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|67.5.0
+- Figma|68.5.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FontBase 2.6.6|2.6.6
@@ -203,11 +202,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012|14.16.27012.6
-- Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27012|14.16.27012.6
-- Microsoft Visual Studio Code|1.30.1
+- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27024|14.16.27024.1
+- Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27024|14.16.27024.1
+- Microsoft Visual Studio Code|1.30.2
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Firefox 64.0 (x64 cs)|64.0
+- Mozilla Firefox 64.0.2 (x64 cs)|64.0.2
 - Mozilla Thunderbird 60.4.0 (x86 cs)|60.4.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -218,9 +217,10 @@
 - Nucleo 2.4.5|2.4.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 57.0.3098.116|57.0.3098.116
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.121.1.32
+- Overwolf|0.121.1.33
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6565.0
 - Realtek High Definition Audio Driver|6.0.1.7982
