@@ -16,7 +16,7 @@
 - bsplayer 2.73.1084
 - chocolatey 0.10.11
 - chocolatey-core.extension 1.3.3
-- chocolatey-misc-helpers.extension 0.0.3
+- chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-uninstall.extension 1.2.0
 - chocolatey-windowsupdate.extension 1.0.3
 - cinebench 15.038
@@ -155,7 +155,7 @@
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
 - Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
-- Discord|0.0.301
+- Discord|0.0.304
 - DIY DataRecovery MBRtool|2.3.200
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|68.5.0
@@ -174,13 +174,14 @@
 - HiSuite|9.0.2.301
 - HLSW v1.4.0.2|
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
-- Intel(R) Computing Improvement Program|2.4.04140
+- Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Management Engine Components|1824.12.0.1140
 - Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
-- Intel(R) Processor Graphics|24.20.100.6286
+- Intel(R) Processor Graphics|25.20.100.6444
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- Intel(R) Wireless Bluetooth(R)|20.70.0
-- IntelR Driver &amp; Support Assistant|3.5.1.7
+- Intel(R) Wireless Bluetooth(R)|20.90.1
+- IntelR Driver &amp; Support Assistant|3.7.0.8
+- ITE Infrared Transceiver|1.05.0000
 - Java 8 Update 191|8.0.1910.12
 - Java 8 Update 191 (64-bit)|8.0.1910.12
 - KeePass Password Safe 2.38|2.38
@@ -221,13 +222,14 @@
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.121.1.33
+- Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6565.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Slack|3.3.3
+- Slack|3.3.6
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -252,4 +254,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 114 applications not managed with Chocolatey.
+- 116 applications not managed with Chocolatey.
