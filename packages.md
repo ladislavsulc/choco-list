@@ -15,7 +15,6 @@ bsplayer
 chocolatey 
 chocolatey-coreextension 
 chocolatey-misc-helpersextension 
-chocolatey-uninstallextension 
 chocolatey-windowsupdateextension 
 cinebench 
 composer 
@@ -27,9 +26,9 @@ discord
 discordinstall 
 ditto 
 docker 
+docker-cli 
 docker-desktop 
 docker-for-windows 
-dokany 
 DotNet 
 DotNet 
 dotnet 
@@ -87,6 +86,7 @@ performancetest
 php 
 Pinta 
 poedit 
+postman 
 PowerBI 
 putty 
 puttyportable 
@@ -103,7 +103,6 @@ rsync
 ruby 
 rufus 
 sharex 
-skyfonts 
 skype 
 slack 
 steam 

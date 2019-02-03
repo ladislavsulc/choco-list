@@ -1,0 +1,255 @@
+# My Favourite Chocolatey packages
+
+- Chocolatey v0.10.11
+- [Pending] Removing incomplete install for 'dokany'
+- ack 2.22
+- adb 28.0.1
+- adobereader 2019.010.20064.01
+- advanced-ip-scanner 2.5.3784
+- advor 0.3.1.2
+- ag 2.1.0.1
+- autohotkey.portable 1.1.30.01
+- Bitnami-XAMPP 7.2.1
+- Boxstarter 2.12.0
+- Boxstarter.Bootstrapper 2.12.0
+- Boxstarter.Common 2.12.0
+- Boxstarter.WinConfig 2.12.0
+- bsplayer 2.73.1084
+- chocolatey 0.10.11
+- chocolatey-core.extension 1.3.3
+- chocolatey-misc-helpers.extension 0.0.3.1
+- chocolatey-windowsupdate.extension 1.0.3
+- cinebench 15.038
+- composer 4.9.0
+- coretemp 1.13
+- cryptomator 1.4.0
+- crystaldiskmark 6.0.2
+- curl 7.63.0
+- discord 0.0.301.20181127
+- discord.install 0.0.304
+- ditto 3.22.20.0
+- docker 99.0.0
+- docker-cli 18.09.0
+- docker-desktop 2.0.0.2
+- docker-for-windows 99.0.0.0
+- DotNet4.0 4.0.30319.20141222
+- DotNet4.5.2 4.5.2.20140902
+- dotnet4.6.2 4.6.01590.20170129
+- dotnet4.7.1 4.7.2558.0
+- dropbox 66.3.72
+- emacs 26.1.0.20180701
+- etcher 1.4.9
+- ffmpeg 4.1
+- filezilla 3.40.0
+- Firefox 65.0
+- fontbase 2.6.4
+- fzf 0.17.5
+- gimp 2.10.8
+- git 2.20.1
+- git.install 2.20.1
+- gitbook-editor 7.0.12
+- gnucash 3.4
+- google-backup-and-sync 3.43.2448.9071
+- gptgen 1.1.20180516
+- grepwin 1.9.1
+- gtksharp 2.12.45
+- heidisql 9.5.0.5196
+- hugo 0.53
+- hwinfo 6.00
+- hwinfo.install 6.00
+- imagemagick 7.0.8.24
+- imagemagick.app 7.0.8.24
+- jq 1.5
+- jre8 8.0.201
+- KB2919355 1.0.20160915
+- KB2919442 1.0.20160915
+- KB2999226 1.0.20181019
+- KB3033929 1.0.4
+- KB3035131 1.0.2
+- keepass 2.41
+- kindle 1.24.51068
+- kitty 0.70.0.9
+- kodi 18.0
+- krita 4.1.7
+- mc 4.8.21.209
+- mkcert 1.2.0.20190119
+- mobaxterm 11.1.0
+- mysql.workbench 8.0.14
+- nano 2.5.3
+- neovim 0.3.3
+- nexus-root-toolkit 2.1.9.20170607
+- nmap 7.70
+- nodejs 11.8.0
+- nodejs.install 11.8.0
+- nvm.portable 1.1.7
+- obs-studio 22.0.2
+- openssh 7.9.0.1
+- Opera 58.0.3135.47
+- performancetest 9.0.1028
+- php 7.2.3
+- Pinta 1.5.0.20130501
+- poedit 2.1.1
+- postman 6.7.2
+- PowerBI 2.65.5313.1381
+- putty 0.70.0.20171219
+- putty.portable 0.70.0.20171219
+- python 3.7.2
+- python2 2.7.15
+- python3 3.7.2
+- qbittorrent 4.1.5.20190116
+- radmin-server 3.5.2.1
+- radmin-viewer 3.5.2.1
+- rainmeter 4.2.0.3111
+- ricochet 1.1.4
+- ripgrep 0.10.0
+- rsync 5.7.1.20180411
+- ruby 2.6.0.1
+- rufus 3.4
+- sharex 12.3.1
+- skype 8.37.0.98
+- slack 3.3.7
+- steam 3.0.1.20181204
+- sublimetext3 3.1.1
+- subtitleedit 3.5.8
+- TcpView 3.05
+- teamspeak 3.2.3
+- teamviewer 14.1.9025
+- thunderbird 60.4.0
+- tor-browser 8.0.4
+- treesizefree 4.3
+- typora 0.9.64
+- unetbootin 6.5.5
+- vcredist140 14.16.27024.1
+- vcredist2010 10.0.40219.2
+- vcredist2015 14.0.24215.20170201
+- vcredist2017 14.16.27024.1
+- vim 8.0.604
+- visualstudiocode 1.23.1.20180730
+- vlc 3.0.6
+- vscode 1.30.2
+- webp 1.0.0
+- Wget 1.20
+- whois 1.20
+- winscp 5.13.7
+- winscp.install 5.13.7
+- wireshark 2.6.5
+- XnView 2.47
+- yarn 1.13.0
+- zoom 4.3.46333.0128
+- 134 packages installed.
+- 
+- Ace Stream Media 3.1.20.4|3.1.20.4
+- Adobe Acrobat Reader DC MUI|19.010.20069
+- Adobe Creative Cloud|4.6.0.384
+- Adobe Photoshop CC 2018|19.0
+- Affinity Designer|1.6.5.123
+- Affinity Designer Customer Beta|1.7.0.188
+- Affinity Publisher Public Beta|1.7.0.192
+- Aplikace IntelR PROSet/Wireless|20.80.0
+- AutoHotkey 1.1.30.00|1.1.30.00
+- Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
+- BleachBit|2.0
+- Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
+- Composer - Php Dependency Manager|
+- CPUID CPU-Z 1.86|1.86
+- CrystalDiskMark 5.2.0|5.2.0
+- Discord|0.0.304
+- DIY DataRecovery MBRtool|2.3.200
+- Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
+- Etcher 1.4.6 (only current user)|1.4.6
+- Figma|68.5.0
+- Figma Font Helper|21.0
+- FontBase|2.3.0
+- FontBase 2.6.6|2.6.6
+- Freeter|1.2.1
+- Geekbench 4|
+- ghostwriter version 1.5.0|1.5.0
+- GitBook Editor|7.0.12
+- GNU Privacy Guard|2.2.7
+- Google Chrome|71.0.3578.98
+- Google2SRT|0.7.7
+- Gpg4win (3.1.1)|3.1.1
+- GTK2-Runtime|2.22.0-2010-10-21-ash
+- HiSuite|9.0.2.301
+- HLSW v1.4.0.2|
+- Intel Processor Diagnostic Tool 64bit|4.1.0.24
+- Intel(R) Computing Improvement Program|2.4.04370
+- Intel(R) Management Engine Components|1824.12.0.1140
+- Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
+- Intel(R) Processor Graphics|25.20.100.6444
+- Intel(R) Rapid Storage Technology|15.9.0.1015
+- Intel(R) Wireless Bluetooth(R)|20.90.1
+- IntelR Driver &amp; Support Assistant|3.7.0.8
+- ITE Infrared Transceiver|1.05.0000
+- Java 8 Update 201|8.0.2010.9
+- KeePass Password Safe 2.38|2.38
+- Kodi|
+- Laragon 3.5.0|3.5.0.181017
+- Logitech Capture|1.0.553
+- Logitech Gaming Software 8.96|8.96.88
+- Malwarebytes verze 3.6.1.2711|3.6.1.2711
+- Mark Text 0.9.25|0.9.25
+- Microsoft Power BI Desktop|2.55.5010.641
+- Microsoft Visual C++ 2005 Redistributable|8.0.56336
+- Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
+- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
+- Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219|10.0.40219
+- Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219|10.0.40219
+- Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
+- Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|11.0.61030.0
+- Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
+- Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
+- Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
+- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27024|14.16.27024.1
+- Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27024|14.16.27024.1
+- Microsoft Visual Studio Code|1.30.2
+- Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Thunderbird 60.5.0 (x86 cs)|60.5.0
+- MySQL Compare 1|1.0.1.4
+- MySQL Data Compare 1|1.0.1.1
+- Need for Speed: Hot Pursuit|
+- Nexus Root Toolkit|2.1.9
+- Npcap 0.99-r2|0.99-r2
+- Nucleo 2.5.3|2.5.3
+- NVIDIA PhysX|9.14.0702
+- OpenAL|
+- Oracle VM VirtualBox 5.2.4|5.2.4
+- Outline Manager 1.0.2 (only current user)|1.0.2
+- Overwolf|0.122.0.52
+- Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
+- Postman-win64-6.7.2|6.7.2
+- Python 3.6.5 (64-bit)|3.6.5150.0
+- Python Launcher|3.7.6565.0
+- qBittorrent 4.1.5|4.1.5
+- Realtek High Definition Audio Driver|6.0.1.7982
+- Rocket League|
+- Ruby 2.5.3-1-x64|2.5.3-1
+- Samsung Magician|5.2.0.1610
+- Skype verze 8.37|8.37
+- SopCast 4.2.0|4.2.0
+- Spectrum 1.0.1 (only current user)|1.0.1
+- StarDict (remove only)|
+- Steam|2.10.91.91
+- Storyboarder 1.6.1|1.6.1
+- Strawberry Perl (64-bit)|5.26.2001
+- Sublime Merge|
+- TallowBundle|
+- TeamSpeak|1.0.0.1
+- Telegram Desktop version 1.5.11|1.5.11
+- Termius 2.0.1 (only current user)|2.0.1
+- Total Commander 64-bit (Remove or Repair)|9.12
+- Unified Remote|3.6.1
+- UninstallTabletDeviceDriver|v13.15.2.170911
+- Update for Windows 10 for x64-based Systems (KB4023057)|2.53.0.0
+- Visual Studio Build Tools 2017|15.9.28307.145
+- WD Discovery|3.2.256
+- WD Drive Utilities|2.0.0.48
+- WD Security|2.0.0.48
+- Win10Pcap|10.2.5002
+- Windows 7 USB/DVD Download Tool|1.0.30
+- Windows SDK AddOn|10.1.0.0
+- Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
+- Xenu's Link Sleuth|1.3.9
+- 114 applications not managed with Chocolatey.
