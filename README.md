@@ -1,7 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.11
-- [Pending] Removing incomplete install for 'dokany'
 - ack 2.22
 - adb 28.0.1
 - adobereader 2019.010.20064.01
@@ -20,23 +19,22 @@
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.3
 - cinebench 15.038
-- composer 4.9.0
+- composer 4.10.0
 - coretemp 1.13
-- cryptomator 1.4.0
+- cryptomator 1.4.2
 - crystaldiskmark 6.0.2
-- curl 7.63.0
-- discord 0.0.301.20181127
-- discord.install 0.0.304
+- curl 7.64.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.0
 - docker-desktop 2.0.0.2
 - docker-for-windows 99.0.0.0
+- dokany 1.2.0.1000
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 66.3.72
+- dropbox 66.4.84
 - emacs 26.1.0.20180701
 - etcher 1.4.9
 - ffmpeg 4.1
@@ -54,11 +52,11 @@
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 9.5.0.5196
-- hugo 0.53
+- hugo 0.54.0
 - hwinfo 6.00
 - hwinfo.install 6.00
-- imagemagick 7.0.8.24
-- imagemagick.app 7.0.8.24
+- imagemagick 7.0.8.26
+- imagemagick.app 7.0.8.26
 - jq 1.5
 - jre8 8.0.201
 - KB2919355 1.0.20160915
@@ -72,20 +70,20 @@
 - kodi 18.0
 - krita 4.1.7
 - mc 4.8.21.209
-- mkcert 1.2.0.20190119
+- mkcert 1.3.0
 - mobaxterm 11.1.0
-- mysql.workbench 8.0.14
+- mysql.workbench 8.0.15.20190204
 - nano 2.5.3
-- neovim 0.3.3
+- neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.8.0
-- nodejs.install 11.8.0
+- nodejs 11.9.0
+- nodejs.install 11.9.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.9.0.1
-- Opera 58.0.3135.47
-- performancetest 9.0.1028
+- Opera 58.0.3135.53
+- performancetest 9.0.1030
 - php 7.2.3
 - Pinta 1.5.0.20130501
 - poedit 2.1.1
@@ -103,19 +101,19 @@
 - ricochet 1.1.4
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
-- ruby 2.6.0.1
+- ruby 2.6.1.1
 - rufus 3.4
 - sharex 12.3.1
-- skype 8.37.0.98
+- skype 8.38.0.161
 - slack 3.3.7
 - steam 3.0.1.20181204
 - sublimetext3 3.1.1
-- subtitleedit 3.5.8
+- subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.3
 - teamviewer 14.1.9025
-- thunderbird 60.4.0
-- tor-browser 8.0.4
+- thunderbird 60.5.0
+- tor-browser 8.0.5
 - treesizefree 4.3
 - typora 0.9.64
 - unetbootin 6.5.5
@@ -126,7 +124,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.30.2
+- vscode 1.31.0
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
@@ -136,7 +134,7 @@
 - XnView 2.47
 - yarn 1.13.0
 - zoom 4.3.46333.0128
-- 134 packages installed.
+- 133 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.010.20069
@@ -155,7 +153,6 @@
 - CrystalDiskMark 5.2.0|5.2.0
 - Discord|0.0.304
 - DIY DataRecovery MBRtool|2.3.200
-- Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|68.5.0
 - Figma Font Helper|21.0
@@ -204,8 +201,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27024|14.16.27024.1
 - Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27024|14.16.27024.1
-- Microsoft Visual Studio Code|1.30.2
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Maintenance Service|65.0
 - Mozilla Thunderbird 60.5.0 (x86 cs)|60.5.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -227,7 +224,6 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.37|8.37
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -237,7 +233,7 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.5.11|1.5.11
+- Telegram Desktop version 1.5.12|1.5.12
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Unified Remote|3.6.1
@@ -252,4 +248,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 114 applications not managed with Chocolatey.
+- 112 applications not managed with Chocolatey.
