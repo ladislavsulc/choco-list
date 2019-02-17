@@ -21,15 +21,14 @@
 - cinebench 15.038
 - composer 4.10.0
 - coretemp 1.13
-- cryptomator 1.4.2
+- cryptomator 1.4.3
 - crystaldiskmark 6.0.2
 - curl 7.64.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.0
-- docker-desktop 2.0.0.2
+- docker-desktop 2.0.0.3
 - docker-for-windows 99.0.0.0
-- dokany 1.2.0.1000
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
@@ -39,7 +38,7 @@
 - etcher 1.4.9
 - ffmpeg 4.1
 - filezilla 3.40.0
-- Firefox 65.0
+- Firefox 65.0.1
 - fontbase 2.6.4
 - fzf 0.17.5
 - gimp 2.10.8
@@ -51,12 +50,12 @@
 - gptgen 1.1.20180516
 - grepwin 1.9.1
 - gtksharp 2.12.45
-- heidisql 9.5.0.5196
+- heidisql 10.1.0.5464
 - hugo 0.54.0
 - hwinfo 6.00
 - hwinfo.install 6.00
-- imagemagick 7.0.8.26
-- imagemagick.app 7.0.8.26
+- imagemagick 7.0.8.27
+- imagemagick.app 7.0.8.27
 - jq 1.5
 - jre8 8.0.201
 - KB2919355 1.0.20160915
@@ -67,7 +66,7 @@
 - keepass 2.41
 - kindle 1.24.51068
 - kitty 0.70.0.9
-- kodi 18.0
+- kodi 18.1
 - krita 4.1.7
 - mc 4.8.21.209
 - mkcert 1.3.0
@@ -77,18 +76,20 @@
 - neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.9.0
-- nodejs.install 11.9.0
+- nodejs 11.10.0
+- nodejs.install 11.10.0
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.9.0.1
-- Opera 58.0.3135.53
+- Opera 58.0.3135.65
 - performancetest 9.0.1030
 - php 7.2.3
 - Pinta 1.5.0.20130501
+- pngquant 2.12.2
+- pngyu 1.0.1
 - poedit 2.1.1
 - postman 6.7.2
-- PowerBI 2.65.5313.1381
+- PowerBI 2.66.5376.1681
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.2
@@ -104,40 +105,40 @@
 - ruby 2.6.1.1
 - rufus 3.4
 - sharex 12.3.1
-- skype 8.38.0.161
+- skype 8.39.0.180
 - slack 3.3.7
-- steam 3.0.1.20181204
+- steam 3.0.1.20190215
 - sublimetext3 3.1.1
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.3
 - teamviewer 14.1.9025
-- thunderbird 60.5.0
-- tor-browser 8.0.5
-- treesizefree 4.3
+- thunderbird 60.5.1.20190217
+- tor-browser 8.0.6
+- treesizefree 4.3.1
 - typora 0.9.64
 - unetbootin 6.5.5
-- vcredist140 14.16.27024.1
+- vcredist140 14.16.27027.1
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
-- vcredist2017 14.16.27024.1
+- vcredist2017 14.16.27027.1
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.31.0
+- vscode 1.31.1
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
 - winscp 5.13.7
 - winscp.install 5.13.7
-- wireshark 2.6.5
+- wireshark 2.6.6
 - XnView 2.47
 - yarn 1.13.0
 - zoom 4.3.46333.0128
-- 133 packages installed.
+- 134 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.010.20069
+- Adobe Acrobat Reader DC MUI|19.010.20091
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -153,6 +154,7 @@
 - CrystalDiskMark 5.2.0|5.2.0
 - Discord|0.0.304
 - DIY DataRecovery MBRtool|2.3.200
+- Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|68.5.0
 - Figma Font Helper|21.0
@@ -163,7 +165,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|71.0.3578.98
+- Google Chrome|72.0.3626.109
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -199,11 +201,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27024|14.16.27024.1
-- Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27024|14.16.27024.1
+- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|65.0
-- Mozilla Thunderbird 60.5.0 (x86 cs)|60.5.0
+- Mozilla Maintenance Service|65.0.1
+- Mozilla Thunderbird 60.5.1 (x86 cs)|60.5.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -212,9 +213,10 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 58.0.3135.65|58.0.3135.65
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.122.0.52
+- Overwolf|0.124.0.7
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-6.7.2|6.7.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -224,6 +226,7 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.39|8.39
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -233,12 +236,12 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.5.12|1.5.12
+- Telegram Desktop version 1.5.15|1.5.15
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- Update for Windows 10 for x64-based Systems (KB4023057)|2.53.0.0
+- Update for Windows 10 for x64-based Systems (KB4023057)|2.54.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.2.256
 - WD Drive Utilities|2.0.0.48
@@ -248,4 +251,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 112 applications not managed with Chocolatey.
+- 114 applications not managed with Chocolatey.

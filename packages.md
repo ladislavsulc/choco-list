@@ -27,7 +27,6 @@ docker
 docker-cli 
 docker-desktop 
 docker-for-windows 
-dokany 
 DotNet 
 DotNet 
 dotnet 
@@ -84,6 +83,8 @@ Opera
 performancetest 
 php 
 Pinta 
+pngquant 
+pngyu 
 poedit 
 postman 
 PowerBI 
@@ -133,7 +134,3 @@ XnView
 yarn 
 zoom 
  packages installed
-
-Did you know Pro / Business automatically syncs with Programs and
- Features? Learn more about Package Synchronizer at
- https://chocolateyorg/compare
