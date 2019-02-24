@@ -33,9 +33,9 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20170129
 - dotnet4.7.1 4.7.2558.0
-- dropbox 66.4.84
+- dropbox 67.4.83
 - emacs 26.1.0.20180701
-- etcher 1.4.9
+- etcher 1.5.0
 - ffmpeg 4.1
 - filezilla 3.40.0
 - Firefox 65.0.1
@@ -52,10 +52,10 @@
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
 - hugo 0.54.0
-- hwinfo 6.00
-- hwinfo.install 6.00
-- imagemagick 7.0.8.27
-- imagemagick.app 7.0.8.27
+- hwinfo 6.02
+- hwinfo.install 6.02
+- imagemagick 7.0.8.28
+- imagemagick.app 7.0.8.28
 - jq 1.5
 - jre8 8.0.201
 - KB2919355 1.0.20160915
@@ -81,7 +81,7 @@
 - nvm.portable 1.1.7
 - obs-studio 22.0.2
 - openssh 7.9.0.1
-- Opera 58.0.3135.65
+- Opera 58.0.3135.68
 - performancetest 9.0.1030
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -89,7 +89,7 @@
 - pngyu 1.0.1
 - poedit 2.1.1
 - postman 6.7.2
-- PowerBI 2.66.5376.1681
+- PowerBI 2.66.5376.2521
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.2
@@ -104,19 +104,19 @@
 - rsync 5.7.1.20180411
 - ruby 2.6.1.1
 - rufus 3.4
-- sharex 12.3.1
+- sharex 12.4.1
 - skype 8.39.0.180
 - slack 3.3.7
 - steam 3.0.1.20190215
 - sublimetext3 3.1.1
 - subtitleedit 3.5.9
 - TcpView 3.05
-- teamspeak 3.2.3
+- teamspeak 3.2.3.20190222
 - teamviewer 14.1.9025
 - thunderbird 60.5.1.20190217
 - tor-browser 8.0.6
-- treesizefree 4.3.1
-- typora 0.9.64
+- treesizefree 4.3.1.1
+- typora 0.9.65
 - unetbootin 6.5.5
 - vcredist140 14.16.27027.1
 - vcredist2010 10.0.40219.2
@@ -138,7 +138,7 @@
 - 134 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.010.20091
+- Adobe Acrobat Reader DC MUI|19.010.20098
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -213,7 +213,7 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 58.0.3135.65|58.0.3135.65
+- Opera Stable 58.0.3135.68|58.0.3135.68
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.124.0.7
@@ -236,9 +236,11 @@
 - Sublime Merge|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
+- TeamSpeak 3 Client|3.2.3
 - Telegram Desktop version 1.5.15|1.5.15
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
+- TreeSize Free V4.3.1|4.3.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.54.0.0
@@ -251,4 +253,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 114 applications not managed with Chocolatey.
+- 116 applications not managed with Chocolatey.
