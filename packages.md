@@ -31,6 +31,7 @@ DotNet
 DotNet 
 dotnet 
 dotnet 
+dotnetfx 
 dropbox 
 emacs 
 etcher 
