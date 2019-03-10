@@ -3,7 +3,7 @@
 - Chocolatey v0.10.11
 - ack 2.22
 - adb 28.0.1
-- adobereader 2019.010.20064.01
+- adobereader 2019.010.20098
 - advanced-ip-scanner 2.5.3784
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -21,7 +21,7 @@
 - cinebench 15.038
 - composer 4.10.0
 - coretemp 1.13
-- cryptomator 1.4.3
+- cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.64.0
 - ditto 3.22.20.0
@@ -33,14 +33,14 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
-- dotnetfx 4.7.1.20180317
-- dropbox 67.4.83
+- dotnetfx 4.7.2.20180712
+- dropbox 68.4.102
 - emacs 26.1.0.20180701
 - etcher 1.5.5
 - ffmpeg 4.1.1
-- filezilla 3.40.0
+- filezilla 3.41.1
 - Firefox 65.0.2
-- fontbase 2.6.4
+- fontbase 2.7.0
 - fzf 0.17.5
 - gimp 2.10.8
 - git 2.21.0
@@ -55,8 +55,9 @@
 - hugo 0.54.0
 - hwinfo 6.02
 - hwinfo.install 6.02
-- imagemagick 7.0.8.28
-- imagemagick.app 7.0.8.28
+- imagemagick 7.0.8.32
+- imagemagick.app 7.0.8.32
+- javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.201
 - KB2919355 1.0.20160915
@@ -77,12 +78,12 @@
 - neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.10.1
-- nodejs.install 11.10.1
+- nodejs 11.11.0
+- nodejs.install 11.11.0
 - nvm.portable 1.1.7
-- obs-studio 22.0.2
+- obs-studio 23.0.1
 - openssh 7.9.0.1
-- Opera 58.0.3135.79
+- Opera 58.0.3135.90
 - performancetest 9.0.1030
 - php 7.2.3
 - Pinta 1.5.0.20130501
@@ -94,7 +95,7 @@
 - putty 0.70.0.20171219
 - putty.portable 0.70.0.20171219
 - python 3.7.2
-- python2 2.7.15
+- python2 2.7.16
 - python3 3.7.2
 - qbittorrent 4.1.5.20190116
 - radmin-server 3.5.2.1
@@ -114,7 +115,7 @@
 - TcpView 3.05
 - teamspeak 3.2.3.20190222
 - teamviewer 14.1.18533
-- thunderbird 60.5.2
+- thunderbird 60.5.3
 - tor-browser 8.0.6
 - treesizefree 4.3.1.1
 - typora 0.9.65
@@ -126,7 +127,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.31.1
+- vscode 1.32.1
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
@@ -136,7 +137,7 @@
 - XnView 2.47
 - yarn 1.13.0
 - zoom 4.3.46499.0224
-- 135 packages installed.
+- 136 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.010.20098
@@ -152,6 +153,7 @@
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
 - Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
+- CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
 - Discord|0.0.304
 - DIY DataRecovery MBRtool|2.3.200
@@ -160,13 +162,12 @@
 - Figma|68.5.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
-- FontBase 2.6.6|2.6.6
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|72.0.3626.119
+- Google Chrome|72.0.3626.121
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -203,9 +204,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
+- Microsoft Visual Studio Code|1.32.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|65.0.2
-- Mozilla Thunderbird 60.5.2 (x86 cs)|60.5.2
+- Mozilla Thunderbird 60.5.3 (x86 cs)|60.5.3
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -214,7 +216,6 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 58.0.3135.79|58.0.3135.79
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.125.0.27
@@ -247,7 +248,7 @@
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.55.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.2.256
-- WD Drive Utilities|2.0.0.48
+- WD Drive Utilities|2.0.0.54
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
@@ -255,3 +256,7 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
 - 116 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare

@@ -55,6 +55,7 @@ hwinfo
 hwinfoinstall 
 imagemagick 
 imagemagickapp 
+javaruntime 
 jq 
 jre 
 KB 
