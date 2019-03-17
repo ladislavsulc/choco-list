@@ -1,6 +1,13 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.11
+- Chocolatey v0.10.13
+- 2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
+- 
+- Validation Warnings:
+-  - A pending system reboot request has been detected, however, this is
+-    being ignored due to the current command being used 'list'.
+-    It is recommended that you reboot at your earliest convenience.
+- 
 - ack 2.22
 - adb 28.0.1
 - adobereader 2019.010.20098
@@ -14,7 +21,7 @@
 - Boxstarter.Common 2.12.0
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
-- chocolatey 0.10.11
+- chocolatey 0.10.13
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.3
@@ -34,7 +41,7 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 68.4.102
+- dropbox 69.3.90
 - emacs 26.1.0.20180701
 - etcher 1.5.5
 - ffmpeg 4.1.1
@@ -55,8 +62,8 @@
 - hugo 0.54.0
 - hwinfo 6.02
 - hwinfo.install 6.02
-- imagemagick 7.0.8.32
-- imagemagick.app 7.0.8.32
+- imagemagick 7.0.8.33
+- imagemagick.app 7.0.8.33
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.201
@@ -71,6 +78,7 @@
 - kodi 18.1
 - krita 4.1.7
 - mc 4.8.21.209
+- microsoft-teams 1.2.00.4664
 - mkcert 1.3.0
 - mobaxterm 11.1.0
 - mysql.workbench 8.0.15.20190204
@@ -78,22 +86,22 @@
 - neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.11.0
-- nodejs.install 11.11.0
+- nodejs 11.12.0
+- nodejs.install 11.12.0
 - nvm.portable 1.1.7
 - obs-studio 23.0.1
 - openssh 7.9.0.1
-- Opera 58.0.3135.90
+- Opera 58.0.3135.107
 - performancetest 9.0.1030
-- php 7.2.3
+- php 7.3.3
 - Pinta 1.5.0.20130501
 - pngquant 2.12.2
 - pngyu 1.0.1
 - poedit 2.1.1
-- postman 6.7.2
-- PowerBI 2.66.5376.2521
-- putty 0.70.0.20171219
-- putty.portable 0.70.0.20171219
+- postman 7.0.6
+- PowerBI 2.67.5404.581
+- putty 0.71
+- putty.portable 0.71
 - python 3.7.2
 - python2 2.7.16
 - python3 3.7.2
@@ -107,10 +115,10 @@
 - ruby 2.6.1.1
 - rufus 3.4
 - sharex 12.4.1
-- skype 8.40.0.70
+- skype 8.41.0.54
 - slack 3.3.7
 - steam 3.0.1.20190215
-- sublimetext3 3.1.1
+- sublimetext3 3.2
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.3.20190222
@@ -118,7 +126,7 @@
 - thunderbird 60.5.3
 - tor-browser 8.0.6
 - treesizefree 4.3.1.1
-- typora 0.9.65
+- typora 0.9.67
 - unetbootin 6.5.5
 - vcredist140 14.16.27027.1
 - vcredist2010 10.0.40219.2
@@ -127,7 +135,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.32.1
+- vscode 1.32.3
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
@@ -135,9 +143,9 @@
 - winscp.install 5.13.8
 - wireshark 2.6.6
 - XnView 2.47
-- yarn 1.13.0
-- zoom 4.3.46499.0224
-- 136 packages installed.
+- yarn 1.15.2
+- zoom 4.3.46560.0311
+- 137 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.010.20098
@@ -155,7 +163,7 @@
 - CPUID CPU-Z 1.86|1.86
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
-- Discord|0.0.304
+- Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
@@ -191,6 +199,8 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
+- Microsoft Power BI Desktop (x64)|2.67.5404.581
+- Microsoft Teams|1.2.00.4664
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -204,7 +214,6 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
-- Microsoft Visual Studio Code|1.32.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|65.0.2
 - Mozilla Thunderbird 60.5.3 (x86 cs)|60.5.3
@@ -216,11 +225,11 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 58.0.3135.107|58.0.3135.107
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.125.0.27
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-6.7.2|6.7.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6565.0
 - qBittorrent 4.1.5|4.1.5
@@ -228,7 +237,7 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.40|8.40
+- Skype verze 8.41|8.41
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -255,8 +264,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 116 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 117 applications not managed with Chocolatey.
