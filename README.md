@@ -14,6 +14,7 @@
 - advanced-ip-scanner 2.5.3784
 - advor 0.3.1.2
 - ag 2.1.0.1
+- androidstudio 3.3.2.0
 - autohotkey.portable 1.1.30.01
 - Bitnami-XAMPP 7.2.1
 - Boxstarter 2.12.0
@@ -31,6 +32,7 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.64.0
+- dart-sdk 2.2.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.0
@@ -41,12 +43,12 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 69.3.90
+- dropbox 69.4.102
 - emacs 26.1.0.20180701
 - etcher 1.5.5
 - ffmpeg 4.1.1
-- filezilla 3.41.1
-- Firefox 65.0.2
+- filezilla 3.41.2
+- Firefox 66.0.1
 - fontbase 2.7.0
 - fzf 0.17.5
 - gimp 2.10.8
@@ -62,8 +64,8 @@
 - hugo 0.54.0
 - hwinfo 6.02
 - hwinfo.install 6.02
-- imagemagick 7.0.8.33
-- imagemagick.app 7.0.8.33
+- imagemagick 7.0.8.34
+- imagemagick.app 7.0.8.34
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.201
@@ -91,7 +93,7 @@
 - nvm.portable 1.1.7
 - obs-studio 23.0.1
 - openssh 7.9.0.1
-- Opera 58.0.3135.107
+- Opera 58.0.3135.118
 - performancetest 9.0.1030
 - php 7.3.3
 - Pinta 1.5.0.20130501
@@ -99,7 +101,7 @@
 - pngyu 1.0.1
 - poedit 2.1.1
 - postman 7.0.6
-- PowerBI 2.67.5404.581
+- PowerBI 2.67.5404.801
 - putty 0.71
 - putty.portable 0.71
 - python 3.7.2
@@ -122,11 +124,11 @@
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.3.20190222
-- teamviewer 14.1.18533
-- thunderbird 60.5.3
-- tor-browser 8.0.6
+- teamviewer 14.2.2558
+- thunderbird 60.6.0
+- tor-browser 8.0.8
 - treesizefree 4.3.1.1
-- typora 0.9.67
+- typora 0.9.68
 - unetbootin 6.5.5
 - vcredist140 14.16.27027.1
 - vcredist2010 10.0.40219.2
@@ -139,13 +141,13 @@
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
-- winscp 5.13.8
-- winscp.install 5.13.8
+- winscp 5.13.9
+- winscp.install 5.13.9
 - wireshark 2.6.6
 - XnView 2.47
 - yarn 1.15.2
 - zoom 4.3.46560.0311
-- 137 packages installed.
+- 139 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.010.20098
@@ -199,7 +201,6 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
-- Microsoft Power BI Desktop (x64)|2.67.5404.581
 - Microsoft Teams|1.2.00.4664
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
@@ -215,8 +216,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|65.0.2
-- Mozilla Thunderbird 60.5.3 (x86 cs)|60.5.3
+- Mozilla Maintenance Service|66.0.1
+- Mozilla Thunderbird 60.6.0 (x86 cs)|60.6.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -225,11 +226,11 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 58.0.3135.107|58.0.3135.107
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.125.0.27
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
+- Postman-win64-7.0.6|7.0.6
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6565.0
 - qBittorrent 4.1.5|4.1.5
@@ -248,13 +249,13 @@
 - TallowBundle|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.2.3
-- Telegram Desktop version 1.5.15|1.5.15
+- Telegram Desktop version 1.6.2|1.6.2
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.3.1|4.3.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
-- Update for Windows 10 for x64-based Systems (KB4023057)|2.55.0.0
+- Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.2.256
 - WD Drive Utilities|2.0.0.54
@@ -264,4 +265,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 117 applications not managed with Chocolatey.
+- 116 applications not managed with Chocolatey.

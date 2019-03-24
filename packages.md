@@ -12,6 +12,7 @@ adobereader
 advanced-ip-scanner 
 advor 
 ag 
+androidstudio 
 autohotkeyportable 
 Bitnami-XAMPP 
 Boxstarter 
@@ -29,6 +30,7 @@ coretemp
 cryptomator 
 crystaldiskmark 
 curl 
+dart-sdk 
 ditto 
 docker 
 docker-cli 
@@ -144,3 +146,7 @@ XnView
 yarn 
 zoom 
  packages installed
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolateyorg/compare
