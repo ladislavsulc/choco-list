@@ -11,7 +11,7 @@
 - ack 2.22
 - adb 28.0.1
 - adobereader 2019.010.20098
-- advanced-ip-scanner 2.5.3784
+- advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - androidstudio 3.3.2.0
@@ -31,7 +31,7 @@
 - coretemp 1.13
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.64.0
+- curl 7.64.1
 - dart-sdk 2.2.0
 - ditto 3.22.20.0
 - docker 99.0.0
@@ -45,10 +45,10 @@
 - dotnetfx 4.7.2.20180712
 - dropbox 69.4.102
 - emacs 26.1.0.20180701
-- etcher 1.5.5
+- etcher 1.5.19
 - ffmpeg 4.1.1
 - filezilla 3.41.2
-- Firefox 66.0.1
+- Firefox 66.0.2
 - fontbase 2.7.0
 - fzf 0.17.5
 - gimp 2.10.8
@@ -76,7 +76,7 @@
 - KB3035131 1.0.2
 - keepass 2.41
 - kindle 1.24.51068
-- kitty 0.70.0.9
+- kitty 0.70.0.10
 - kodi 18.1
 - krita 4.1.7
 - mc 4.8.21.209
@@ -88,25 +88,25 @@
 - neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.12.0
-- nodejs.install 11.12.0
+- nodejs 11.13.0
+- nodejs.install 11.13.0
 - nvm.portable 1.1.7
 - obs-studio 23.0.1
 - openssh 7.9.0.1
-- Opera 58.0.3135.118
+- Opera 58.0.3135.127
 - performancetest 9.0.1030
 - php 7.3.3
 - Pinta 1.5.0.20130501
 - pngquant 2.12.2
 - pngyu 1.0.1
-- poedit 2.1.1
+- poedit 2.2.1
 - postman 7.0.6
-- PowerBI 2.67.5404.801
+- PowerBI 2.67.5404.981
 - putty 0.71
 - putty.portable 0.71
-- python 3.7.2
+- python 3.7.3
 - python2 2.7.16
-- python3 3.7.2
+- python3 3.7.3
 - qbittorrent 4.1.5.20190116
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
@@ -115,9 +115,9 @@
 - ripgrep 0.10.0
 - rsync 5.7.1.20180411
 - ruby 2.6.1.1
-- rufus 3.4
+- rufus 3.5
 - sharex 12.4.1
-- skype 8.41.0.54
+- skype 8.42.0.60
 - slack 3.3.7
 - steam 3.0.1.20190215
 - sublimetext3 3.2
@@ -125,11 +125,11 @@
 - TcpView 3.05
 - teamspeak 3.2.3.20190222
 - teamviewer 14.2.2558
-- thunderbird 60.6.0
+- thunderbird 60.6.1
 - tor-browser 8.0.8
 - treesizefree 4.3.1.1
 - typora 0.9.68
-- unetbootin 6.5.5
+- unetbootin 6.6.1
 - vcredist140 14.16.27027.1
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
@@ -141,10 +141,10 @@
 - webp 1.0.0
 - Wget 1.20
 - whois 1.20
-- winscp 5.13.9
-- winscp.install 5.13.9
-- wireshark 2.6.6
-- XnView 2.47
+- winscp 5.15
+- winscp.install 5.15
+- wireshark 3.0.0
+- XnView 2.48.20190326
 - yarn 1.15.2
 - zoom 4.3.46560.0311
 - 139 packages installed.
@@ -169,7 +169,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|68.5.0
+- Figma|70.6.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -177,7 +177,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|72.0.3626.121
+- Google Chrome|73.0.3683.86
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -201,7 +201,7 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
-- Microsoft Teams|1.2.00.4664
+- Microsoft Teams|1.2.00.7161
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -216,8 +216,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|66.0.1
-- Mozilla Thunderbird 60.6.0 (x86 cs)|60.6.0
+- Mozilla Maintenance Service|66.0.2
+- Mozilla Thunderbird 60.6.1 (x86 cs)|60.6.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -226,19 +226,19 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 58.0.3135.127|58.0.3135.127
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.125.0.27
+- Overwolf|0.126.0.11
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.0.6|7.0.6
 - Python 3.6.5 (64-bit)|3.6.5150.0
-- Python Launcher|3.7.6565.0
+- Python Launcher|3.7.6657.0
 - qBittorrent 4.1.5|4.1.5
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.41|8.41
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -249,7 +249,7 @@
 - TallowBundle|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.2.3
-- Telegram Desktop version 1.6.2|1.6.2
+- Telegram Desktop version 1.6.3|1.6.3
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.3.1|4.3.1
