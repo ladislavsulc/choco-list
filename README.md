@@ -10,12 +10,12 @@
 - 
 - ack 2.22
 - adb 28.0.1
-- adobereader 2019.010.20098
+- adobereader 2019.010.20099
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - androidstudio 3.3.2.0
-- autohotkey.portable 1.1.30.01
+- autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.2.1
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
@@ -43,27 +43,27 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 69.4.102
+- dropbox 70.4.93
 - emacs 26.1.0.20180701
-- etcher 1.5.19
+- etcher 1.5.26
 - ffmpeg 4.1.1
 - filezilla 3.41.2
-- Firefox 66.0.2
+- Firefox 66.0.3
 - fontbase 2.7.0
-- fzf 0.17.5
-- gimp 2.10.8
+- fzf 0.18.0
+- gimp 2.10.10
 - git 2.21.0
 - git.install 2.21.0
 - gitbook-editor 7.0.12
-- gnucash 3.4
+- gnucash 3.5
 - google-backup-and-sync 3.43.2448.9071
 - gptgen 1.1.20180516
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
-- hugo 0.54.0
-- hwinfo 6.02
-- hwinfo.install 6.02
+- hugo 0.55.1
+- hwinfo 6.04
+- hwinfo.install 6.04
 - imagemagick 7.0.8.34
 - imagemagick.app 7.0.8.34
 - javaruntime 8.0.191
@@ -75,12 +75,12 @@
 - KB3033929 1.0.4
 - KB3035131 1.0.2
 - keepass 2.41
-- kindle 1.24.51068
+- kindle 1.25.52064
 - kitty 0.70.0.10
 - kodi 18.1
 - krita 4.1.7
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.4664
+- microsoft-teams 1.2.00.7161
 - mkcert 1.3.0
 - mobaxterm 11.1.0
 - mysql.workbench 8.0.15.20190204
@@ -88,20 +88,20 @@
 - neovim 0.3.4
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.13.0
-- nodejs.install 11.13.0
+- nodejs 11.14.0
+- nodejs.install 11.14.0
 - nvm.portable 1.1.7
 - obs-studio 23.0.1
 - openssh 7.9.0.1
-- Opera 58.0.3135.127
+- Opera 60.0.3255.27
 - performancetest 9.0.1030
-- php 7.3.3
+- php 7.3.4
 - Pinta 1.5.0.20130501
 - pngquant 2.12.2
 - pngyu 1.0.1
 - poedit 2.2.1
 - postman 7.0.6
-- PowerBI 2.67.5404.981
+- PowerBI 2.68.5432.661
 - putty 0.71
 - putty.portable 0.71
 - python 3.7.3
@@ -120,14 +120,14 @@
 - skype 8.42.0.60
 - slack 3.3.7
 - steam 3.0.1.20190215
-- sublimetext3 3.2
+- sublimetext3 3.2.1
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.3.20190222
 - teamviewer 14.2.2558
 - thunderbird 60.6.1
 - tor-browser 8.0.8
-- treesizefree 4.3.1.1
+- treesizefree 4.3.1.2
 - typora 0.9.68
 - unetbootin 6.6.1
 - vcredist140 14.16.27027.1
@@ -137,12 +137,12 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.32.3
+- vscode 1.33.1
 - webp 1.0.0
-- Wget 1.20
+- Wget 1.20.3
 - whois 1.20
-- winscp 5.15
-- winscp.install 5.15
+- winscp 5.15.1
+- winscp.install 5.15.1
 - wireshark 3.0.0
 - XnView 2.48.20190326
 - yarn 1.15.2
@@ -150,7 +150,7 @@
 - 139 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.010.20098
+- Adobe Acrobat Reader DC MUI|19.010.20099
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
@@ -169,7 +169,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|70.6.0
+- Figma|70.7.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Freeter|1.2.1
@@ -177,7 +177,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|73.0.3683.86
+- Google Chrome|73.0.3683.103
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -201,7 +201,7 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
-- Microsoft Teams|1.2.00.7161
+- Microsoft Teams|1.2.00.8864
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -216,7 +216,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|66.0.2
+- Mozilla Maintenance Service|66.0.3
 - Mozilla Thunderbird 60.6.1 (x86 cs)|60.6.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -226,7 +226,6 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 58.0.3135.127|58.0.3135.127
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.126.0.11
@@ -246,10 +245,11 @@
 - Storyboarder 1.6.1|1.6.1
 - Strawberry Perl (64-bit)|5.26.2001
 - Sublime Merge|
+- Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.2.3
-- Telegram Desktop version 1.6.3|1.6.3
+- Telegram Desktop version 1.6.7|1.6.7
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.3.1|4.3.1
