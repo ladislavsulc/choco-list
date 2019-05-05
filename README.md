@@ -14,7 +14,7 @@
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- androidstudio 3.3.2.0
+- androidstudio 3.4.0.18
 - autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.2.1
 - Boxstarter 2.12.0
@@ -25,7 +25,7 @@
 - chocolatey 0.10.13
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3.1
-- chocolatey-windowsupdate.extension 1.0.3
+- chocolatey-windowsupdate.extension 1.0.4
 - cinebench 15.038
 - composer 4.10.0
 - coretemp 1.13
@@ -43,10 +43,10 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 70.4.93
-- emacs 26.1.0.20180701
-- etcher 1.5.26
-- ffmpeg 4.1.1
+- dropbox 71.4.108.20190503
+- emacs 26.2.0.20190417
+- etcher 1.5.33
+- ffmpeg 4.1.3
 - filezilla 3.41.2
 - Firefox 66.0.3
 - fontbase 2.7.0
@@ -61,39 +61,40 @@
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
-- hugo 0.55.1
+- hugo 0.55.5
 - hwinfo 6.04
 - hwinfo.install 6.04
 - imagemagick 7.0.8.34
 - imagemagick.app 7.0.8.34
 - javaruntime 8.0.191
 - jq 1.5
-- jre8 8.0.201
+- jre8 8.0.211
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
-- KB3033929 1.0.4
-- KB3035131 1.0.2
-- keepass 2.41
+- KB3033929 1.0.5
+- KB3035131 1.0.3
+- keepass 2.42.1
 - kindle 1.25.52064
 - kitty 0.70.0.10
 - kodi 18.1
 - krita 4.1.7
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.7161
+- microsoft-teams 1.2.00.8864
 - mkcert 1.3.0
 - mobaxterm 11.1.0
-- mysql.workbench 8.0.15.20190204
+- mysql.workbench 8.0.16
 - nano 2.5.3
-- neovim 0.3.4
+- neovim 0.3.5
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 11.14.0
-- nodejs.install 11.14.0
+- nodejs 12.0.0
+- nodejs.install 12.0.0
 - nvm.portable 1.1.7
-- obs-studio 23.0.1
+- obs-studio 23.1.0
+- obs-studio.install 23.1.0
 - openssh 7.9.0.1
-- Opera 60.0.3255.27
+- Opera 60.0.3255.70
 - performancetest 9.0.1030
 - php 7.3.4
 - Pinta 1.5.0.20130501
@@ -101,7 +102,6 @@
 - pngyu 1.0.1
 - poedit 2.2.1
 - postman 7.0.6
-- PowerBI 2.68.5432.661
 - putty 0.71
 - putty.portable 0.71
 - python 3.7.3
@@ -143,10 +143,10 @@
 - whois 1.20
 - winscp 5.15.1
 - winscp.install 5.15.1
-- wireshark 3.0.0
+- wireshark 3.0.1
 - XnView 2.48.20190326
 - yarn 1.15.2
-- zoom 4.3.46560.0311
+- zoom 4.4.52532.0413
 - 139 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -156,6 +156,7 @@
 - Affinity Designer|1.6.5.123
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
+- Android Studio|3.3
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
@@ -169,15 +170,16 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|70.7.0
+- Figma|71.4.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
+- FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|73.0.3683.103
+- Google Chrome|74.0.3729.131
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -187,12 +189,12 @@
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Management Engine Components|1846.12.0.1177
 - Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
-- Intel(R) Processor Graphics|25.20.100.6444
+- Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- Intel(R) Wireless Bluetooth(R)|20.90.1
-- IntelR Driver &amp; Support Assistant|19.1.4.5
+- Intel(R) Wireless Bluetooth(R)|20.120.2.1
+- IntelR Driver &amp; Support Assistant|19.4.18.9
 - ITE Infrared Transceiver|1.05.0000
-- Java 8 Update 201|8.0.2010.9
+- Java 8 Update 211|8.0.2110.12
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Laragon 3.5.0|3.5.0.181017
@@ -201,6 +203,7 @@
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
+- Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.8864
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
@@ -226,9 +229,10 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 60.0.3255.70|60.0.3255.70
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.126.0.11
+- Overwolf|0.128.0.10
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.0.6|7.0.6
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -265,4 +269,8 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 116 applications not managed with Chocolatey.
+- 120 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
