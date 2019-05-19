@@ -12,9 +12,11 @@ adobereader
 advanced-ip-scanner 
 advor 
 ag 
+airdroid 
 androidstudio 
 autohotkeyportable 
 Bitnami-XAMPP 
+blender 
 Boxstarter 
 BoxstarterBootstrapper 
 BoxstarterCommon 
@@ -86,6 +88,7 @@ nano
 neovim 
 nexus-root-toolkit 
 nmap 
+nodejs 
 nodejsinstall 
 nvmportable 
 obs-studio 
@@ -96,6 +99,7 @@ performancetest
 php 
 Pinta 
 pngquant 
+pngyu 
 poedit 
 postman 
 putty 
@@ -126,6 +130,7 @@ tor-browser
 treesizefree 
 typora 
 unetbootin 
+vcredist 
 vcredist 
 vcredist 
 vcredist 

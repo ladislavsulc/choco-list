@@ -9,14 +9,16 @@
 -    It is recommended that you reboot at your earliest convenience.
 - 
 - ack 2.22
-- adb 28.0.1
+- adb 28.0.3
 - adobereader 2019.010.20099
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- androidstudio 3.4.0.18
+- airdroid 3.6.4.01
+- androidstudio 3.4.1.0
 - autohotkey.portable 1.1.30.03
-- Bitnami-XAMPP 7.2.1
+- Bitnami-XAMPP 7.3.4
+- blender 2.79.2
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -32,7 +34,7 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.64.1
-- dart-sdk 2.2.0
+- dart-sdk 2.3.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.0
@@ -43,12 +45,12 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 71.4.108.20190503
+- dropbox 72.4.136
 - emacs 26.2.0.20190417
-- etcher 1.5.33
+- etcher 1.5.39
 - ffmpeg 4.1.3
-- filezilla 3.41.2
-- Firefox 66.0.3
+- filezilla 3.42.1
+- Firefox 66.0.5
 - fontbase 2.7.0
 - fzf 0.18.0
 - gimp 2.10.10
@@ -61,7 +63,6 @@
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
-- hugo 0.55.5
 - hwinfo 6.04
 - hwinfo.install 6.04
 - imagemagick 7.0.8.34
@@ -88,8 +89,8 @@
 - neovim 0.3.5
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 12.0.0
-- nodejs.install 12.0.0
+- nodejs 12.2.0
+- nodejs.install 12.2.0
 - nvm.portable 1.1.7
 - obs-studio 23.1.0
 - obs-studio.install 23.1.0
@@ -131,6 +132,7 @@
 - typora 0.9.68
 - unetbootin 6.6.1
 - vcredist140 14.16.27027.1
+- vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27027.1
@@ -147,16 +149,15 @@
 - XnView 2.48.20190326
 - yarn 1.15.2
 - zoom 4.4.52532.0413
-- 139 packages installed.
+- 141 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.010.20099
+- Adobe Acrobat Reader DC MUI|19.012.20034
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.6.5.123
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
-- Android Studio|3.3
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
@@ -179,14 +180,16 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|74.0.3729.131
+- Google Chrome|74.0.3729.157
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
 - HiSuite|9.0.2.301
 - HLSW v1.4.0.2|
+- Hyper|3.0.0
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
+- Intel(R) Extreme Tuning Utility|6.5.1.321
 - Intel(R) Management Engine Components|1846.12.0.1177
 - Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
 - Intel(R) Processor Graphics|25.20.100.6519
@@ -200,6 +203,7 @@
 - Laragon 3.5.0|3.5.0.181017
 - Logitech Capture|1.0.553
 - Logitech Gaming Software 8.96|8.96.88
+- Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
@@ -219,7 +223,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|66.0.3
+- Mozilla Maintenance Service|66.0.5
 - Mozilla Thunderbird 60.6.1 (x86 cs)|60.6.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -229,10 +233,10 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 60.0.3255.70|60.0.3255.70
+- Opera Stable 60.0.3255.95|60.0.3255.95
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.128.0.10
+- Overwolf|0.129.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.0.6|7.0.6
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -242,6 +246,7 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.45|8.45
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -253,7 +258,8 @@
 - TallowBundle|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.2.3
-- Telegram Desktop version 1.6.7|1.6.7
+- Telegram Desktop version 1.7|1.7
+- Terminus|1.0.77
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.3.1|4.3.1
@@ -269,8 +275,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 120 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 124 applications not managed with Chocolatey.
