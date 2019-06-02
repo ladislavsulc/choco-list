@@ -1,11 +1,11 @@
 Chocolatey v
- validations performed  success(es),  warning(s), and  error(s)
-
-Validation Warnings:
- - A pending system reboot request has been detected, however, this is
-   being ignored due to the current command being used 'list'
-   It is recommended that you reboot at your earliest convenience
-
+This is try / Retrying after  milliseconds
+ Error converted to warning:
+ Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
+This is try / Retrying after  milliseconds
+ Error converted to warning:
+ Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
+Maximum tries of  reached Throwing error
 ack 
 adb 
 adobereader 

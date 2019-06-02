@@ -1,16 +1,16 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.13
-- 2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
-- 
-- Validation Warnings:
--  - A pending system reboot request has been detected, however, this is
--    being ignored due to the current command being used 'list'.
--    It is recommended that you reboot at your earliest convenience.
-- 
+- Chocolatey v0.10.14
+- This is try 1/3. Retrying after 300 milliseconds.
+-  Error converted to warning:
+-  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
+- This is try 2/3. Retrying after 400 milliseconds.
+-  Error converted to warning:
+-  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
+- Maximum tries of 3 reached. Throwing error.
 - ack 2.22
 - adb 28.0.3
-- adobereader 2019.010.20099
+- adobereader 2019.012.20034
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -24,17 +24,17 @@
 - Boxstarter.Common 2.12.0
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
-- chocolatey 0.10.13
+- chocolatey 0.10.14
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 15.038
 - composer 4.10.0
-- coretemp 1.13
+- coretemp 1.14
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.64.1
-- dart-sdk 2.3.0
+- curl 7.65.0
+- dart-sdk 2.3.1
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.0
@@ -45,12 +45,12 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 72.4.136
+- dropbox 73.4.118
 - emacs 26.2.0.20190417
-- etcher 1.5.39
+- etcher 1.5.43
 - ffmpeg 4.1.3
 - filezilla 3.42.1
-- Firefox 66.0.5
+- Firefox 67.0
 - fontbase 2.7.0
 - fzf 0.18.0
 - gimp 2.10.10
@@ -63,10 +63,11 @@
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
-- hwinfo 6.04
-- hwinfo.install 6.04
-- imagemagick 7.0.8.34
-- imagemagick.app 7.0.8.34
+- hugo 0.55.6
+- hwinfo 6.06
+- hwinfo.install 6.06
+- imagemagick 7.0.8.45
+- imagemagick.app 7.0.8.45
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.211
@@ -77,8 +78,8 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.70.0.10
-- kodi 18.1
+- kitty 0.71.0.2
+- kodi 18.2
 - krita 4.1.7
 - mc 4.8.21.209
 - microsoft-teams 1.2.00.8864
@@ -89,57 +90,57 @@
 - neovim 0.3.5
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 12.2.0
-- nodejs.install 12.2.0
+- nodejs 12.3.1
+- nodejs.install 12.3.1
 - nvm.portable 1.1.7
 - obs-studio 23.1.0
 - obs-studio.install 23.1.0
 - openssh 7.9.0.1
-- Opera 60.0.3255.70
-- performancetest 9.0.1030
-- php 7.3.4
+- Opera 60.0.3255.109
+- performancetest 9.0.1031
+- php 7.3.6
 - Pinta 1.5.0.20130501
 - pngquant 2.12.2
 - pngyu 1.0.1
-- poedit 2.2.1
-- postman 7.0.6
+- poedit 2.2.3
+- postman 7.1.1
 - putty 0.71
 - putty.portable 0.71
 - python 3.7.3
 - python2 2.7.16
 - python3 3.7.3
-- qbittorrent 4.1.5.20190116
+- qbittorrent 4.1.6
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
 - ricochet 1.1.4
-- ripgrep 0.10.0
+- ripgrep 11.0.1
 - rsync 5.7.1.20180411
-- ruby 2.6.1.1
+- ruby 2.6.3.1
 - rufus 3.5
 - sharex 12.4.1
-- skype 8.42.0.60
-- slack 3.3.7
+- skype 8.46.0.60
+- slack 3.4.2
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
 - subtitleedit 3.5.9
 - TcpView 3.05
-- teamspeak 3.2.3.20190222
-- teamviewer 14.2.2558
-- thunderbird 60.6.1
-- tor-browser 8.0.8
+- teamspeak 3.2.5
+- teamviewer 14.2.8352
+- thunderbird 60.7.0
+- tor-browser 8.5
 - treesizefree 4.3.1.2
-- typora 0.9.68
+- typora 0.9.70
 - unetbootin 6.6.1
-- vcredist140 14.16.27027.1
+- vcredist140 14.20.27508.1
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
-- vcredist2017 14.16.27027.1
+- vcredist2017 14.16.27027.20190415
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.6
-- vscode 1.33.1
+- vscode 1.34.0
 - webp 1.0.0
 - Wget 1.20.3
 - whois 1.20
@@ -147,9 +148,9 @@
 - winscp.install 5.15.1
 - wireshark 3.0.1
 - XnView 2.48.20190326
-- yarn 1.15.2
-- zoom 4.4.52532.0413
-- 141 packages installed.
+- yarn 1.16.0
+- zoom 4.4.52578.0415
+- 142 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20034
@@ -180,7 +181,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|74.0.3729.157
+- Google Chrome|74.0.3729.169
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -221,10 +222,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27027|14.16.27027.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.20.27508|14.20.27508.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.20.27508|14.20.27508.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|66.0.5
-- Mozilla Thunderbird 60.6.1 (x86 cs)|60.6.1
+- Mozilla Maintenance Service|67.0
+- Mozilla Thunderbird 60.7.0 (x86 cs)|60.7.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -233,20 +235,20 @@
 - Nucleo 2.5.3|2.5.3
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 60.0.3255.95|60.0.3255.95
+- Opera Stable 60.0.3255.109|60.0.3255.109
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.129.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.0.6|7.0.6
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6657.0
-- qBittorrent 4.1.5|4.1.5
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.45|8.45
+- Skype verze 8.46|8.46
+- Slack|3.4.2
+- Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
 - StarDict (remove only)|
@@ -257,8 +259,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- TeamSpeak 3 Client|3.2.3
-- Telegram Desktop version 1.7|1.7
+- Telegram Desktop version 1.7.3|1.7.3
 - Terminus|1.0.77
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
