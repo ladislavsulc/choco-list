@@ -1,13 +1,6 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v0.10.14
-- This is try 1/3. Retrying after 300 milliseconds.
--  Error converted to warning:
--  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
-- This is try 2/3. Retrying after 400 milliseconds.
--  Error converted to warning:
--  Pý¡stup k cestØ C:\ProgramData\chocolatey\choco.exe.old byl odepýen.
-- Maximum tries of 3 reached. Throwing error.
+- Chocolatey v0.10.15
 - ack 2.22
 - adb 28.0.3
 - adobereader 2019.012.20034
@@ -24,7 +17,7 @@
 - Boxstarter.Common 2.12.0
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
-- chocolatey 0.10.14
+- chocolatey 0.10.15
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
@@ -33,7 +26,7 @@
 - coretemp 1.14
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.65.0
+- curl 7.65.1
 - dart-sdk 2.3.1
 - ditto 3.22.20.0
 - docker 99.0.0
@@ -45,17 +38,17 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 73.4.118
+- dropbox 75.3.115
 - emacs 26.2.0.20190417
-- etcher 1.5.43
+- etcher 1.5.45
 - ffmpeg 4.1.3
 - filezilla 3.42.1
-- Firefox 67.0
+- Firefox 67.0.1
 - fontbase 2.7.0
 - fzf 0.18.0
 - gimp 2.10.10
-- git 2.21.0
-- git.install 2.21.0
+- git 2.22.0
+- git.install 2.22.0
 - gitbook-editor 7.0.12
 - gnucash 3.5
 - google-backup-and-sync 3.43.2448.9071
@@ -66,8 +59,8 @@
 - hugo 0.55.6
 - hwinfo 6.06
 - hwinfo.install 6.06
-- imagemagick 7.0.8.45
-- imagemagick.app 7.0.8.45
+- imagemagick 7.0.8.48
+- imagemagick.app 7.0.8.48
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.211
@@ -78,25 +71,25 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.2
+- kitty 0.71.0.3
 - kodi 18.2
-- krita 4.1.7
+- krita 4.2.1
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.8864
+- microsoft-teams 1.2.00.13765
 - mkcert 1.3.0
 - mobaxterm 11.1.0
 - mysql.workbench 8.0.16
 - nano 2.5.3
-- neovim 0.3.5
+- neovim 0.3.6
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 12.3.1
-- nodejs.install 12.3.1
+- nodejs 12.4.0
+- nodejs.install 12.4.0
 - nvm.portable 1.1.7
 - obs-studio 23.1.0
 - obs-studio.install 23.1.0
 - openssh 7.9.0.1
-- Opera 60.0.3255.109
+- Opera 60.0.3255.151
 - performancetest 9.0.1031
 - php 7.3.6
 - Pinta 1.5.0.20130501
@@ -126,37 +119,37 @@
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.2.5
-- teamviewer 14.2.8352
+- teamviewer 14.3.4730
 - thunderbird 60.7.0
-- tor-browser 8.5
+- tor-browser 8.5.1
 - treesizefree 4.3.1.2
 - typora 0.9.70
 - unetbootin 6.6.1
-- vcredist140 14.20.27508.1
+- vcredist140 14.21.27702.2
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27027.20190415
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.6
-- vscode 1.34.0
+- vlc 3.0.7
+- vscode 1.35.0
 - webp 1.0.0
-- Wget 1.20.3
+- Wget 1.20.3.20190531
 - whois 1.20
-- winscp 5.15.1
-- winscp.install 5.15.1
-- wireshark 3.0.1
+- winscp 5.15.2
+- winscp.install 5.15.2
+- wireshark 3.0.2
 - XnView 2.48.20190326
 - yarn 1.16.0
-- zoom 4.4.52578.0415
+- zoom 4.4.53595.0520
 - 142 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20034
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
-- Affinity Designer|1.6.5.123
+- Affinity Designer|1.7.0.367
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
 - Aplikace IntelR PROSet/Wireless|20.80.0
@@ -171,6 +164,7 @@
 - Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
+- Dropbox|75.3.115
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|71.4.0
 - Figma Font Helper|21.0
@@ -196,7 +190,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|20.120.2.1
-- IntelR Driver &amp; Support Assistant|19.4.18.9
+- IntelR Driver &amp; Support Assistant|19.5.22.9
 - ITE Infrared Transceiver|1.05.0000
 - Java 8 Update 211|8.0.2110.12
 - KeePass Password Safe 2.38|2.38
@@ -209,7 +203,7 @@
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.8864
+- Microsoft Teams|1.2.00.13765
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -222,20 +216,20 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.20.27508|14.20.27508.1
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.20.27508|14.20.27508.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|67.0
+- Mozilla Maintenance Service|67.0.1
 - Mozilla Thunderbird 60.7.0 (x86 cs)|60.7.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
 - Nexus Root Toolkit|2.1.9
 - Npcap 0.99-r2|0.99-r2
-- Nucleo 2.5.3|2.5.3
+- Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 60.0.3255.109|60.0.3255.109
+- Opera Stable 60.0.3255.151|60.0.3255.151
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.129.0.15
@@ -276,4 +270,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 124 applications not managed with Chocolatey.
+- 125 applications not managed with Chocolatey.

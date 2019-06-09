@@ -1,11 +1,4 @@
 Chocolatey v
-This is try / Retrying after  milliseconds
- Error converted to warning:
- Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
-This is try / Retrying after  milliseconds
- Error converted to warning:
- Pý¡stup k cestØ C:\ProgramData\chocolatey\chocoexeold byl odepýen
-Maximum tries of  reached Throwing error
 ack 
 adb 
 adobereader 
@@ -149,3 +142,7 @@ XnView
 yarn 
 zoom 
  packages installed
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolateyorg/compare
