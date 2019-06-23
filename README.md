@@ -146,10 +146,10 @@
 - 142 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.012.20034
+- Adobe Acrobat Reader DC MUI|19.012.20035
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
-- Affinity Designer|1.7.0.367
+- Affinity Designer|1.7.1.404
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
 - Aplikace IntelR PROSet/Wireless|20.80.0
@@ -164,7 +164,7 @@
 - Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
-- Dropbox|75.3.115
+- Dropbox|76.3.110
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|71.4.0
 - Figma Font Helper|21.0
@@ -175,7 +175,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|74.0.3729.169
+- Google Chrome|75.0.3770.100
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -219,8 +219,9 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Firefox 67.0.4 (x64 cs)|67.0.4
 - Mozilla Maintenance Service|67.0.1
-- Mozilla Thunderbird 60.7.0 (x86 cs)|60.7.0
+- Mozilla Thunderbird 60.7.2 (x86 cs)|60.7.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -229,10 +230,10 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 60.0.3255.151|60.0.3255.151
+- Opera Stable 60.0.3255.170|60.0.3255.170
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.129.0.15
+- Overwolf|0.130.0.23
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6657.0
@@ -241,7 +242,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
 - Skype verze 8.46|8.46
-- Slack|3.4.2
+- Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -253,7 +254,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.7.3|1.7.3
+- Telegram Desktop version 1.7.9|1.7.9
 - Terminus|1.0.77
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -270,4 +271,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 125 applications not managed with Chocolatey.
+- 126 applications not managed with Chocolatey.
