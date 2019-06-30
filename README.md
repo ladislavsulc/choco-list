@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 2.22
 - adb 28.0.3
-- adobereader 2019.012.20034
+- adobereader 2019.012.20035
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -21,16 +21,16 @@
 - chocolatey-core.extension 1.3.3
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
-- cinebench 15.038
+- cinebench 20.0
 - composer 4.10.0
 - coretemp 1.14
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.65.1
-- dart-sdk 2.3.1
+- dart-sdk 2.3.2
 - ditto 3.22.20.0
 - docker 99.0.0
-- docker-cli 18.09.0
+- docker-cli 18.09.6
 - docker-desktop 2.0.0.3
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
@@ -38,29 +38,29 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 75.3.115
+- dropbox 76.3.110
 - emacs 26.2.0.20190417
-- etcher 1.5.45
+- etcher 1.5.50
 - ffmpeg 4.1.3
 - filezilla 3.42.1
-- Firefox 67.0.1
-- fontbase 2.7.0
+- Firefox 67.0.4
+- fontbase 2.8.2
 - fzf 0.18.0
-- gimp 2.10.10
+- gimp 2.10.12
 - git 2.22.0
 - git.install 2.22.0
 - gitbook-editor 7.0.12
 - gnucash 3.5
-- google-backup-and-sync 3.43.2448.9071
+- google-backup-and-sync 3.44.4943.6228
 - gptgen 1.1.20180516
 - grepwin 1.9.1
 - gtksharp 2.12.45
 - heidisql 10.1.0.5464
 - hugo 0.55.6
-- hwinfo 6.06
-- hwinfo.install 6.06
-- imagemagick 7.0.8.48
-- imagemagick.app 7.0.8.48
+- hwinfo 6.08
+- hwinfo.install 6.08
+- imagemagick 7.0.8.49
+- imagemagick.app 7.0.8.49
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.211
@@ -71,7 +71,7 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.3
+- kitty 0.71.0.4
 - kodi 18.2
 - krita 4.2.1
 - mc 4.8.21.209
@@ -80,14 +80,14 @@
 - mobaxterm 11.1.0
 - mysql.workbench 8.0.16
 - nano 2.5.3
-- neovim 0.3.6
+- neovim 0.3.7
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
 - nodejs 12.4.0
 - nodejs.install 12.4.0
 - nvm.portable 1.1.7
-- obs-studio 23.1.0
-- obs-studio.install 23.1.0
+- obs-studio 23.2.1
+- obs-studio.install 23.2.1
 - openssh 7.9.0.1
 - Opera 60.0.3255.151
 - performancetest 9.0.1031
@@ -96,7 +96,7 @@
 - pngquant 2.12.2
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.1.1
+- postman 7.2.2
 - putty 0.71
 - putty.portable 0.71
 - python 3.7.3
@@ -112,18 +112,18 @@
 - ruby 2.6.3.1
 - rufus 3.5
 - sharex 12.4.1
-- skype 8.46.0.60
-- slack 3.4.2
+- skype 8.47.0.59
+- slack 3.4.3
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
 - subtitleedit 3.5.9
 - TcpView 3.05
-- teamspeak 3.2.5
+- teamspeak 3.3.0
 - teamviewer 14.3.4730
-- thunderbird 60.7.0
-- tor-browser 8.5.1
+- thunderbird 60.7.2
+- tor-browser 8.5.3
 - treesizefree 4.3.1.2
-- typora 0.9.70
+- typora 0.9.72
 - unetbootin 6.6.1
 - vcredist140 14.21.27702.2
 - vcredist2008 9.0.30729.6163
@@ -132,8 +132,8 @@
 - vcredist2017 14.16.27027.20190415
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.7
-- vscode 1.35.0
+- vlc 3.0.7.1
+- vscode 1.35.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -142,7 +142,7 @@
 - wireshark 3.0.2
 - XnView 2.48.20190326
 - yarn 1.16.0
-- zoom 4.4.53595.0520
+- zoom 4.4.53901.0616
 - 142 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -164,7 +164,7 @@
 - Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
-- Dropbox|76.3.110
+- Dropbox|76.3.120
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|71.4.0
 - Figma Font Helper|21.0
@@ -190,7 +190,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|20.120.2.1
-- IntelR Driver &amp; Support Assistant|19.5.22.9
+- IntelR Driver &amp; Support Assistant|19.6.26.3
 - ITE Infrared Transceiver|1.05.0000
 - Java 8 Update 211|8.0.2110.12
 - KeePass Password Safe 2.38|2.38
@@ -218,6 +218,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
+- Microsoft Visual Studio Code|1.35.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Firefox 67.0.4 (x64 cs)|67.0.4
 - Mozilla Maintenance Service|67.0.1
@@ -233,15 +234,15 @@
 - Opera Stable 60.0.3255.170|60.0.3255.170
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.130.0.23
+- Overwolf|0.131.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
+- Postman-win64-7.2.2|7.2.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6657.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.46|8.46
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -254,7 +255,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.7.9|1.7.9
+- Telegram Desktop version 1.7.10|1.7.10
 - Terminus|1.0.77
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -271,4 +272,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 126 applications not managed with Chocolatey.
+- 127 applications not managed with Chocolatey.
