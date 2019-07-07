@@ -59,6 +59,7 @@ hwinfo
 hwinfoinstall 
 imagemagick 
 imagemagickapp 
+insomnia-rest-api-client 
 javaruntime 
 jq 
 jre 

@@ -2,12 +2,12 @@
 
 - Chocolatey v0.10.15
 - ack 2.22
-- adb 28.0.3
+- adb 29.0.1
 - adobereader 2019.012.20035
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- airdroid 3.6.4.01
+- airdroid 3.6.5.000
 - androidstudio 3.4.1.0
 - autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.3.4
@@ -27,7 +27,7 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.65.1
-- dart-sdk 2.3.2
+- dart-sdk 2.4.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.6
@@ -40,9 +40,9 @@
 - dotnetfx 4.7.2.20180712
 - dropbox 76.3.110
 - emacs 26.2.0.20190417
-- etcher 1.5.50
+- etcher 1.5.51
 - ffmpeg 4.1.3
-- filezilla 3.42.1
+- filezilla 3.43.0
 - Firefox 67.0.4
 - fontbase 2.8.2
 - fzf 0.18.0
@@ -50,17 +50,18 @@
 - git 2.22.0
 - git.install 2.22.0
 - gitbook-editor 7.0.12
-- gnucash 3.5
-- google-backup-and-sync 3.44.4943.6228
+- gnucash 3.6
+- google-backup-and-sync 3.44.4943.6229
 - gptgen 1.1.20180516
 - grepwin 1.9.1
 - gtksharp 2.12.45
-- heidisql 10.1.0.5464
+- heidisql 10.2.0.5599
 - hugo 0.55.6
 - hwinfo 6.08
 - hwinfo.install 6.08
 - imagemagick 7.0.8.49
 - imagemagick.app 7.0.8.49
+- insomnia-rest-api-client 6.5.4
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.211
@@ -71,8 +72,8 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.4
-- kodi 18.2
+- kitty 0.71.0.5
+- kodi 18.3.0.20190629
 - krita 4.2.1
 - mc 4.8.21.209
 - microsoft-teams 1.2.00.13765
@@ -143,7 +144,7 @@
 - XnView 2.48.20190326
 - yarn 1.16.0
 - zoom 4.4.53901.0616
-- 142 packages installed.
+- 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20035
@@ -182,6 +183,7 @@
 - HiSuite|9.0.2.301
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
+- Insomnia|6.5.4
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -218,7 +220,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
-- Microsoft Visual Studio Code|1.35.1
+- Microsoft Visual Studio Code|1.36.0
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Firefox 67.0.4 (x64 cs)|67.0.4
 - Mozilla Maintenance Service|67.0.1
@@ -255,7 +257,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.7.10|1.7.10
+- Telegram Desktop version 1.7.13|1.7.13
 - Terminus|1.0.77
 - Termius 2.0.1 (only current user)|2.0.1
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -272,4 +274,8 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 127 applications not managed with Chocolatey.
+- 128 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
