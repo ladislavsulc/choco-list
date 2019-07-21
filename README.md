@@ -8,7 +8,6 @@
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.5.000
-- androidstudio 3.4.1.0
 - autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.3.4
 - blender 2.79.2
@@ -26,7 +25,7 @@
 - coretemp 1.14
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.65.1
+- curl 7.65.3
 - dart-sdk 2.4.0
 - ditto 3.22.20.0
 - docker 99.0.0
@@ -38,12 +37,12 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 76.3.110
+- dropbox 78.3.109
 - emacs 26.2.0.20190417
 - etcher 1.5.51
-- ffmpeg 4.1.3
+- ffmpeg 4.1.4
 - filezilla 3.43.0
-- Firefox 67.0.4
+- Firefox 68.0.1
 - fontbase 2.8.2
 - fzf 0.18.0
 - gimp 2.10.12
@@ -59,12 +58,12 @@
 - hugo 0.55.6
 - hwinfo 6.08
 - hwinfo.install 6.08
-- imagemagick 7.0.8.49
-- imagemagick.app 7.0.8.49
+- imagemagick 7.0.8.55
+- imagemagick.app 7.0.8.55
 - insomnia-rest-api-client 6.5.4
 - javaruntime 8.0.191
 - jq 1.5
-- jre8 8.0.211
+- jre8 8.0.221
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -72,37 +71,37 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.5
+- kitty 0.71.0.6
 - kodi 18.3.0.20190629
-- krita 4.2.1
+- krita 4.2.3
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.13765
+- microsoft-teams 1.2.00.17057
 - mkcert 1.3.0
 - mobaxterm 11.1.0
 - mysql.workbench 8.0.16
 - nano 2.5.3
-- neovim 0.3.7
+- neovim 0.3.8
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 12.4.0
-- nodejs.install 12.4.0
+- nodejs 12.6.0
+- nodejs.install 12.6.0
 - nvm.portable 1.1.7
 - obs-studio 23.2.1
 - obs-studio.install 23.2.1
-- openssh 7.9.0.1
-- Opera 60.0.3255.151
+- openssh 8.0.0.1
+- Opera 62.0.3331.72
 - performancetest 9.0.1031
-- php 7.3.6
+- php 7.3.7
 - Pinta 1.5.0.20130501
-- pngquant 2.12.2
+- pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
 - postman 7.2.2
-- putty 0.71
-- putty.portable 0.71
-- python 3.7.3
+- putty 0.72
+- putty.portable 0.72
+- python 3.7.4
 - python2 2.7.16
-- python3 3.7.3
+- python3 3.7.4
 - qbittorrent 4.1.6
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
@@ -113,7 +112,7 @@
 - ruby 2.6.3.1
 - rufus 3.5
 - sharex 12.4.1
-- skype 8.47.0.59
+- skype 8.48.0.51
 - slack 3.4.3
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
@@ -134,7 +133,7 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.7.1
-- vscode 1.35.1
+- vscode 1.36.0
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -144,7 +143,7 @@
 - XnView 2.48.20190326
 - yarn 1.16.0
 - zoom 4.4.53901.0616
-- 143 packages installed.
+- 142 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20035
@@ -153,6 +152,7 @@
 - Affinity Designer|1.7.1.404
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
+- Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
@@ -165,9 +165,8 @@
 - Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
-- Dropbox|76.3.120
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|71.4.0
+- Figma|73.7.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FormApps Signing Extension|2.24.0.43
@@ -176,13 +175,14 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|75.0.3770.100
+- Google Chrome|75.0.3770.142
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
-- HiSuite|9.0.2.301
+- HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
+- ImageMagick 7.0.8-55 Q16 (64-bit) (2019-07-19)|7.0.8
 - Insomnia|6.5.4
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
@@ -194,18 +194,18 @@
 - Intel(R) Wireless Bluetooth(R)|20.120.2.1
 - IntelR Driver &amp; Support Assistant|19.6.26.3
 - ITE Infrared Transceiver|1.05.0000
-- Java 8 Update 211|8.0.2110.12
+- Java 8 Update 221|8.0.2210.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Laragon 3.5.0|3.5.0.181017
-- Logitech Capture|1.0.553
+- Logitech Capture|1.10.102
 - Logitech Gaming Software 8.96|8.96.88
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.13765
+- Microsoft Teams|1.2.00.17057
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -220,11 +220,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
-- Microsoft Visual Studio Code|1.36.0
+- Microsoft Visual Studio Code|1.36.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Firefox 67.0.4 (x64 cs)|67.0.4
-- Mozilla Maintenance Service|67.0.1
-- Mozilla Thunderbird 60.7.2 (x86 cs)|60.7.2
+- Mozilla Maintenance Service|68.0.1
+- Mozilla Thunderbird 60.8.0 (x86 cs)|60.8.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -233,18 +232,19 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 60.0.3255.170|60.0.3255.170
+- Opera Stable 62.0.3331.72|62.0.3331.72
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.131.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.2.2|7.2.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
-- Python Launcher|3.7.6657.0
+- Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.49|8.49
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -257,16 +257,16 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.7.13|1.7.13
+- Telegram Desktop version 1.7.14|1.7.14
 - Terminus|1.0.77
-- Termius 2.0.1 (only current user)|2.0.1
+- Termius 4.9.2|4.9.2
 - Total Commander 64-bit (Remove or Repair)|9.12
 - TreeSize Free V4.3.1|4.3.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
-- WD Discovery|3.2.256
+- WD Discovery|3.3.34
 - WD Drive Utilities|2.0.0.54
 - WD Security|2.0.0.48
 - Win10Pcap|10.2.5002
@@ -274,8 +274,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 128 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 129 applications not managed with Chocolatey.
