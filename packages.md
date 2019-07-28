@@ -72,6 +72,7 @@ kindle
 kitty 
 kodi 
 krita 
+libreoffice-fresh 
 mc 
 microsoft-teams 
 mkcert 

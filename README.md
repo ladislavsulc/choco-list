@@ -37,9 +37,9 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 78.3.109
+- dropbox 78.3.112
 - emacs 26.2.0.20190417
-- etcher 1.5.51
+- etcher 1.5.52
 - ffmpeg 4.1.4
 - filezilla 3.43.0
 - Firefox 68.0.1
@@ -52,14 +52,14 @@
 - gnucash 3.6
 - google-backup-and-sync 3.44.4943.6229
 - gptgen 1.1.20180516
-- grepwin 1.9.1
+- grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.5599
-- hugo 0.55.6
+- hugo 0.56.1
 - hwinfo 6.08
 - hwinfo.install 6.08
-- imagemagick 7.0.8.55
-- imagemagick.app 7.0.8.55
+- imagemagick 7.0.8.56
+- imagemagick.app 7.0.8.56
 - insomnia-rest-api-client 6.5.4
 - javaruntime 8.0.191
 - jq 1.5
@@ -71,32 +71,33 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.6
+- kitty 0.71.0.7
 - kodi 18.3.0.20190629
 - krita 4.2.3
+- libreoffice-fresh 6.2.5
 - mc 4.8.21.209
 - microsoft-teams 1.2.00.17057
 - mkcert 1.3.0
 - mobaxterm 11.1.0
-- mysql.workbench 8.0.16
+- mysql.workbench 8.0.17
 - nano 2.5.3
 - neovim 0.3.8
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.70
-- nodejs 12.6.0
-- nodejs.install 12.6.0
+- nodejs 12.7.0
+- nodejs.install 12.7.0
 - nvm.portable 1.1.7
 - obs-studio 23.2.1
 - obs-studio.install 23.2.1
 - openssh 8.0.0.1
-- Opera 62.0.3331.72
+- Opera 62.0.3331.99
 - performancetest 9.0.1031
 - php 7.3.7
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.2.2
+- postman 7.3.4
 - putty 0.72
 - putty.portable 0.72
 - python 3.7.4
@@ -110,22 +111,22 @@
 - ripgrep 11.0.1
 - rsync 5.7.1.20180411
 - ruby 2.6.3.1
-- rufus 3.5
+- rufus 3.6
 - sharex 12.4.1
-- skype 8.48.0.51
-- slack 3.4.3
+- skype 8.50.0.38
+- slack 4.0.0
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
 - subtitleedit 3.5.9
 - TcpView 3.05
 - teamspeak 3.3.0
-- teamviewer 14.3.4730
-- thunderbird 60.7.2
-- tor-browser 8.5.3
+- teamviewer 14.4.2669
+- thunderbird 60.8.0
+- tor-browser 8.5.4
 - treesizefree 4.3.1.2
 - typora 0.9.72
 - unetbootin 6.6.1
-- vcredist140 14.21.27702.2
+- vcredist140 14.22.27821
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
@@ -133,17 +134,17 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.7.1
-- vscode 1.36.0
+- vscode 1.36.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
-- winscp 5.15.2
-- winscp.install 5.15.2
-- wireshark 3.0.2
+- winscp 5.15.3
+- winscp.install 5.15.3
+- wireshark 3.0.3
 - XnView 2.48.20190326
-- yarn 1.16.0
-- zoom 4.4.53901.0616
-- 142 packages installed.
+- yarn 1.17.3
+- zoom 4.4.55389.0716
+- 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20035
@@ -182,7 +183,6 @@
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
-- ImageMagick 7.0.8-55 Q16 (64-bit) (2019-07-19)|7.0.8
 - Insomnia|6.5.4
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
@@ -218,8 +218,8 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702|14.21.27702.2
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702|14.21.27702.2
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
 - Microsoft Visual Studio Code|1.36.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|68.0.1
@@ -232,19 +232,17 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 62.0.3331.72|62.0.3331.72
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.131.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.2.2|7.2.2
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.49|8.49
+- Skype verze 8.50|8.50
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -267,11 +265,11 @@
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.3.34
-- WD Drive Utilities|2.0.0.54
-- WD Security|2.0.0.48
+- WD Drive Utilities|2.0.0.63
+- WD Security|2.0.0.63
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 129 applications not managed with Chocolatey.
+- 126 applications not managed with Chocolatey.
