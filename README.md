@@ -10,7 +10,7 @@
 - airdroid 3.6.5.000
 - autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.3.4
-- blender 2.79.2
+- blender 2.80
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -26,20 +26,20 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.65.3
-- dart-sdk 2.4.0
+- dart-sdk 2.4.1
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.6
-- docker-desktop 2.0.0.3
+- docker-desktop 2.1.0.1
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 78.3.112
+- dropbox 79.3.121
 - emacs 26.2.0.20190417
-- etcher 1.5.52
+- etcher 1.5.53
 - ffmpeg 4.1.4
 - filezilla 3.43.0
 - Firefox 68.0.1
@@ -156,6 +156,7 @@
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
+- balenaEtcher 1.5.52|1.5.52
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
@@ -167,7 +168,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|73.7.0
+- Figma|75.0.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FormApps Signing Extension|2.24.0.43
@@ -176,7 +177,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|75.0.3770.142
+- Google Chrome|76.0.3809.100
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -192,6 +193,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|20.120.2.1
+- IntelR Driver &amp; Support Assistant|19.7.30.2
 - IntelR Driver &amp; Support Assistant|19.6.26.3
 - ITE Infrared Transceiver|1.05.0000
 - Java 8 Update 221|8.0.2210.11
@@ -220,7 +222,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
-- Microsoft Visual Studio Code|1.36.1
+- Microsoft Visual Studio Code|1.37.0
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|68.0.1
 - Mozilla Thunderbird 60.8.0 (x86 cs)|60.8.0
@@ -232,6 +234,7 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 62.0.3331.116|62.0.3331.116
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.131.0.15
@@ -255,7 +258,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.7.14|1.7.14
+- Telegram Desktop version 1.8.1|1.8.1
 - Terminus|1.0.77
 - Termius 4.9.2|4.9.2
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -272,4 +275,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 126 applications not managed with Chocolatey.
+- 129 applications not managed with Chocolatey.
