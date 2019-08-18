@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 2.22
 - adb 29.0.1
-- adobereader 2019.012.20035
+- adobereader 2019.012.20036.1
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -37,30 +37,30 @@
 - dotnet4.6.2 4.6.01590.20190226
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
-- dropbox 79.3.121
+- dropbox 79.4.143
 - emacs 26.2.0.20190417
 - etcher 1.5.53
-- ffmpeg 4.1.4
-- filezilla 3.43.0
-- Firefox 68.0.1
-- fontbase 2.8.2
+- ffmpeg 4.2
+- filezilla 3.44.1
+- Firefox 68.0.2
+- fontbase 2.8.5
 - fzf 0.18.0
 - gimp 2.10.12
 - git 2.22.0
 - git.install 2.22.0
 - gitbook-editor 7.0.12
 - gnucash 3.6
-- google-backup-and-sync 3.44.4943.6229
+- google-backup-and-sync 3.45.5545.5747
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.5599
-- hugo 0.56.1
-- hwinfo 6.08
-- hwinfo.install 6.08
+- hugo 0.57.2
+- hwinfo 6.10
+- hwinfo.install 6.10
 - imagemagick 7.0.8.56
 - imagemagick.app 7.0.8.56
-- insomnia-rest-api-client 6.5.4
+- insomnia-rest-api-client 6.6.2
 - javaruntime 8.0.191
 - jq 1.5
 - jre8 8.0.221
@@ -71,28 +71,28 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.7
+- kitty 0.71.0.701
 - kodi 18.3.0.20190629
-- krita 4.2.3
+- krita 4.2.5
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.17057
-- mkcert 1.3.0
-- mobaxterm 11.1.0
+- microsoft-teams 1.2.00.19260
+- mkcert 1.4.0
+- mobaxterm 12.1.0
 - mysql.workbench 8.0.17
 - nano 2.5.3
 - neovim 0.3.8
 - nexus-root-toolkit 2.1.9.20170607
-- nmap 7.70
-- nodejs 12.7.0
-- nodejs.install 12.7.0
+- nmap 7.80
+- nodejs 12.8.1
+- nodejs.install 12.8.1
 - nvm.portable 1.1.7
 - obs-studio 23.2.1
 - obs-studio.install 23.2.1
 - openssh 8.0.0.1
 - Opera 62.0.3331.99
 - performancetest 9.0.1031
-- php 7.3.7
+- php 7.3.8
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
@@ -103,38 +103,38 @@
 - python 3.7.4
 - python2 2.7.16
 - python3 3.7.4
-- qbittorrent 4.1.6
+- qbittorrent 4.1.7
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.2.0.3111
 - ricochet 1.1.4
-- ripgrep 11.0.1
+- ripgrep 11.0.2
 - rsync 5.7.1.20180411
 - ruby 2.6.3.1
 - rufus 3.6
 - sharex 12.4.1
-- skype 8.50.0.38
-- slack 4.0.0
+- skype 8.51.0.72
+- slack 4.0.1
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
-- subtitleedit 3.5.9
+- subtitleedit 3.5.10
 - TcpView 3.05
 - teamspeak 3.3.0
 - teamviewer 14.4.2669
 - thunderbird 60.8.0
 - tor-browser 8.5.4
 - treesizefree 4.3.1.2
-- typora 0.9.72
+- typora 0.9.73
 - unetbootin 6.6.1
 - vcredist140 14.22.27821
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2015 14.0.24215.20170201
-- vcredist2017 14.16.27027.20190415
+- vcredist2017 14.16.27033
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.7.1
-- vscode 1.36.1
+- vscode 1.37.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -147,7 +147,7 @@
 - 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.012.20035
+- Adobe Acrobat Reader DC MUI|19.012.20036
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.1.404
@@ -156,7 +156,6 @@
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.30.00|1.1.30.00
-- balenaEtcher 1.5.52|1.5.52
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
@@ -184,7 +183,7 @@
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
-- Insomnia|6.5.4
+- Insomnia|6.6.2
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -207,7 +206,7 @@
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.17057
+- Microsoft Teams|1.2.00.19260
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -222,15 +221,14 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
-- Microsoft Visual Studio Code|1.37.0
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|68.0.1
+- Mozilla Maintenance Service|68.0.2
 - Mozilla Thunderbird 60.8.0 (x86 cs)|60.8.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
 - Nexus Root Toolkit|2.1.9
-- Npcap 0.99-r2|0.99-r2
+- Npcap 0.9982|0.9982
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
@@ -239,13 +237,13 @@
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.131.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
+- Postman-win64-7.3.4|7.3.4
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.50|8.50
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -275,4 +273,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 129 applications not managed with Chocolatey.
+- 127 applications not managed with Chocolatey.
