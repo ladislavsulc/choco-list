@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 2.22
 - adb 29.0.1
-- adobereader 2019.012.20036.1
+- adobereader 2019.012.20040
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -18,11 +18,12 @@
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
 - chocolatey-core.extension 1.3.3
+- chocolatey-dotnetfx.extension 1.0.0
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0
 - composer 4.10.0
-- coretemp 1.14
+- coretemp 1.15
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.65.3
@@ -34,20 +35,20 @@
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
-- dotnet4.6.2 4.6.01590.20190226
+- dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.7.2.20180712
 - dropbox 79.4.143
 - emacs 26.2.0.20190417
-- etcher 1.5.53
+- etcher 1.5.56
 - ffmpeg 4.2
-- filezilla 3.44.1
+- filezilla 3.44.2
 - Firefox 68.0.2
 - fontbase 2.8.5
 - fzf 0.18.0
 - gimp 2.10.12
-- git 2.22.0
-- git.install 2.22.0
+- git 2.23.0
+- git.install 2.23.0
 - gitbook-editor 7.0.12
 - gnucash 3.6
 - google-backup-and-sync 3.45.5545.5747
@@ -58,8 +59,8 @@
 - hugo 0.57.2
 - hwinfo 6.10
 - hwinfo.install 6.10
-- imagemagick 7.0.8.56
-- imagemagick.app 7.0.8.56
+- imagemagick 7.0.8.61
+- imagemagick.app 7.0.8.61
 - insomnia-rest-api-client 6.6.2
 - javaruntime 8.0.191
 - jq 1.5
@@ -76,28 +77,29 @@
 - krita 4.2.5
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.19260
+- microsoft-teams 1.2.00.21068
 - mkcert 1.4.0
 - mobaxterm 12.1.0
 - mysql.workbench 8.0.17
 - nano 2.5.3
 - neovim 0.3.8
+- netfx-4.6.2 4.6.2.0
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 12.8.1
-- nodejs.install 12.8.1
+- nodejs 12.9.0
+- nodejs.install 12.9.0
 - nvm.portable 1.1.7
 - obs-studio 23.2.1
 - obs-studio.install 23.2.1
 - openssh 8.0.0.1
-- Opera 62.0.3331.99
+- Opera 63.0.3368.43
 - performancetest 9.0.1031
 - php 7.3.8
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.3.4
+- postman 7.5.0
 - putty 0.72
 - putty.portable 0.72
 - python 3.7.4
@@ -112,19 +114,19 @@
 - rsync 5.7.1.20180411
 - ruby 2.6.3.1
 - rufus 3.6
-- sharex 12.4.1
-- skype 8.51.0.72
-- slack 4.0.1
+- sharex 13.0.0
+- skype 8.51.0.86
+- slack 4.0.2
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
 - subtitleedit 3.5.10
 - TcpView 3.05
 - teamspeak 3.3.0
-- teamviewer 14.4.2669
+- teamviewer 14.5.1691
 - thunderbird 60.8.0
 - tor-browser 8.5.4
 - treesizefree 4.3.1.2
-- typora 0.9.73
+- typora 0.9.75
 - unetbootin 6.6.1
 - vcredist140 14.22.27821
 - vcredist2008 9.0.30729.6163
@@ -133,7 +135,7 @@
 - vcredist2017 14.16.27033
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.7.1
+- vlc 3.0.8
 - vscode 1.37.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
@@ -144,10 +146,10 @@
 - XnView 2.48.20190326
 - yarn 1.17.3
 - zoom 4.4.55389.0716
-- 143 packages installed.
+- 145 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.012.20036
+- Adobe Acrobat Reader DC MUI|19.012.20040
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.1.404
@@ -206,7 +208,7 @@
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.19260
+- Microsoft Teams|1.2.00.21068
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -232,18 +234,18 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 62.0.3331.116|62.0.3331.116
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.131.0.15
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.3.4|7.3.4
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
+- ShareX|13.0.0
+- Skype verze 8.51|8.51
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -256,7 +258,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.8.1|1.8.1
+- Telegram Desktop version 1.8.2|1.8.2
 - Terminus|1.0.77
 - Termius 4.9.2|4.9.2
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -265,7 +267,7 @@
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
 - Visual Studio Build Tools 2017|15.9.28307.145
-- WD Discovery|3.3.34
+- WD Discovery|3.4.89
 - WD Drive Utilities|2.0.0.63
 - WD Security|2.0.0.63
 - Win10Pcap|10.2.5002

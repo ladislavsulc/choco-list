@@ -16,6 +16,7 @@ BoxstarterWinConfig
 bsplayer 
 chocolatey 
 chocolatey-coreextension 
+chocolatey-dotnetfxextension 
 chocolatey-misc-helpersextension 
 chocolatey-windowsupdateextension 
 cinebench 
@@ -80,6 +81,7 @@ mobaxterm
 mysqlworkbench 
 nano 
 neovim 
+netfx- 
 nexus-root-toolkit 
 nmap 
 nodejs 
