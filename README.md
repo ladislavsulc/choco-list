@@ -8,6 +8,8 @@
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.5.000
+- autohotkey 1.1.30.03
+- autohotkey.install 1.1.30.03
 - autohotkey.portable 1.1.30.03
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
@@ -31,19 +33,19 @@
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 18.09.6
-- docker-desktop 2.1.0.1
+- docker-desktop 2.1.0.2
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.0
-- dropbox 80.3.119
+- dropbox 80.4.126
 - emacs 26.2.0.20190417
 - etcher 1.5.56
 - ffmpeg 4.2
 - filezilla 3.44.2
-- Firefox 68.0.2
+- Firefox 69.0
 - fontbase 2.9.4
 - fzf 0.18.0
 - gimp 2.10.12
@@ -55,12 +57,12 @@
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - gtksharp 2.12.45
-- heidisql 10.2.0.5599
-- hugo 0.57.2
+- heidisql 10.2.0.559900
+- hugo 0.58.1
 - hwinfo 6.10
 - hwinfo.install 6.10
-- imagemagick 7.0.8.62
-- imagemagick.app 7.0.8.62
+- imagemagick 7.0.8.63
+- imagemagick.app 7.0.8.63
 - insomnia-rest-api-client 6.6.2
 - javaruntime 8.0.191
 - jq 1.5
@@ -72,12 +74,12 @@
 - KB3035131 1.0.3
 - keepass 2.42.1
 - kindle 1.25.52064
-- kitty 0.71.0.701
-- kodi 18.4
+- kitty 0.72.0.1
+- kodi 18.4.0.20190904
 - krita 4.2.5
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.21068
+- microsoft-teams 1.2.00.22654
 - mkcert 1.4.0
 - mobaxterm 12.1.0
 - mysql.workbench 8.0.17
@@ -86,20 +88,20 @@
 - netfx-4.6.2 4.6.2.0
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 12.9.1
-- nodejs.install 12.9.1
+- nodejs 12.10.0
+- nodejs.install 12.10.0
 - nvm.portable 1.1.7
 - obs-studio 23.2.1
 - obs-studio.install 23.2.1
 - openssh 8.0.0.1
-- Opera 63.0.3368.53
+- Opera 63.0.3368.71
 - performancetest 9.0.1031
 - php 7.3.9
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.5.0
+- postman 7.6.0
 - putty 0.72
 - putty.portable 0.72
 - python 3.7.4
@@ -124,29 +126,31 @@
 - teamspeak 3.3.2
 - teamviewer 14.5.5819
 - thunderbird 68.0
-- tor-browser 8.5.4
+- tor-browser 8.5.5
 - treesizefree 4.3.1.2
-- typora 0.9.75
+- typora 0.9.77
 - unetbootin 6.6.1
 - vcredist140 14.22.27821
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
+- vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.37.1
+- vscode 1.38.0
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
+- winmerge 2.16.4
 - winscp 5.15.3
 - winscp.install 5.15.3
 - wireshark 3.0.3
 - XnView 2.48.20190326
 - yarn 1.17.3
 - zoom 4.5.3284.0828
-- 145 packages installed.
+- 149 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20040
@@ -157,7 +161,6 @@
 - Affinity Publisher Public Beta|1.7.0.192
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
-- AutoHotkey 1.1.30.00|1.1.30.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
@@ -168,7 +171,6 @@
 - Discord|0.0.305
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
-- Dropbox|80.3.119
 - Etcher 1.4.6 (only current user)|1.4.6
 - Figma|75.0.0
 - Figma Font Helper|21.0
@@ -183,6 +185,7 @@
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
+- HeidiSQL 10.2.0.5599|10.2
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
@@ -196,7 +199,7 @@
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.10.1.1
 - IntelR Driver &amp; Support Assistant|19.8.34.6
-- ITE Infrared Transceiver|1.05.0000
+- ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 221|8.0.2210.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
@@ -208,7 +211,7 @@
 - Mark Text 0.9.25|0.9.25
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.21068
+- Microsoft Teams|1.2.00.22654
 - Microsoft Visual C++ 2005 Redistributable|8.0.56336
 - Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
 - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
@@ -221,9 +224,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
+- Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Firefox 69.0 (x64 cs)|69.0
 - Mozilla Thunderbird 68.0 (x86 cs)|68.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -233,12 +238,12 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 63.0.3368.53|63.0.3368.53
+- Opera Stable 63.0.3368.71|63.0.3368.71
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.134.0.26
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.5.0|7.5.0
+- Postman-win64-7.6.0|7.6.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
@@ -258,7 +263,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.8.2|1.8.2
+- Telegram Desktop version 1.8.4|1.8.4
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -275,4 +280,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 127 applications not managed with Chocolatey.
+- 128 applications not managed with Chocolatey.

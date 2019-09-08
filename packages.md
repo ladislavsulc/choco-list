@@ -6,6 +6,8 @@ advanced-ip-scanner
 advor 
 ag 
 airdroid 
+autohotkey 
+autohotkeyinstall 
 autohotkeyportable 
 Bitnami-XAMPP 
 blender 
@@ -131,6 +133,7 @@ vcredist
 vcredist 
 vcredist 
 vcredist 
+vcredist 
 vim 
 visualstudiocode 
 vlc 
@@ -138,6 +141,7 @@ vscode
 webp 
 Wget 
 whois 
+winmerge 
 winscp 
 winscpinstall 
 wireshark 
