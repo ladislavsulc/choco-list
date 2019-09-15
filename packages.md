@@ -77,7 +77,6 @@ kodi
 krita 
 libreoffice-fresh 
 mc 
-microsoft-teams 
 mkcert 
 mobaxterm 
 mysqlworkbench 

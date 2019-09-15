@@ -28,11 +28,11 @@
 - coretemp 1.15.1
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.65.3
+- curl 7.66.0
 - dart-sdk 2.4.1
 - ditto 3.22.20.0
 - docker 99.0.0
-- docker-cli 18.09.6
+- docker-cli 19.03.1
 - docker-desktop 2.1.0.2
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
@@ -40,7 +40,7 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.0
-- dropbox 80.4.126
+- dropbox 80.4.127
 - emacs 26.2.0.20190417
 - etcher 1.5.56
 - ffmpeg 4.2
@@ -79,7 +79,6 @@
 - krita 4.2.5
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
-- microsoft-teams 1.2.00.22654
 - mkcert 1.4.0
 - mobaxterm 12.1.0
 - mysql.workbench 8.0.17
@@ -150,7 +149,7 @@
 - XnView 2.48.20190326
 - yarn 1.17.3
 - zoom 4.5.3284.0828
-- 149 packages installed.
+- 148 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|19.012.20040
@@ -172,7 +171,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|75.0.0
+- Figma|76.4.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FormApps Signing Extension|2.24.0.43
@@ -263,7 +262,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.8.4|1.8.4
+- Telegram Desktop version 1.8.8|1.8.8
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
