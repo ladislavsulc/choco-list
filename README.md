@@ -29,61 +29,61 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.66.0
-- dart-sdk 2.4.1
+- dart-sdk 2.5.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.1
-- docker-desktop 2.1.0.2
+- docker-desktop 2.1.0.3
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.0
-- dropbox 80.4.127
+- dropbox 81.4.195
 - emacs 26.2.0.20190417
-- etcher 1.5.56
-- ffmpeg 4.2
+- etcher 1.5.57
+- ffmpeg 4.2.1
 - filezilla 3.44.2
-- Firefox 69.0
+- Firefox 69.0.1
 - fontbase 2.9.4
 - fzf 0.18.0
 - gimp 2.10.12
 - git 2.23.0
 - git.install 2.23.0
 - gitbook-editor 7.0.12
-- gnucash 3.6
+- gnucash 3.7
 - google-backup-and-sync 3.45.5545.5747
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.559900
-- hugo 0.58.1
+- hugo 0.58.3
 - hwinfo 6.10
 - hwinfo.install 6.10
-- imagemagick 7.0.8.63
-- imagemagick.app 7.0.8.63
+- imagemagick 7.0.8.64
+- imagemagick.app 7.0.8.64
 - insomnia-rest-api-client 6.6.2
 - javaruntime 8.0.191
-- jq 1.5
+- jq 1.6
 - jre8 8.0.221
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
 - KB3033929 1.0.5
 - KB3035131 1.0.3
-- keepass 2.42.1
+- keepass 2.43
 - kindle 1.25.52064
-- kitty 0.72.0.1
+- kitty 0.72.0.3
 - kodi 18.4.0.20190904
-- krita 4.2.5
+- krita 4.2.6
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
 - mkcert 1.4.0
-- mobaxterm 12.1.0
+- mobaxterm 12.2.0
 - mysql.workbench 8.0.17
 - nano 2.5.3
-- neovim 0.3.8
+- neovim 0.4.2
 - netfx-4.6.2 4.6.2.0
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
@@ -100,7 +100,7 @@
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.6.0
+- postman 7.7.3
 - putty 0.72
 - putty.portable 0.72
 - python 3.7.4
@@ -109,22 +109,22 @@
 - qbittorrent 4.1.7
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
-- rainmeter 4.2.0.3111
+- rainmeter 4.3.0.3321
 - ricochet 1.1.4
 - ripgrep 11.0.2
 - rsync 5.7.1.20180411
-- ruby 2.6.3.1
-- rufus 3.6
+- ruby 2.6.4.1
+- rufus 3.8
 - sharex 13.0.1
-- skype 8.51.0.92
+- skype 8.52.0.138
 - slack 4.0.2
 - steam 3.0.1.20190215
 - sublimetext3 3.2.1
 - subtitleedit 3.5.10
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 14.5.5819
-- thunderbird 68.0
+- teamviewer 14.6.2452
+- thunderbird 68.1.0
 - tor-browser 8.5.5
 - treesizefree 4.3.1.2
 - typora 0.9.77
@@ -138,17 +138,17 @@
 - vim 8.0.604
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.38.0
+- vscode 1.38.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4
-- winscp 5.15.3
-- winscp.install 5.15.3
-- wireshark 3.0.3
+- winscp 5.15.4
+- winscp.install 5.15.4
+- wireshark 3.0.4
 - XnView 2.48.20190326
 - yarn 1.17.3
-- zoom 4.5.3284.0828
+- zoom 4.5.3372.0908
 - 148 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -226,9 +226,9 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
+- Microsoft Visual Studio Code|1.38.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Firefox 69.0 (x64 cs)|69.0
-- Mozilla Thunderbird 68.0 (x86 cs)|68.0
+- Mozilla Thunderbird 68.1.0 (x86 cs)|68.1.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -242,14 +242,13 @@
 - Outline Manager 1.0.2 (only current user)|1.0.2
 - Overwolf|0.134.0.26
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.6.0|7.6.0
+- Postman-win64-7.7.3|7.7.3
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python Launcher|3.7.6762.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.51|8.51
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -279,4 +278,4 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
-- 128 applications not managed with Chocolatey.
+- 127 applications not managed with Chocolatey.
