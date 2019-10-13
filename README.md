@@ -1,16 +1,16 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
-- ack 2.22
-- adb 29.0.1
+- ack 3.1.1
+- adb 29.0.4
 - adobereader 2019.012.20040
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.5.000
-- autohotkey 1.1.30.03
-- autohotkey.install 1.1.30.03
-- autohotkey.portable 1.1.30.03
+- autohotkey 1.1.31.00
+- autohotkey.install 1.1.31.00
+- autohotkey.portable 1.1.31.00
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
 - Boxstarter 2.12.0
@@ -20,16 +20,16 @@
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
 - chocolatey-core.extension 1.3.3
-- chocolatey-dotnetfx.extension 1.0.0
+- chocolatey-dotnetfx.extension 1.0.1
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
-- cinebench 20.0
+- cinebench 20.0.0.1
 - composer 4.10.0
 - coretemp 1.15.1
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.66.0
-- dart-sdk 2.5.0
+- curl 7.66.0.20190926
+- dart-sdk 2.5.2
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.1
@@ -39,16 +39,15 @@
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
-- dotnetfx 4.8.0.0
-- dropbox 81.4.195
+- dotnetfx 4.8.0.20190930
+- dropbox 83.3.140
 - emacs 26.2.0.20190417
-- etcher 1.5.57
+- etcher 1.5.58
 - ffmpeg 4.2.1
-- filezilla 3.44.2
-- Firefox 69.0.1
+- filezilla 3.45.1
+- Firefox 69.0.3
 - fontbase 2.9.4
 - fzf 0.18.0
-- gimp 2.10.12
 - git 2.23.0
 - git.install 2.23.0
 - gitbook-editor 7.0.12
@@ -59,11 +58,11 @@
 - gtksharp 2.12.45
 - heidisql 10.2.0.559900
 - hugo 0.58.3
-- hwinfo 6.10
-- hwinfo.install 6.10
-- imagemagick 7.0.8.64
-- imagemagick.app 7.0.8.64
-- insomnia-rest-api-client 6.6.2
+- hwinfo 6.12
+- hwinfo.install 6.12
+- imagemagick 7.0.8.68
+- imagemagick.app 7.0.8.68
+- insomnia-rest-api-client 7.0.0
 - javaruntime 8.0.191
 - jq 1.6
 - jre8 8.0.221
@@ -74,9 +73,9 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.72.0.3
+- kitty 0.72.0.5
 - kodi 18.4.0.20190904
-- krita 4.2.6
+- krita 4.2.7.1
 - libreoffice-fresh 6.2.5
 - mc 4.8.21.209
 - mkcert 1.4.0
@@ -84,16 +83,16 @@
 - mysql.workbench 8.0.17
 - nano 2.5.3
 - neovim 0.4.2
-- netfx-4.6.2 4.6.2.0
+- netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 12.10.0
-- nodejs.install 12.10.0
+- nodejs 12.12.0
+- nodejs.install 12.12.0
 - nvm.portable 1.1.7
-- obs-studio 23.2.1
-- obs-studio.install 23.2.1
+- obs-studio 24.0.3
+- obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 63.0.3368.71
+- Opera 64.0.3417.54
 - performancetest 9.0.1031
 - php 7.3.9
 - Pinta 1.5.0.20130501
@@ -119,6 +118,7 @@
 - skype 8.52.0.138
 - slack 4.0.2
 - steam 3.0.1.20190215
+- strawberryperl 5.8.9.5
 - sublimetext3 3.2.1
 - subtitleedit 3.5.10
 - TcpView 3.05
@@ -145,7 +145,7 @@
 - winmerge 2.16.4
 - winscp 5.15.4
 - winscp.install 5.15.4
-- wireshark 3.0.4
+- wireshark 3.0.5
 - XnView 2.48.20190326
 - yarn 1.17.3
 - zoom 4.5.3372.0908
@@ -180,7 +180,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|76.0.3809.132
+- Google Chrome|77.0.3865.120
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -188,7 +188,6 @@
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
-- Insomnia|6.6.2
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -197,11 +196,12 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.10.1.1
-- IntelR Driver &amp; Support Assistant|19.8.34.6
+- IntelR Driver &amp; Support Assistant|19.9.38.6
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 221|8.0.2210.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
+- Krita (x64) 4.2.7.1|4.2.7.1
 - Laragon 3.5.0|3.5.0.181017
 - Logitech Capture|1.10.102
 - Logitech Gaming Software 8.96|8.96.88
@@ -228,7 +228,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
 - Microsoft Visual Studio Code|1.38.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Thunderbird 68.1.0 (x86 cs)|68.1.0
+- Mozilla Thunderbird 68.1.2 (x86 cs)|68.1.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -237,10 +237,10 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 63.0.3368.71|63.0.3368.71
+- Opera Stable 63.0.3368.107|63.0.3368.107
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.134.0.26
+- Overwolf|0.135.0.24
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.7.3|7.7.3
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -261,7 +261,7 @@
 - Sublime Text 3|
 - TallowBundle|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.8.8|1.8.8
+- Telegram Desktop version 1.8.15|1.8.15
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -279,3 +279,7 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Xenu's Link Sleuth|1.3.9
 - 127 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare

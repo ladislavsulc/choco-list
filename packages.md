@@ -46,7 +46,6 @@ filezilla
 Firefox 
 fontbase 
 fzf 
-gimp 
 git 
 gitinstall 
 gitbook-editor 
@@ -117,6 +116,7 @@ sharex
 skype 
 slack 
 steam 
+strawberryperl 
 sublimetext 
 subtitleedit 
 TcpView 
