@@ -6,8 +6,6 @@ advanced-ip-scanner
 advor 
 ag 
 airdroid 
-autohotkey 
-autohotkeyinstall 
 autohotkeyportable 
 Bitnami-XAMPP 
 blender 

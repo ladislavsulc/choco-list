@@ -3,14 +3,12 @@
 - Chocolatey v0.10.15
 - ack 3.1.1
 - adb 29.0.4
-- adobereader 2019.012.20040
+- adobereader 2019.021.20048
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.5.000
-- autohotkey 1.1.31.00
-- autohotkey.install 1.1.31.00
-- autohotkey.portable 1.1.31.00
+- autohotkey.portable 1.1.31.01
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
 - Boxstarter 2.12.0
@@ -32,7 +30,7 @@
 - dart-sdk 2.5.2
 - ditto 3.22.20.0
 - docker 99.0.0
-- docker-cli 19.03.1
+- docker-cli 19.03.3
 - docker-desktop 2.1.0.3
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
@@ -40,9 +38,9 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 83.3.140
+- dropbox 83.4.152
 - emacs 26.2.0.20190417
-- etcher 1.5.58
+- etcher 1.5.60
 - ffmpeg 4.2.1
 - filezilla 3.45.1
 - Firefox 69.0.3
@@ -62,7 +60,7 @@
 - hwinfo.install 6.12
 - imagemagick 7.0.8.68
 - imagemagick.app 7.0.8.68
-- insomnia-rest-api-client 7.0.0
+- insomnia-rest-api-client 7.0.3
 - javaruntime 8.0.191
 - jq 1.6
 - jre8 8.0.221
@@ -73,14 +71,14 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.72.0.5
+- kitty 0.72.0.6
 - kodi 18.4.0.20190904
 - krita 4.2.7.1
-- libreoffice-fresh 6.2.5
+- libreoffice-fresh 6.3.2
 - mc 4.8.21.209
 - mkcert 1.4.0
-- mobaxterm 12.2.0
-- mysql.workbench 8.0.17
+- mobaxterm 12.3.0
+- mysql.workbench 8.0.18
 - nano 2.5.3
 - neovim 0.4.2
 - netfx-4.6.2 4.6.2.20190930
@@ -92,74 +90,75 @@
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 64.0.3417.54
+- Opera 64.0.3417.61
 - performancetest 9.0.1031
-- php 7.3.9
+- php 7.3.10
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.7.3
-- putty 0.72
-- putty.portable 0.72
-- python 3.7.4
-- python2 2.7.16
-- python3 3.7.4
-- qbittorrent 4.1.7
+- postman 7.8.0
+- putty 0.73
+- putty.portable 0.73
+- python 3.8.0
+- python2 2.7.17
+- python3 3.8.0
+- qbittorrent 4.1.8
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
 - ricochet 1.1.4
 - ripgrep 11.0.2
 - rsync 5.7.1.20180411
-- ruby 2.6.4.1
+- ruby 2.6.5.1
 - rufus 3.8
 - sharex 13.0.1
-- skype 8.52.0.138
-- slack 4.0.2
+- skype 8.53.0.85
+- slack 4.1.1
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
-- sublimetext3 3.2.1
+- sublimetext3 3.2.2
 - subtitleedit 3.5.10
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 14.6.2452
-- thunderbird 68.1.0
+- teamviewer 14.6.4835
+- thunderbird 68.1.2
 - tor-browser 8.5.5
 - treesizefree 4.3.1.2
-- typora 0.9.77
-- unetbootin 6.6.1
-- vcredist140 14.22.27821
+- typora 0.9.78
+- unetbootin 6.7.5
+- vcredist140 14.23.27820
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.0.604
+- vim 8.1.2188
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.38.1
+- vscode 1.39.2
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
-- winmerge 2.16.4
+- winmerge 2.16.4.20191007
 - winscp 5.15.4
 - winscp.install 5.15.4
 - wireshark 3.0.5
-- XnView 2.48.20190326
-- yarn 1.17.3
+- XnView 2.49.1
+- yarn 1.19.1
 - zoom 4.5.3372.0908
-- 148 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.012.20040
+- Adobe Acrobat Reader DC MUI|19.021.20048
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
-- Affinity Designer|1.7.1.404
+- Affinity Designer|1.7.3.481
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
+- AutoHotkey 1.1.31.00|1.1.31.00
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
@@ -203,6 +202,7 @@
 - Kodi|
 - Krita (x64) 4.2.7.1|4.2.7.1
 - Laragon 3.5.0|3.5.0.181017
+- LibreOffice 6.3.2.2|6.3.2.2
 - Logitech Capture|1.10.102
 - Logitech Gaming Software 8.96|8.96.88
 - Loom 0.12.1|0.12.1
@@ -224,10 +224,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821|14.22.27821.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821|14.22.27821.0
-- Microsoft Visual Studio Code|1.38.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.23.27820|14.23.27820.0
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
+- Microsoft Visual Studio Code|1.39.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Maintenance Service|69.0.3
 - Mozilla Thunderbird 68.1.2 (x86 cs)|68.1.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -237,14 +238,15 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 63.0.3368.107|63.0.3368.107
+- Opera Stable 64.0.3417.61|64.0.3417.61
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline Manager 1.0.2 (only current user)|1.0.2
-- Overwolf|0.135.0.24
+- Overwolf|0.136.0.10
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.7.3|7.7.3
+- Postman-win64-7.8.0|7.8.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
-- Python Launcher|3.7.6762.0
+- Python 3.7.4 (64-bit)|3.7.4150.0
+- Python Launcher|3.8.6860.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
@@ -269,6 +271,8 @@
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
+- Vim 8.0.604|
+- Vim 8.1 (x64)|8.1
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.4.89
 - WD Drive Utilities|2.0.0.63
@@ -277,8 +281,9 @@
 - Windows 7 USB/DVD Download Tool|1.0.30
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
+- WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 127 applications not managed with Chocolatey.
+- 134 applications not managed with Chocolatey.
 - 
 - Did you know Pro / Business automatically syncs with Programs and
 -  Features? Learn more about Package Synchronizer at
