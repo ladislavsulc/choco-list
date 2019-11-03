@@ -3,11 +3,11 @@
 - Chocolatey v0.10.15
 - ack 3.1.1
 - adb 29.0.4
-- adobereader 2019.021.20048
+- adobereader 2019.021.20049
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- airdroid 3.6.5.000
+- airdroid 3.6.6.100
 - autohotkey.portable 1.1.31.01
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
@@ -17,7 +17,7 @@
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
-- chocolatey-core.extension 1.3.3
+- chocolatey-core.extension 1.3.4
 - chocolatey-dotnetfx.extension 1.0.1
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
@@ -31,20 +31,20 @@
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.1.0.3
+- docker-desktop 2.1.0.4
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 83.4.152
+- dropbox 84.4.170
 - emacs 26.2.0.20190417
 - etcher 1.5.60
 - ffmpeg 4.2.1
 - filezilla 3.45.1
-- Firefox 69.0.3
-- fontbase 2.9.4
+- Firefox 70.0.1
+- fontbase 2.10.3
 - fzf 0.18.0
 - git 2.23.0
 - git.install 2.23.0
@@ -55,15 +55,15 @@
 - grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.559900
-- hugo 0.58.3
+- hugo 0.59.1
 - hwinfo 6.12
 - hwinfo.install 6.12
-- imagemagick 7.0.8.68
-- imagemagick.app 7.0.8.68
+- imagemagick 7.0.9.2
+- imagemagick.app 7.0.9.2
 - insomnia-rest-api-client 7.0.3
-- javaruntime 8.0.191
+- javaruntime 8.0.231
 - jq 1.6
-- jre8 8.0.221
+- jre8 8.0.231
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -71,7 +71,7 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.72.0.6
+- kitty 0.73.0.1
 - kodi 18.4.0.20190904
 - krita 4.2.7.1
 - libreoffice-fresh 6.3.2
@@ -84,20 +84,20 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 12.12.0
-- nodejs.install 12.12.0
+- nodejs 13.0.1
+- nodejs.install 13.0.1
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 64.0.3417.61
+- Opera 64.0.3417.83
 - performancetest 9.0.1031
-- php 7.3.10
+- php 7.3.11
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.8.0
+- postman 7.10.0
 - putty 0.73
 - putty.portable 0.73
 - python 3.8.0
@@ -141,8 +141,8 @@
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
-- winscp 5.15.4
-- winscp.install 5.15.4
+- winscp 5.15.5
+- winscp.install 5.15.5
 - wireshark 3.0.5
 - XnView 2.49.1
 - yarn 1.19.1
@@ -150,7 +150,7 @@
 - 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.021.20048
+- Adobe Acrobat Reader DC MUI|19.021.20049
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.3.481
@@ -173,13 +173,14 @@
 - Figma|76.4.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
+- FontBase 2.9.4|2.9.4
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|77.0.3865.120
+- Google Chrome|78.0.3904.70
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -195,9 +196,9 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.10.1.1
-- IntelR Driver &amp; Support Assistant|19.9.38.6
+- IntelR Driver &amp; Support Assistant|19.10.42.4
 - ITE Infrared Transceiver|1.08.0001
-- Java 8 Update 221|8.0.2210.11
+- Java 8 Update 231|8.0.2310.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Krita (x64) 4.2.7.1|4.2.7.1
@@ -208,6 +209,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
+- Microsoft Edge Beta|78.0.276.24
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -226,10 +228,9 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.23.27820|14.23.27820.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
-- Microsoft Visual Studio Code|1.39.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|69.0.3
-- Mozilla Thunderbird 68.1.2 (x86 cs)|68.1.2
+- Mozilla Maintenance Service|70.0.1
+- Mozilla Thunderbird 68.2.1 (x86 cs)|68.2.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -238,12 +239,12 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 64.0.3417.61|64.0.3417.61
 - Oracle VM VirtualBox 5.2.4|5.2.4
-- Outline Manager 1.0.2 (only current user)|1.0.2
+- Outline 1.2.34|1.2.34
+- Outline Manager 1.2.4|1.2.4
 - Overwolf|0.136.0.10
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.8.0|7.8.0
+- Postman-win64-7.10.0|7.10.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -274,7 +275,7 @@
 - Vim 8.0.604|
 - Vim 8.1 (x64)|8.1
 - Visual Studio Build Tools 2017|15.9.28307.145
-- WD Discovery|3.4.89
+- WD Discovery|3.5.152
 - WD Drive Utilities|2.0.0.63
 - WD Security|2.0.0.63
 - Win10Pcap|10.2.5002
@@ -283,8 +284,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 134 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 135 applications not managed with Chocolatey.
