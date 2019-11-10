@@ -103,7 +103,7 @@
 - python 3.8.0
 - python2 2.7.17
 - python3 3.8.0
-- qbittorrent 4.1.8
+- qbittorrent 4.1.9
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
@@ -114,18 +114,18 @@
 - rufus 3.8
 - sharex 13.0.1
 - skype 8.53.0.85
-- slack 4.1.1
+- slack 4.1.2
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
-- subtitleedit 3.5.10
+- subtitleedit 3.5.11
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 14.6.4835
-- thunderbird 68.1.2
-- tor-browser 8.5.5
-- treesizefree 4.3.1.2
-- typora 0.9.78
+- teamviewer 14.7.1965
+- thunderbird 68.2.1
+- tor-browser 9.0
+- treesizefree 4.4
+- typora 0.9.79
 - unetbootin 6.7.5
 - vcredist140 14.23.27820
 - vcredist2008 9.0.30729.6163
@@ -133,7 +133,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.1.2188
+- vim 8.1.2244
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.39.2
@@ -143,10 +143,10 @@
 - winmerge 2.16.4.20191007
 - winscp 5.15.5
 - winscp.install 5.15.5
-- wireshark 3.0.5
+- wireshark 3.0.6
 - XnView 2.49.1
 - yarn 1.19.1
-- zoom 4.5.3372.0908
+- zoom 4.8.5336.0931
 - 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
@@ -180,7 +180,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|78.0.3904.70
+- Google Chrome|78.0.3904.87
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -209,7 +209,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|78.0.276.24
+- Microsoft Edge Beta|79.0.309.15
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -230,7 +230,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|70.0.1
-- Mozilla Thunderbird 68.2.1 (x86 cs)|68.2.1
+- Mozilla Thunderbird 68.2.2 (x86 cs)|68.2.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -239,6 +239,7 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 64.0.3417.92|64.0.3417.92
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline Manager 1.2.4|1.2.4
@@ -262,13 +263,11 @@
 - Strawberry Perl (64-bit)|5.26.2001
 - Sublime Merge|
 - Sublime Text 3|
-- TallowBundle|
 - TeamSpeak|1.0.0.1
 - Telegram Desktop version 1.8.15|1.8.15
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
-- TreeSize Free V4.3.1|4.3.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
@@ -284,4 +283,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 135 applications not managed with Chocolatey.
+- 134 applications not managed with Chocolatey.
