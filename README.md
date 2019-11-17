@@ -2,12 +2,12 @@
 
 - Chocolatey v0.10.15
 - ack 3.1.1
-- adb 29.0.4
-- adobereader 2019.021.20049
+- adb 29.0.5
+- adobereader 2019.021.20056
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- airdroid 3.6.6.100
+- airdroid 3.6.6.200
 - autohotkey.portable 1.1.31.01
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
@@ -17,17 +17,17 @@
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
-- chocolatey-core.extension 1.3.4
+- chocolatey-core.extension 1.3.5
 - chocolatey-dotnetfx.extension 1.0.1
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
 - composer 4.10.0
-- coretemp 1.15.1
+- coretemp 1.15.1.20190411
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
-- curl 7.66.0.20190926
-- dart-sdk 2.5.2
+- curl 7.67.0
+- dart-sdk 2.6.1
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.3
@@ -38,28 +38,28 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 84.4.170
+- dropbox 85.4.155
 - emacs 26.2.0.20190417
-- etcher 1.5.60
+- etcher 1.5.63
 - ffmpeg 4.2.1
 - filezilla 3.45.1
 - Firefox 70.0.1
 - fontbase 2.10.3
-- fzf 0.18.0
-- git 2.23.0
-- git.install 2.23.0
+- fzf 0.19.0
+- git 2.24.0.2
+- git.install 2.24.0.2
 - gitbook-editor 7.0.12
 - gnucash 3.7
-- google-backup-and-sync 3.45.5545.5747
+- google-backup-and-sync 3.47.7654.300
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.559900
 - hugo 0.59.1
-- hwinfo 6.12
-- hwinfo.install 6.12
-- imagemagick 7.0.9.2
-- imagemagick.app 7.0.9.2
+- hwinfo 6.14
+- hwinfo.install 6.14
+- imagemagick 7.0.9.4
+- imagemagick.app 7.0.9.4
 - insomnia-rest-api-client 7.0.3
 - javaruntime 8.0.231
 - jq 1.6
@@ -71,12 +71,12 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.73.0.1
-- kodi 18.4.0.20190904
+- kitty 0.73.1.1
+- kodi 18.5
 - krita 4.2.7.1
-- libreoffice-fresh 6.3.2
+- libreoffice-fresh 6.3.3
 - mc 4.8.21.209
-- mkcert 1.4.0
+- mkcert 1.4.1
 - mobaxterm 12.3.0
 - mysql.workbench 8.0.18
 - nano 2.5.3
@@ -84,13 +84,13 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.0.1
-- nodejs.install 13.0.1
+- nodejs 13.1.0
+- nodejs.install 13.1.0
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 64.0.3417.83
+- Opera 65.0.3467.42
 - performancetest 9.0.1031
 - php 7.3.11
 - Pinta 1.5.0.20130501
@@ -103,7 +103,7 @@
 - python 3.8.0
 - python2 2.7.17
 - python3 3.8.0
-- qbittorrent 4.1.9
+- qbittorrent 4.1.9.1
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
@@ -113,7 +113,7 @@
 - ruby 2.6.5.1
 - rufus 3.8
 - sharex 13.0.1
-- skype 8.53.0.85
+- skype 8.54.0.91
 - slack 4.1.2
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
@@ -122,8 +122,8 @@
 - TcpView 3.05
 - teamspeak 3.3.2
 - teamviewer 14.7.1965
-- thunderbird 68.2.1
-- tor-browser 9.0
+- thunderbird 68.2.2
+- tor-browser 9.0.1
 - treesizefree 4.4
 - typora 0.9.79
 - unetbootin 6.7.5
@@ -133,10 +133,11 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.1.2244
+- vim 8.1.2301
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.39.2
+- vscode 1.40.1
+- vscode.install 1.40.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -147,10 +148,10 @@
 - XnView 2.49.1
 - yarn 1.19.1
 - zoom 4.8.5336.0931
-- 146 packages installed.
+- 147 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|19.021.20049
+- Adobe Acrobat Reader DC MUI|19.021.20056
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.3.481
@@ -159,6 +160,7 @@
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
+- balenaEtcher 1.5.60|1.5.60
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
@@ -180,7 +182,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|78.0.3904.87
+- Google Chrome|78.0.3904.97
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -196,20 +198,19 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.10.1.1
-- IntelR Driver &amp; Support Assistant|19.10.42.4
+- IntelR Driver &amp; Support Assistant|19.11.46.5
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 231|8.0.2310.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Krita (x64) 4.2.7.1|4.2.7.1
 - Laragon 3.5.0|3.5.0.181017
-- LibreOffice 6.3.2.2|6.3.2.2
-- Logitech Capture|1.10.102
+- Logitech Capture|1.10.110
 - Logitech Gaming Software 8.96|8.96.88
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.15
+- Microsoft Edge Beta|79.0.309.18
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -228,6 +229,7 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.23.27820|14.23.27820.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
+- Microsoft Visual Studio Code|1.40.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|70.0.1
 - Mozilla Thunderbird 68.2.2 (x86 cs)|68.2.2
@@ -239,7 +241,6 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 64.0.3417.92|64.0.3417.92
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline Manager 1.2.4|1.2.4
@@ -253,6 +254,7 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
+- Skype verze 8.54|8.54
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -283,4 +285,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 134 applications not managed with Chocolatey.
+- 135 applications not managed with Chocolatey.

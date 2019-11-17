@@ -135,6 +135,7 @@ vim
 visualstudiocode 
 vlc 
 vscode 
+vscodeinstall 
 webp 
 Wget 
 whois 
