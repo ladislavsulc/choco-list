@@ -8,7 +8,7 @@
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.6.200
-- autohotkey.portable 1.1.31.01
+- autohotkey.portable 1.1.32.00
 - Bitnami-XAMPP 7.3.4
 - blender 2.80
 - Boxstarter 2.12.0
@@ -17,7 +17,7 @@
 - Boxstarter.WinConfig 2.12.0
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
-- chocolatey-core.extension 1.3.5
+- chocolatey-core.extension 1.3.5.1
 - chocolatey-dotnetfx.extension 1.0.1
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
@@ -31,7 +31,7 @@
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.1.0.4
+- docker-desktop 2.1.0.5
 - docker-for-windows 99.0.0.0
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
@@ -58,8 +58,8 @@
 - hugo 0.59.1
 - hwinfo 6.14
 - hwinfo.install 6.14
-- imagemagick 7.0.9.4
-- imagemagick.app 7.0.9.4
+- imagemagick 7.0.9.5
+- imagemagick.app 7.0.9.5
 - insomnia-rest-api-client 7.0.3
 - javaruntime 8.0.231
 - jq 1.6
@@ -84,20 +84,20 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.1.0
-- nodejs.install 13.1.0
+- nodejs 13.2.0
+- nodejs.install 13.2.0
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 65.0.3467.42
+- Opera 65.0.3467.48
 - performancetest 9.0.1031
-- php 7.3.11
+- php 7.3.12
 - Pinta 1.5.0.20130501
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.10.0
+- postman 7.12.0
 - putty 0.73
 - putty.portable 0.73
 - python 3.8.0
@@ -121,10 +121,10 @@
 - subtitleedit 3.5.11
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 14.7.1965
+- teamviewer 15.0.8397
 - thunderbird 68.2.2
 - tor-browser 9.0.1
-- treesizefree 4.4
+- treesizefree 4.4.1
 - typora 0.9.79
 - unetbootin 6.7.5
 - vcredist140 14.23.27820
@@ -133,7 +133,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.1.2301
+- vim 8.1.2338
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.40.1
@@ -146,11 +146,12 @@
 - winscp.install 5.15.5
 - wireshark 3.0.6
 - XnView 2.49.1
-- yarn 1.19.1
+- yarn 1.19.2
 - zoom 4.8.5336.0931
 - 147 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
+- Adobe Acrobat DC|18.009.20050
 - Adobe Acrobat Reader DC MUI|19.021.20056
 - Adobe Creative Cloud|4.6.0.384
 - Adobe Photoshop CC 2018|19.0
@@ -182,7 +183,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|78.0.3904.97
+- Google Chrome|78.0.3904.108
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - GTK2-Runtime|2.22.0-2010-10-21-ash
@@ -198,7 +199,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.10.1.1
-- IntelR Driver &amp; Support Assistant|19.11.46.5
+- IntelR Driver &amp; Support Assistant|19.11.46.6
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 231|8.0.2310.11
 - KeePass Password Safe 2.38|2.38
@@ -210,7 +211,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.18
+- Microsoft Edge Beta|79.0.309.30
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -241,12 +242,13 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
+- Opera Stable 65.0.3467.48|65.0.3467.48
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline Manager 1.2.4|1.2.4
 - Overwolf|0.136.0.10
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.10.0|7.10.0
+- Postman-win64-7.12.0|7.12.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -285,4 +287,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 135 applications not managed with Chocolatey.
+- 137 applications not managed with Chocolatey.
