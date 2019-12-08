@@ -10,7 +10,7 @@
 - airdroid 3.6.6.200
 - autohotkey.portable 1.1.32.00
 - Bitnami-XAMPP 7.3.4
-- blender 2.80
+- blender 2.81.1
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -22,7 +22,7 @@
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
-- composer 4.10.0
+- composer 5.0.0
 - coretemp 1.15.1.20190411
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
@@ -38,12 +38,12 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 85.4.155
+- dropbox 86.4.146
 - emacs 26.2.0.20190417
-- etcher 1.5.63
+- etcher 1.5.67
 - ffmpeg 4.2.1
-- filezilla 3.45.1
-- Firefox 70.0.1
+- filezilla 3.46.0
+- Firefox 71.0
 - fontbase 2.10.3
 - fzf 0.19.0
 - git 2.24.0.2
@@ -55,12 +55,13 @@
 - grepwin 1.9.2
 - gtksharp 2.12.45
 - heidisql 10.2.0.559900
-- hugo 0.59.1
+- hugo 0.60.1
 - hwinfo 6.14
 - hwinfo.install 6.14
-- imagemagick 7.0.9.5
-- imagemagick.app 7.0.9.5
-- insomnia-rest-api-client 7.0.3
+- iCloud 7.15.0.10
+- imagemagick 7.0.9.7
+- imagemagick.app 7.0.9.7
+- insomnia-rest-api-client 7.0.5
 - javaruntime 8.0.231
 - jq 1.6
 - jre8 8.0.231
@@ -73,14 +74,14 @@
 - kindle 1.25.52064
 - kitty 0.73.1.1
 - kodi 18.5
-- krita 4.2.7.1
+- krita 4.2.8
 - libreoffice-fresh 6.3.3
 - mc 4.8.21.209
 - mkcert 1.4.1
-- mobaxterm 12.3.0
+- mobaxterm 12.4.0
 - mysql.workbench 8.0.18
 - nano 2.5.3
-- neovim 0.4.2
+- neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
@@ -148,7 +149,7 @@
 - XnView 2.49.1
 - yarn 1.19.2
 - zoom 4.8.5336.0931
-- 147 packages installed.
+- 148 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
@@ -177,6 +178,7 @@
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FontBase 2.9.4|2.9.4
+- Fork - a fast and friendly git client|1.42.4
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Geekbench 4|
@@ -204,14 +206,14 @@
 - Java 8 Update 231|8.0.2310.11
 - KeePass Password Safe 2.38|2.38
 - Kodi|
-- Krita (x64) 4.2.7.1|4.2.7.1
+- Krita (x64) 4.2.8|4.2.8.0
 - Laragon 3.5.0|3.5.0.181017
 - Logitech Capture|1.10.110
 - Logitech Gaming Software 8.96|8.96.88
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.30
+- Microsoft Edge Beta|79.0.309.43
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -232,8 +234,8 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
 - Microsoft Visual Studio Code|1.40.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|70.0.1
-- Mozilla Thunderbird 68.2.2 (x86 cs)|68.2.2
+- Mozilla Maintenance Service|71.0
+- Mozilla Thunderbird 68.3.0 (x86 cs)|68.3.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -242,11 +244,12 @@
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - OpenAL|
-- Opera Stable 65.0.3467.48|65.0.3467.48
+- Opera Stable 65.0.3467.62|65.0.3467.62
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline Manager 1.2.4|1.2.4
-- Overwolf|0.136.0.10
+- Overwolf|0.139.0.11
+- Podpora aplikac¡ Apple (64bitov )|8.1
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.12.0|7.12.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -278,7 +281,7 @@
 - Vim 8.0.604|
 - Vim 8.1 (x64)|8.1
 - Visual Studio Build Tools 2017|15.9.28307.145
-- WD Discovery|3.5.152
+- WD Discovery|3.6.163
 - WD Drive Utilities|2.0.0.63
 - WD Security|2.0.0.63
 - Win10Pcap|10.2.5002
@@ -287,4 +290,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 137 applications not managed with Chocolatey.
+- 139 applications not managed with Chocolatey.

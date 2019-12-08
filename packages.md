@@ -56,6 +56,7 @@ heidisql
 hugo 
 hwinfo 
 hwinfoinstall 
+iCloud 
 imagemagick 
 imagemagickapp 
 insomnia-rest-api-client 
@@ -82,7 +83,6 @@ neovim
 netfx- 
 nexus-root-toolkit 
 nmap 
-nodejs 
 nodejsinstall 
 nvmportable 
 obs-studio 
@@ -147,3 +147,7 @@ XnView
 yarn 
 zoom 
  packages installed
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolateyorg/compare
