@@ -1,9 +1,10 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
+- [Pending] Removing incomplete install for 'treesizefree'
 - ack 3.1.1
 - adb 29.0.5
-- adobereader 2019.021.20056
+- adobereader 2019.021.20061
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -27,41 +28,39 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.67.0
-- dart-sdk 2.6.1
+- dart-sdk 2.7.0
 - ditto 3.22.20.0
 - docker 99.0.0
 - docker-cli 19.03.3
 - docker-desktop 2.1.0.5
 - docker-for-windows 99.0.0.0
-- DotNet4.0 4.0.30319.20141222
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 86.4.146
-- emacs 26.2.0.20190417
-- etcher 1.5.67
+- dropbox 87.4.138
+- emacs 26.3.0.20191219
+- etcher 1.5.70
 - ffmpeg 4.2.1
-- filezilla 3.46.0
+- filezilla 3.46.3
 - Firefox 71.0
 - fontbase 2.10.3
-- fzf 0.19.0
-- git 2.24.0.2
-- git.install 2.24.0.2
+- fzf 0.20.0
+- git 2.24.1.2
+- git.install 2.24.1.2
 - gitbook-editor 7.0.12
 - gnucash 3.7
 - google-backup-and-sync 3.47.7654.300
 - gptgen 1.1.20180516
 - grepwin 1.9.2
-- gtksharp 2.12.45
-- heidisql 10.2.0.559900
-- hugo 0.60.1
-- hwinfo 6.14
-- hwinfo.install 6.14
-- iCloud 7.15.0.10
-- imagemagick 7.0.9.7
-- imagemagick.app 7.0.9.7
-- insomnia-rest-api-client 7.0.5
+- heidisql 10.3.0.5771
+- hugo 0.62.0
+- hwinfo 6.20
+- hwinfo.install 6.20
+- iCloud 7.16.0.15
+- imagemagick 7.0.9.9
+- imagemagick.app 7.0.9.9
+- insomnia-rest-api-client 7.0.6
 - javaruntime 8.0.231
 - jq 1.6
 - jre8 8.0.231
@@ -72,7 +71,7 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.73.1.1
+- kitty 0.73.1.4
 - kodi 18.5
 - krita 4.2.8
 - libreoffice-fresh 6.3.3
@@ -85,26 +84,27 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.2.0
-- nodejs.install 13.2.0
+- nodejs 13.5.0
+- nodejs.install 13.5.0
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 65.0.3467.48
+- Opera 65.0.3467.78
+- partitionwizard 11.6.01
 - performancetest 9.0.1031
-- php 7.3.12
-- Pinta 1.5.0.20130501
+- php 7.4.1
+- pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.12.0
+- postman 7.14.0
 - putty 0.73
 - putty.portable 0.73
-- python 3.8.0
+- python 3.8.1
 - python2 2.7.17
-- python3 3.8.0
-- qbittorrent 4.1.9.1
+- python3 3.8.1
+- qbittorrent 4.2.1
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
@@ -114,57 +114,58 @@
 - ruby 2.6.5.1
 - rufus 3.8
 - sharex 13.0.1
-- skype 8.54.0.91
-- slack 4.1.2
+- skype 8.55.0.141
+- slack 4.3.0
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.11
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 15.0.8397
-- thunderbird 68.2.2
-- tor-browser 9.0.1
-- treesizefree 4.4.1
-- typora 0.9.79
+- teamviewer 15.1.3937
+- thunderbird 68.3.1
+- tor-browser 9.0.2
+- typora 0.9.81
 - unetbootin 6.7.5
-- vcredist140 14.23.27820
+- vcredist140 14.24.28127.4
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.1.2338
+- vim 8.1.2410
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.40.1
-- vscode.install 1.40.1
+- vscode 1.40.2
+- vscode.install 1.40.2
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
-- winscp 5.15.5
-- winscp.install 5.15.5
-- wireshark 3.0.6
+- winscp 5.15.9
+- winscp.install 5.15.9
+- wireshark 3.0.7
 - XnView 2.49.1
 - yarn 1.19.2
 - zoom 4.8.5336.0931
-- 148 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
-- Adobe Acrobat Reader DC MUI|19.021.20056
-- Adobe Creative Cloud|4.6.0.384
+- Adobe Acrobat Reader DC MUI|19.021.20061
+- Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.3.481
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
+- Age of Empires II: Definitive Edition|
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
 - balenaEtcher 1.5.60|1.5.60
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
+- Bonjour|3.0.0.10
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
 - Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
@@ -185,11 +186,11 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|78.0.3904.108
+- Google Chrome|79.0.3945.88
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
+- Gtk# for .Net 2.12.45|2.12.45
 - GTK2-Runtime|2.22.0-2010-10-21-ash
-- HeidiSQL 10.2.0.5599|10.2
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
@@ -197,11 +198,11 @@
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
 - Intel(R) Management Engine Components|1846.12.0.1177
-- Intel(R) Network Connections 23.2.0.1006|23.2.0.1006
+- Intel(R) Network Connections 24.3.0.6|24.3.0.6
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
-- Intel(R) Wireless Bluetooth(R)|21.10.1.1
-- IntelR Driver &amp; Support Assistant|19.11.46.6
+- Intel(R) Wireless Bluetooth(R)|21.50.0.1
+- IntelR Driver &amp; Support Assistant|19.12.50.5
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 231|8.0.2310.11
 - KeePass Password Safe 2.38|2.38
@@ -213,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.43
+- Microsoft Edge Beta|79.0.309.56
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -230,12 +231,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.23.27820|14.23.27820.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820|14.23.27820.0
-- Microsoft Visual Studio Code|1.40.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127|14.24.28127.4
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127|14.24.28127.4
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|71.0
-- Mozilla Thunderbird 68.3.0 (x86 cs)|68.3.0
+- Mozilla Thunderbird 68.3.1 (x86 cs)|68.3.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -243,15 +242,16 @@
 - Npcap 0.9982|0.9982
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
+- Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
-- Opera Stable 65.0.3467.62|65.0.3467.62
+- Opera Stable 65.0.3467.78|65.0.3467.78
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline Manager 1.2.4|1.2.4
+- Outline Manager 1.3.0|1.3.0
 - Overwolf|0.139.0.11
-- Podpora aplikac¡ Apple (64bitov )|8.1
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.12.0|7.12.0
+- Postman-win64-7.14.0|7.14.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -259,7 +259,6 @@
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Samsung Magician|5.2.0.1610
-- Skype verze 8.54|8.54
 - Slack|3.4.3
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -271,10 +270,12 @@
 - Sublime Merge|
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
+- TeamViewer|15.1.3937
 - Telegram Desktop version 1.8.15|1.8.15
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
+- TreeSize Free V4.4.1|4.4.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
 - Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
@@ -290,4 +291,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 139 applications not managed with Chocolatey.
+- 141 applications not managed with Chocolatey.

@@ -32,7 +32,6 @@ docker-cli
 docker-desktop 
 docker-for-windows 
 DotNet 
-DotNet 
 dotnet 
 dotnet 
 dotnetfx 
@@ -51,7 +50,6 @@ gnucash
 google-backup-and-sync 
 gptgen 
 grepwin 
-gtksharp 
 heidisql 
 hugo 
 hwinfo 
@@ -83,15 +81,17 @@ neovim
 netfx- 
 nexus-root-toolkit 
 nmap 
+nodejs 
 nodejsinstall 
 nvmportable 
 obs-studio 
 obs-studioinstall 
 openssh 
 Opera 
+partitionwizard 
 performancetest 
 php 
-Pinta 
+pinta 
 pngquant 
 pngyu 
 poedit 
@@ -122,7 +122,6 @@ teamspeak
 teamviewer 
 thunderbird 
 tor-browser 
-treesizefree 
 typora 
 unetbootin 
 vcredist 
@@ -147,7 +146,3 @@ XnView
 yarn 
 zoom 
  packages installed
-
-Did you know Pro / Business automatically syncs with Programs and
- Features? Learn more about Package Synchronizer at
- https://chocolateyorg/compare
