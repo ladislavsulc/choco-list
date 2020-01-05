@@ -1,7 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
-- [Pending] Removing incomplete install for 'treesizefree'
 - ack 3.1.1
 - adb 29.0.5
 - adobereader 2019.021.20061
@@ -214,7 +213,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.56
+- Microsoft Edge Beta|79.0.309.58
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -247,6 +246,7 @@
 - Opera Stable 65.0.3467.78|65.0.3467.78
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
+- Outline 1.3.1|1.3.1
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.139.0.11
@@ -271,7 +271,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamViewer|15.1.3937
-- Telegram Desktop version 1.8.15|1.8.15
+- Telegram Desktop version 1.9.3|1.9.3
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -283,12 +283,12 @@
 - Vim 8.1 (x64)|8.1
 - Visual Studio Build Tools 2017|15.9.28307.145
 - WD Discovery|3.6.163
-- WD Drive Utilities|2.0.0.63
-- WD Security|2.0.0.63
+- WD Drive Utilities|2.0.0.70
+- WD Security|2.0.0.70
 - Win10Pcap|10.2.5002
 - Windows 7 USB/DVD Download Tool|1.0.30
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 141 applications not managed with Chocolatey.
+- 142 applications not managed with Chocolatey.
