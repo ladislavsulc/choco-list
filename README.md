@@ -39,14 +39,14 @@
 - dotnetfx 4.8.0.20190930
 - dropbox 89.3.268
 - emacs 26.3.0.20191219
-- etcher 1.5.70
+- etcher 1.5.71
 - ffmpeg 4.2.1
 - filezilla 3.46.3
 - Firefox 72.0.1
 - fontbase 2.10.3
 - fzf 0.20.0
-- git 2.24.1.2
-- git.install 2.24.1.2
+- git 2.25.0
+- git.install 2.25.0
 - gitbook-editor 7.0.12
 - gnucash 3.8
 - google-backup-and-sync 3.47.7654.300
@@ -57,8 +57,8 @@
 - hwinfo 6.20
 - hwinfo.install 6.20
 - iCloud 7.16.0.15
-- imagemagick 7.0.9.14
-- imagemagick.app 7.0.9.14
+- imagemagick 7.0.9.16
+- imagemagick.app 7.0.9.16
 - insomnia-rest-api-client 7.0.6
 - javaruntime 8.0.231
 - jq 1.6
@@ -70,14 +70,14 @@
 - KB3035131 1.0.3
 - keepass 2.43
 - kindle 1.25.52064
-- kitty 0.73.1.5
+- kitty 0.73.2.1
 - kodi 18.5
 - krita 4.2.8
 - libreoffice-fresh 6.3.3
 - mc 4.8.21.209
 - mkcert 1.4.1
 - mobaxterm 12.4.0
-- mysql.workbench 8.0.18
+- mysql.workbench 8.0.19
 - nano 2.5.3
 - neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
@@ -89,7 +89,7 @@
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 66.0.3515.27
+- Opera 66.0.3515.36
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
 - php 7.4.1
@@ -132,6 +132,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
+- vim 8.2.0129
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.41.1
@@ -142,11 +143,11 @@
 - winmerge 2.16.4.20191007
 - winscp 5.15.9
 - winscp.install 5.15.9
-- wireshark 3.2.0
+- wireshark 3.2.1
 - XnView 2.49.2
 - yarn 1.21.1
 - zoom 4.8.5336.0932
-- 145 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
@@ -174,18 +175,18 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|76.4.0
+- Figma|83.6.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FontBase 2.9.4|2.9.4
-- Fork - a fast and friendly git client|1.42.4
+- Fork - a fast and friendly git client|1.43.3
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|79.0.3945.117
+- Google Chrome|79.0.3945.130
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -213,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|79.0.309.63
+- Microsoft Edge Beta|80.0.361.33
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -273,7 +274,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamViewer|15.1.3937
-- Telegram Desktop version 1.9.3|1.9.3
+- Telegram Desktop version 1.9.4|1.9.4
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
