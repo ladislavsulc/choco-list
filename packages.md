@@ -82,7 +82,6 @@ netfx-
 nexus-root-toolkit 
 nmap 
 nodejs 
-nodejsinstall 
 nvmportable 
 obs-studio 
 obs-studioinstall 

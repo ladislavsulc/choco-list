@@ -31,18 +31,18 @@
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.1.0.5
+- docker-desktop 2.2.0.0
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 89.3.268
+- dropbox 89.4.278
 - emacs 26.3.0.20191219
 - etcher 1.5.71
 - ffmpeg 4.2.1
 - filezilla 3.46.3
-- Firefox 72.0.1
+- Firefox 72.0.2
 - fontbase 2.10.3
 - fzf 0.20.0
 - git 2.25.0
@@ -53,12 +53,12 @@
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 10.3.0.5771
-- hugo 0.62.2
+- hugo 0.63.1
 - hwinfo 6.20
 - hwinfo.install 6.20
 - iCloud 7.16.0.15
-- imagemagick 7.0.9.16
-- imagemagick.app 7.0.9.16
+- imagemagick 7.0.9.17
+- imagemagick.app 7.0.9.17
 - insomnia-rest-api-client 7.0.6
 - javaruntime 8.0.231
 - jq 1.6
@@ -68,7 +68,7 @@
 - KB2999226 1.0.20181019
 - KB3033929 1.0.5
 - KB3035131 1.0.3
-- keepass 2.43
+- keepass 2.44
 - kindle 1.25.52064
 - kitty 0.73.2.1
 - kodi 18.5
@@ -83,13 +83,12 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.6.0
-- nodejs.install 13.6.0
+- nodejs 13.7.0
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 66.0.3515.36
+- Opera 66.0.3515.44
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
 - php 7.4.1
@@ -147,12 +146,13 @@
 - XnView 2.49.2
 - yarn 1.21.1
 - zoom 4.8.5336.0932
-- 146 packages installed.
+- 145 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
 - Adobe Acrobat Reader DC MUI|19.021.20061
 - Adobe Creative Cloud|5.0.0.354
+- Adobe Photoshop 2020|21.0.2
 - Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.7.3.481
 - Affinity Designer Customer Beta|1.7.0.188
@@ -182,6 +182,7 @@
 - Fork - a fast and friendly git client|1.43.3
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
+- Gameguard|1.0.0.0
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
@@ -214,7 +215,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|80.0.361.33
+- Microsoft Edge Beta|80.0.361.40
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -239,6 +240,7 @@
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
 - Nexus Root Toolkit|2.1.9
+- Node.js|13.6.0
 - Npcap 0.9982|0.9982
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
@@ -249,7 +251,7 @@
 - Outline 1.3.1|1.3.1
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
-- Overwolf|0.140.0.33
+- Overwolf|0.141.0.13
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.14.0|7.14.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -274,7 +276,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamViewer|15.1.3937
-- Telegram Desktop version 1.9.4|1.9.4
+- Telegram Desktop version 1.9.8|1.9.8
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.12
@@ -295,4 +297,8 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 146 applications not managed with Chocolatey.
+- 149 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
