@@ -27,7 +27,7 @@
 - cryptomator 1.4.6
 - crystaldiskmark 6.0.2
 - curl 7.68.0
-- dart-sdk 2.7.0
+- dart-sdk 2.7.1
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
@@ -37,10 +37,10 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 89.4.278
+- dropbox 90.4.307
 - emacs 26.3.0.20191219
-- etcher 1.5.71
-- ffmpeg 4.2.1
+- etcher 1.5.76
+- ffmpeg 4.2.2
 - filezilla 3.46.3
 - Firefox 72.0.2
 - fontbase 2.10.3
@@ -49,20 +49,20 @@
 - git.install 2.25.0
 - gitbook-editor 7.0.12
 - gnucash 3.8
-- google-backup-and-sync 3.47.7654.300
+- google-backup-and-sync 3.48.8668.1933
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 10.3.0.5771
-- hugo 0.63.1
+- hugo 0.64.0
 - hwinfo 6.20
-- hwinfo.install 6.20
-- iCloud 7.16.0.15
-- imagemagick 7.0.9.17
-- imagemagick.app 7.0.9.17
+- hwinfo.install 6.22
+- iCloud 7.17.0.13
+- imagemagick 7.0.9.22
+- imagemagick.app 7.0.9.22
 - insomnia-rest-api-client 7.0.6
 - javaruntime 8.0.231
 - jq 1.6
-- jre8 8.0.231
+- jre8 8.0.241
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -70,10 +70,10 @@
 - KB3035131 1.0.3
 - keepass 2.44
 - kindle 1.25.52064
-- kitty 0.73.2.1
+- kitty 0.73.2.2
 - kodi 18.5
 - krita 4.2.8
-- libreoffice-fresh 6.3.3
+- libreoffice-fresh 6.3.4
 - mc 4.8.21.209
 - mkcert 1.4.1
 - mobaxterm 12.4.0
@@ -91,7 +91,7 @@
 - Opera 66.0.3515.44
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
-- php 7.4.1
+- php 7.4.2
 - pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
@@ -117,21 +117,21 @@
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
-- subtitleedit 3.5.11
+- subtitleedit 3.5.13
 - TcpView 3.05
 - teamspeak 3.3.2
 - teamviewer 15.1.3937
-- thunderbird 68.4.1
+- thunderbird 68.4.2
 - tor-browser 9.0.4
 - typora 0.9.83
-- unetbootin 6.7.5
+- unetbootin 6.7.7
 - vcredist140 14.24.28127.4
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0129
+- vim 8.2.0148
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.41.1
@@ -175,7 +175,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|83.6.0
+- Figma|85.3.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FontBase 2.9.4|2.9.4
@@ -198,14 +198,14 @@
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
-- Intel(R) Management Engine Components|1846.12.0.1177
+- Intel(R) Management Engine Components|1950.14.0.1443
 - Intel(R) Network Connections 24.3.0.6|24.3.0.6
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|19.12.50.5
+- IntelR Driver &amp; Support Assistant|20.1.5.6
 - ITE Infrared Transceiver|1.08.0001
-- Java 8 Update 231|8.0.2310.11
+- Java 8 Update 241|8.0.2410.7
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Krita (x64) 4.2.8|4.2.8.0
@@ -215,7 +215,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|80.0.361.40
+- Microsoft Edge Beta|80.0.361.48
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -235,7 +235,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127|14.24.28127.4
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127|14.24.28127.4
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Thunderbird 68.4.1 (x86 cs)|68.4.1
+- Mozilla Thunderbird 68.4.2 (x86 cs)|68.4.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -246,6 +246,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
+- Opera Stable 66.0.3515.72|66.0.3515.72
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.1|1.3.1
@@ -263,7 +264,8 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|5.2.0.1610
-- Slack|4.2.0
+- Skype verze 8.56|8.56
+- Slack|4.3.2
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -276,10 +278,10 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamViewer|15.1.3937
-- Telegram Desktop version 1.9.8|1.9.8
+- Telegram Desktop version 1.9.9|1.9.9
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
-- Total Commander 64-bit (Remove or Repair)|9.12
+- Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
 - TreeSize Free V4.4.1|4.4.1
 - Unified Remote|3.6.1
 - UninstallTabletDeviceDriver|v13.15.2.170911
@@ -297,8 +299,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 149 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- 151 applications not managed with Chocolatey.
