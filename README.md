@@ -1,16 +1,23 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
+- 2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
+- 
+- Validation Warnings:
+-  - A pending system reboot request has been detected, however, this is
+-    being ignored due to the current command being used 'list'.
+-    It is recommended that you reboot at your earliest convenience.
+- 
 - ack 3.1.1
 - adb 29.0.5
-- adobereader 2019.021.20061
+- adobereader 2020.006.20034
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.6.200
 - autohotkey.portable 1.1.32.00
 - Bitnami-XAMPP 7.3.4
-- blender 2.81.1
+- blender 2.82
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -31,7 +38,7 @@
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.2.0.0
+- docker-desktop 2.2.0.3
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
@@ -42,7 +49,7 @@
 - etcher 1.5.76
 - ffmpeg 4.2.2
 - filezilla 3.46.3
-- Firefox 72.0.2
+- Firefox 73.0
 - fontbase 2.10.3
 - fzf 0.20.0
 - git 2.25.0
@@ -53,13 +60,13 @@
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 10.3.0.5771
-- hugo 0.64.0
+- hugo 0.64.1
 - hwinfo 6.20
 - hwinfo.install 6.22
 - iCloud 7.17.0.13
-- imagemagick 7.0.9.22
-- imagemagick.app 7.0.9.22
-- insomnia-rest-api-client 7.0.6
+- imagemagick 7.0.9.23
+- imagemagick.app 7.0.9.23
+- insomnia-rest-api-client 7.1.0
 - javaruntime 8.0.231
 - jq 1.6
 - jre8 8.0.241
@@ -70,7 +77,7 @@
 - KB3035131 1.0.3
 - keepass 2.44
 - kindle 1.25.52064
-- kitty 0.73.2.2
+- kitty 0.73.2.3
 - kodi 18.5
 - krita 4.2.8
 - libreoffice-fresh 6.3.4
@@ -88,7 +95,7 @@
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 66.0.3515.44
+- Opera 66.0.3515.95
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
 - php 7.4.2
@@ -96,7 +103,7 @@
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.14.0
+- postman 7.17.0
 - putty 0.73
 - putty.portable 0.73
 - python 3.8.1.20200110
@@ -113,16 +120,16 @@
 - rufus 3.8
 - sharex 13.0.1
 - skype 8.55.0.141
-- slack 4.3.0
+- slack 4.3.4
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.13
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 15.1.3937
-- thunderbird 68.4.2
-- tor-browser 9.0.4
+- teamviewer 15.2.2756
+- thunderbird 68.5.0
+- tor-browser 9.0.5
 - typora 0.9.83
 - unetbootin 6.7.7
 - vcredist140 14.24.28127.4
@@ -131,11 +138,11 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0148
+- vim 8.2.0260
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.41.1
-- vscode.install 1.41.1
+- vscode 1.42.1
+- vscode.install 1.42.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -144,13 +151,13 @@
 - winscp.install 5.15.9
 - wireshark 3.2.1
 - XnView 2.49.2
-- yarn 1.21.1
+- yarn 1.22.0
 - zoom 4.8.5336.0932
 - 145 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
-- Adobe Acrobat Reader DC MUI|19.021.20061
+- Adobe Acrobat Reader DC MUI|20.006.20034
 - Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop 2020|21.0.2
 - Adobe Photoshop CC 2018|19.0
@@ -187,7 +194,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|79.0.3945.130
+- Google Chrome|80.0.3987.106
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -215,7 +222,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|80.0.361.48
+- Microsoft Edge Beta|80.0.361.53
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -235,7 +242,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127|14.24.28127.4
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127|14.24.28127.4
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Thunderbird 68.4.2 (x86 cs)|68.4.2
+- Mozilla Thunderbird 68.5.0 (x86 cs)|68.5.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -246,7 +253,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
-- Opera Stable 66.0.3515.72|66.0.3515.72
+- Opera Stable 66.0.3515.95|66.0.3515.95
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.1|1.3.1
@@ -254,7 +261,7 @@
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.141.0.13
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.14.0|7.14.0
+- Postman-win64-7.17.0|7.17.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python 3.8.1 (64-bit)|3.8.1150.0
@@ -265,7 +272,7 @@
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|5.2.0.1610
 - Skype verze 8.56|8.56
-- Slack|4.3.2
+- Slack|4.3.4
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -277,8 +284,7 @@
 - Sublime Merge|
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
-- TeamViewer|15.1.3937
-- Telegram Desktop version 1.9.9|1.9.9
+- Telegram Desktop version 1.9.13|1.9.13
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -299,4 +305,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 151 applications not managed with Chocolatey.
+- 150 applications not managed with Chocolatey.
