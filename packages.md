@@ -1,11 +1,4 @@
 Chocolatey v
- validations performed  success(es),  warning(s), and  error(s)
-
-Validation Warnings:
- - A pending system reboot request has been detected, however, this is
-   being ignored due to the current command being used 'list'
-   It is recommended that you reboot at your earliest convenience
-
 ack 
 adb 
 adobereader 
@@ -89,6 +82,7 @@ netfx-
 nexus-root-toolkit 
 nmap 
 nodejs 
+nodejsinstall 
 nvmportable 
 obs-studio 
 obs-studioinstall 

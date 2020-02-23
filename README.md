@@ -1,13 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
-- 2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
-- 
-- Validation Warnings:
--  - A pending system reboot request has been detected, however, this is
--    being ignored due to the current command being used 'list'.
--    It is recommended that you reboot at your earliest convenience.
-- 
 - ack 3.1.1
 - adb 29.0.5
 - adobereader 2020.006.20034
@@ -44,29 +37,29 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 90.4.307
+- dropbox 91.4.548
 - emacs 26.3.0.20191219
-- etcher 1.5.76
+- etcher 1.5.79
 - ffmpeg 4.2.2
 - filezilla 3.46.3
-- Firefox 73.0
+- Firefox 73.0.1
 - fontbase 2.10.3
 - fzf 0.20.0
-- git 2.25.0
-- git.install 2.25.0
+- git 2.25.1
+- git.install 2.25.1
 - gitbook-editor 7.0.12
 - gnucash 3.8
 - google-backup-and-sync 3.48.8668.1933
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 10.3.0.5771
-- hugo 0.64.1
+- hugo 0.65.3
 - hwinfo 6.20
 - hwinfo.install 6.22
 - iCloud 7.17.0.13
-- imagemagick 7.0.9.23
-- imagemagick.app 7.0.9.23
-- insomnia-rest-api-client 7.1.0
+- imagemagick 7.0.9.25
+- imagemagick.app 7.0.9.25
+- insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
 - jre8 8.0.241
@@ -77,33 +70,34 @@
 - KB3035131 1.0.3
 - keepass 2.44
 - kindle 1.25.52064
-- kitty 0.73.2.3
+- kitty 0.73.2.4
 - kodi 18.5
 - krita 4.2.8
 - libreoffice-fresh 6.3.4
 - mc 4.8.21.209
 - mkcert 1.4.1
-- mobaxterm 12.4.0
+- mobaxterm 20.0.0
 - mysql.workbench 8.0.19
 - nano 2.5.3
 - neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.7.0
+- nodejs 13.9.0
+- nodejs.install 13.9.0
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 66.0.3515.95
+- Opera 66.0.3515.103
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
-- php 7.4.2
+- php 7.4.3
 - pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.17.0
+- postman 7.18.0
 - putty 0.73
 - putty.portable 0.73
 - python 3.8.1.20200110
@@ -138,7 +132,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0260
+- vim 8.2.0303
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.42.1
@@ -153,7 +147,7 @@
 - XnView 2.49.2
 - yarn 1.22.0
 - zoom 4.8.5336.0932
-- 145 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
@@ -194,7 +188,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|80.0.3987.106
+- Google Chrome|80.0.3987.116
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -222,7 +216,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|80.0.361.53
+- Microsoft Edge Beta|81.0.416.12
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -247,13 +241,12 @@
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
 - Nexus Root Toolkit|2.1.9
-- Node.js|13.6.0
 - Npcap 0.9982|0.9982
 - Nucleo 2.5.5|2.5.5
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
-- Opera Stable 66.0.3515.95|66.0.3515.95
+- Opera Stable 66.0.3515.103|66.0.3515.103
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.1|1.3.1
@@ -261,7 +254,7 @@
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.141.0.13
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.17.0|7.17.0
+- Postman-win64-7.18.0|7.18.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python 3.8.1 (64-bit)|3.8.1150.0
@@ -284,7 +277,7 @@
 - Sublime Merge|
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.9.13|1.9.13
+- Telegram Desktop version 1.9.14|1.9.14
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -305,4 +298,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 150 applications not managed with Chocolatey.
+- 149 applications not managed with Chocolatey.
