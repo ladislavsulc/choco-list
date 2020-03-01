@@ -41,7 +41,7 @@
 - emacs 26.3.0.20191219
 - etcher 1.5.79
 - ffmpeg 4.2.2
-- filezilla 3.46.3
+- filezilla 3.47.1
 - Firefox 73.0.1
 - fontbase 2.10.3
 - fzf 0.20.0
@@ -57,8 +57,8 @@
 - hwinfo 6.20
 - hwinfo.install 6.22
 - iCloud 7.17.0.13
-- imagemagick 7.0.9.25
-- imagemagick.app 7.0.9.25
+- imagemagick 7.0.9.27
+- imagemagick.app 7.0.9.27
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -89,7 +89,7 @@
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
 - openssh 8.0.0.1
-- Opera 66.0.3515.103
+- Opera 67.0.3575.31
 - partitionwizard 11.6.01
 - performancetest 9.0.1031
 - php 7.4.3
@@ -100,9 +100,9 @@
 - postman 7.18.0
 - putty 0.73
 - putty.portable 0.73
-- python 3.8.1.20200110
+- python 3.8.2
 - python2 2.7.17
-- python3 3.8.1.20200110
+- python3 3.8.2
 - qbittorrent 4.2.1
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
@@ -111,8 +111,8 @@
 - ripgrep 11.0.2
 - rsync 5.7.1.20180411
 - ruby 2.7.0.1
-- rufus 3.8
-- sharex 13.0.1
+- rufus 3.9
+- sharex 13.1.0
 - skype 8.55.0.141
 - slack 4.3.4
 - steam 3.0.1.20190215
@@ -121,7 +121,7 @@
 - subtitleedit 3.5.13
 - TcpView 3.05
 - teamspeak 3.3.2
-- teamviewer 15.2.2756
+- teamviewer 15.3.2682
 - thunderbird 68.5.0
 - tor-browser 9.0.5
 - typora 0.9.83
@@ -132,7 +132,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0303
+- vim 8.2.0336
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.42.1
@@ -143,7 +143,7 @@
 - winmerge 2.16.4.20191007
 - winscp 5.15.9
 - winscp.install 5.15.9
-- wireshark 3.2.1
+- wireshark 3.2.2
 - XnView 2.49.2
 - yarn 1.22.0
 - zoom 4.8.5336.0932
@@ -155,7 +155,7 @@
 - Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop 2020|21.0.2
 - Adobe Photoshop CC 2018|19.0
-- Affinity Designer|1.7.3.481
+- Affinity Designer|1.8.0.585
 - Affinity Designer Customer Beta|1.7.0.188
 - Affinity Publisher Public Beta|1.7.0.192
 - Age of Empires II: Definitive Edition|
@@ -171,7 +171,7 @@
 - CPUID CPU-Z 1.86|1.86
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
-- Discord|0.0.305
+- Discord|0.0.306
 - Ditto|
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
@@ -188,7 +188,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|80.0.3987.116
+- Google Chrome|80.0.3987.122
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -196,6 +196,7 @@
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
+- ImageMagick 7.0.9-27 Q16 (64-bit) (2020-02-29)|7.0.9
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -216,7 +217,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|81.0.416.12
+- Microsoft Edge Beta|81.0.416.20
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -246,7 +247,6 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
-- Opera Stable 66.0.3515.103|66.0.3515.103
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.1|1.3.1
@@ -257,7 +257,6 @@
 - Postman-win64-7.18.0|7.18.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
-- Python 3.8.1 (64-bit)|3.8.1150.0
 - Python Launcher|3.8.6860.0
 - Realtek High Definition Audio Driver|6.0.1.7982
 - Rocket League|
@@ -298,4 +297,8 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 149 applications not managed with Chocolatey.
+- 148 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
