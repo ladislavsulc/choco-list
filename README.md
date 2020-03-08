@@ -24,9 +24,9 @@
 - cinebench 20.0.0.1
 - composer 5.1.0
 - coretemp 1.15.1.20190411
-- cryptomator 1.4.6
+- cryptomator 1.4.15
 - crystaldiskmark 6.0.2
-- curl 7.68.0
+- curl 7.69.0
 - dart-sdk 2.7.1
 - ditto 3.22.89.0
 - docker 99.0.0
@@ -37,7 +37,7 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 91.4.548
+- dropbox 93.3.258
 - emacs 26.3.0.20191219
 - etcher 1.5.79
 - ffmpeg 4.2.2
@@ -53,12 +53,12 @@
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 10.3.0.5771
-- hugo 0.65.3
+- hugo 0.66.0
 - hwinfo 6.20
 - hwinfo.install 6.22
 - iCloud 7.17.0.13
-- imagemagick 7.0.9.27
-- imagemagick.app 7.0.9.27
+- imagemagick 7.0.10.0
+- imagemagick.app 7.0.10.0
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -71,9 +71,9 @@
 - keepass 2.44
 - kindle 1.25.52064
 - kitty 0.73.2.4
-- kodi 18.5
+- kodi 18.6
 - krita 4.2.8
-- libreoffice-fresh 6.3.4
+- libreoffice-fresh 6.3.5
 - mc 4.8.21.209
 - mkcert 1.4.1
 - mobaxterm 20.0.0
@@ -83,8 +83,8 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.9.0
-- nodejs.install 13.9.0
+- nodejs 13.10.1
+- nodejs.install 13.10.1
 - nvm.portable 1.1.7
 - obs-studio 24.0.3
 - obs-studio.install 24.0.3
@@ -115,10 +115,11 @@
 - sharex 13.1.0
 - skype 8.55.0.141
 - slack 4.3.4
+- sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
-- subtitleedit 3.5.13
+- subtitleedit 3.5.14
 - TcpView 3.05
 - teamspeak 3.3.2
 - teamviewer 15.3.2682
@@ -132,7 +133,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0336
+- vim 8.2.0362
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
 - vscode 1.42.1
@@ -147,7 +148,7 @@
 - XnView 2.49.2
 - yarn 1.22.0
 - zoom 4.8.5336.0932
-- 146 packages installed.
+- 147 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat DC|18.009.20050
@@ -188,7 +189,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|80.0.3987.122
+- Google Chrome|80.0.3987.132
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -196,7 +197,6 @@
 - HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
-- ImageMagick 7.0.9-27 Q16 (64-bit) (2020-02-29)|7.0.9
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -205,7 +205,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.1.5.6
+- IntelR Driver &amp; Support Assistant|20.2.9.6
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 241|8.0.2410.7
 - KeePass Password Safe 2.38|2.38
@@ -247,9 +247,10 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
+- Opera Stable 67.0.3575.53|67.0.3575.53
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
-- Outline 1.3.1|1.3.1
+- Outline 1.3.2|1.3.2
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.141.0.13
@@ -298,7 +299,3 @@
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
 - 148 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare

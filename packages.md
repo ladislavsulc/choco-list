@@ -113,6 +113,7 @@ rufus
 sharex 
 skype 
 slack 
+sopcast 
 steam 
 strawberryperl 
 sublimetext 
