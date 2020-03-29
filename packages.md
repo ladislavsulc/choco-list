@@ -8,7 +8,6 @@ ag
 airdroid 
 autohotkeyportable 
 Bitnami-XAMPP 
-blender 
 Boxstarter 
 BoxstarterBootstrapper 
 BoxstarterCommon 
