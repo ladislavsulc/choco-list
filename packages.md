@@ -130,7 +130,6 @@ vcredist
 vcredist 
 vcredist 
 vcredist 
-vim 
 visualstudiocode 
 vlc 
 vscode 

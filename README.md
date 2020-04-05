@@ -30,32 +30,33 @@
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.2.0.4
+- docker-desktop 2.2.0.5
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 94.3.371
+- dropbox 94.4.384
 - emacs 26.3.0.20191219
 - etcher 1.5.80
 - ffmpeg 4.2.2
 - filezilla 3.47.2.1
-- Firefox 74.0
+- Firefox 74.0.1
 - fontbase 2.10.3
-- fzf 0.21.0
+- fzf 0.21.1
 - git 2.26.0
 - git.install 2.26.0
 - gitbook-editor 7.0.12
-- gnucash 3.8
+- gnucash 3.9
 - google-backup-and-sync 3.48.8668.1933
 - gptgen 1.1.20180516
 - grepwin 1.9.2
 - heidisql 11.0.0.5919
 - hugo 0.68.3
 - hwinfo 6.20
-- hwinfo.install 6.22
+- hwinfo.install 6.24
 - iCloud 7.18.0.22
+- imagemagick 7.0.10.3
 - imagemagick.app 7.0.10.3
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
@@ -68,27 +69,27 @@
 - KB3035131 1.0.3
 - keepass 2.44
 - kindle 1.25.52064
-- kitty 0.73.2.7
+- kitty 0.73.2.8
 - kodi 18.6
-- krita 4.2.8
-- libreoffice-fresh 6.3.5
+- krita 4.2.9
+- libreoffice-fresh 6.4.2
 - mc 4.8.21.209
 - mkcert 1.4.1
-- mobaxterm 20.0.0
+- mobaxterm 20.1.0
 - mysql.workbench 8.0.19
 - nano 2.5.3
 - neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.11.0
-- nodejs.install 13.11.0
+- nodejs 13.12.0
+- nodejs.install 13.12.0
 - nvm.portable 1.1.7
-- obs-studio 24.0.3
-- obs-studio.install 24.0.3
+- obs-studio 25.0.1
+- obs-studio.install 25.0.1
 - openssh 8.0.0.1
-- Opera 67.0.3575.31
-- partitionwizard 11.6.01
+- Opera 67.0.3575.115
+- partitionwizard 12.0
 - performancetest 9.0.1031
 - php 7.4.3
 - pinta 1.6
@@ -101,28 +102,28 @@
 - python 3.8.2
 - python2 2.7.17
 - python3 3.8.2
-- qbittorrent 4.2.1
+- qbittorrent 4.2.3
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
 - ricochet 1.1.4
-- ripgrep 11.0.2
+- ripgrep 12.0.1
 - rsync 5.7.1.20180411
-- ruby 2.7.0.1
+- ruby 2.7.1.1
 - rufus 3.9
 - sharex 13.1.0
-- skype 8.55.0.141
-- slack 4.3.4
+- skype 8.58.0.98
+- slack 4.4.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.14.20200310
 - TcpView 3.05
-- teamspeak 3.3.2
-- teamviewer 15.3.8497
-- thunderbird 68.5.0
-- tor-browser 9.0.5
+- teamspeak 3.5.2
+- teamviewer 15.4.4445
+- thunderbird 68.6.0
+- tor-browser 9.0.8
 - typora 0.9.83
 - unetbootin 6.7.7
 - vcredist140 14.24.28127.4
@@ -131,32 +132,28 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0390
+- vim 8.2.0472
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.8
-- vscode 1.43.0
-- vscode.install 1.43.0
+- vscode 1.43.2
+- vscode.install 1.43.2
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
-- winscp 5.15.9
-- winscp.install 5.15.9
+- winscp 5.17.2.20200316
+- winscp.install 5.17.2.20200316
 - wireshark 3.2.2
 - XnView 2.49.2
 - yarn 1.22.0
 - zoom 4.8.5336.0932
-- 145 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat DC|18.009.20050
 - Adobe Acrobat Reader DC MUI|20.006.20042
 - Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop 2020|21.0.2
-- Adobe Photoshop CC 2018|19.0
 - Affinity Designer|1.8.2.620
-- Affinity Designer Customer Beta|1.7.0.188
-- Affinity Publisher Public Beta|1.7.0.192
 - Age of Empires II: Definitive Edition|
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
@@ -164,7 +161,6 @@
 - balenaEtcher 1.5.60|1.5.60
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
-- Blender|2.81.1
 - Blender|2.82.1
 - Blender|2.80.0
 - Bonjour|3.0.0.10
@@ -178,7 +174,7 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|85.3.0
+- Figma|85.10.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - FontBase 2.9.4|2.9.4
@@ -199,6 +195,7 @@
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
 - Iconset 1.3.8|1.3.8
+- Insomnia|7.1.1
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
 - Intel(R) Extreme Tuning Utility|6.5.1.321
@@ -212,14 +209,13 @@
 - Java 8 Update 241|8.0.2410.7
 - KeePass Password Safe 2.38|2.38
 - Kodi|
-- Krita (x64) 4.2.8|4.2.8.0
 - Laragon 3.5.0|3.5.0.181017
 - Logitech Capture|1.10.110
 - Logitech Gaming Software 8.96|8.96.88
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|81.0.416.34
+- Microsoft Edge Beta|81.0.416.45
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -239,7 +235,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127|14.24.28127.4
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127|14.24.28127.4
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Firefox 74.0 (x64 cs)|74.0
+- Mozilla Maintenance Service|74.0.1
 - Mozilla Thunderbird 68.6.0 (x86 cs)|68.6.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -251,13 +247,12 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
 - OpenAL|
-- Opera Stable 67.0.3575.97|67.0.3575.97
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
-- Overwolf|0.141.0.13
+- Overwolf|0.143.0.24
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.20.1|7.20.1
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -282,7 +277,7 @@
 - Sublime Text 3|
 - Subtitle Edit 3.5.14|3.5.14.1
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 1.9.21|1.9.21
+- Telegram Desktop version 2.0.1|2.0.1
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -303,4 +298,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 155 applications not managed with Chocolatey.
+- 149 applications not managed with Chocolatey.
