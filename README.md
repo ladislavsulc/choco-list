@@ -23,10 +23,10 @@
 - cinebench 20.0.0.1
 - composer 5.1.0
 - coretemp 1.15.1.20190411
-- cryptomator 1.4.15
+- cryptomator 1.5.3
 - crystaldiskmark 6.0.2
-- curl 7.69.1
-- dart-sdk 2.7.2
+- curl 7.70.0
+- dart-sdk 2.8.1
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
@@ -36,73 +36,73 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 94.4.384
+- dropbox 97.3.451
 - emacs 26.3.0.20191219
-- etcher 1.5.80
+- etcher 1.5.86
 - ffmpeg 4.2.2
-- filezilla 3.47.2.1
-- Firefox 74.0.1
-- fontbase 2.10.3
+- filezilla 3.48.0
+- Firefox 76.0.1
+- fontbase 2.11.3
 - fzf 0.21.1
-- git 2.26.0
-- git.install 2.26.0
+- git 2.26.2
+- git.install 2.26.2
 - gitbook-editor 7.0.12
-- gnucash 3.9
-- google-backup-and-sync 3.48.8668.1933
+- gnucash 3.10
+- google-backup-and-sync 3.49.9800.000
 - gptgen 1.1.20180516
-- grepwin 1.9.2
+- grepwin 2.0.0
 - heidisql 11.0.0.5919
-- hugo 0.68.3
-- hwinfo 6.20
+- hugo 0.70.0
+- hwinfo 6.24
 - hwinfo.install 6.24
 - iCloud 7.18.0.22
-- imagemagick 7.0.10.3
-- imagemagick.app 7.0.10.3
+- imagemagick 7.0.10.11
+- imagemagick.app 7.0.10.11
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
-- jre8 8.0.241
+- jre8 8.0.251
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
 - KB3033929 1.0.5
 - KB3035131 1.0.3
-- keepass 2.44
+- keepass 2.45
 - kindle 1.25.52064
-- kitty 0.73.2.8
+- kitty 0.73.2.13
 - kodi 18.6
 - krita 4.2.9
-- libreoffice-fresh 6.4.2
+- libreoffice-fresh 6.4.3
 - mc 4.8.21.209
 - mkcert 1.4.1
-- mobaxterm 20.1.0
-- mysql.workbench 8.0.19
+- mobaxterm 20.2.0
+- mysql.workbench 8.0.20
 - nano 2.5.3
 - neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 13.12.0
-- nodejs.install 13.12.0
+- nodejs 14.2.0
+- nodejs.install 14.2.0
 - nvm.portable 1.1.7
-- obs-studio 25.0.1
-- obs-studio.install 25.0.1
+- obs-studio 25.0.8
+- obs-studio.install 25.0.8
 - openssh 8.0.0.1
-- Opera 67.0.3575.115
+- Opera 68.0.3618.63
 - partitionwizard 12.0
 - performancetest 9.0.1031
-- php 7.4.3
+- php 7.4.5
 - pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.20.1
+- postman 7.23.0
 - putty 0.73
 - putty.portable 0.73
 - python 3.8.2
-- python2 2.7.17
+- python2 2.7.18
 - python3 3.8.2
-- qbittorrent 4.2.3
+- qbittorrent 4.2.5
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
@@ -110,44 +110,45 @@
 - ripgrep 12.0.1
 - rsync 5.7.1.20180411
 - ruby 2.7.1.1
-- rufus 3.9
+- rufus 3.10
 - sharex 13.1.0
-- skype 8.58.0.98
-- slack 4.4.0
+- skype 8.59.0.77
+- slack 4.5.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
-- strawberryperl 5.8.9.5
+- strawberryperl 5.30.2.1
 - sublimetext3 3.2.2
-- subtitleedit 3.5.14.20200310
+- subtitleedit 3.5.15
 - TcpView 3.05
 - teamspeak 3.5.2
-- teamviewer 15.4.4445
-- thunderbird 68.6.0
-- tor-browser 9.0.8
+- teamviewer 15.5.3
+- thunderbird 68.7.0
+- tor-browser 9.0.9
 - typora 0.9.83
 - unetbootin 6.7.7
-- vcredist140 14.24.28127.4
+- vcredist140 14.25.28508.3
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0472
+- vim 8.2.0676
 - visualstudiocode 1.23.1.20180730
-- vlc 3.0.8
-- vscode 1.43.2
-- vscode.install 1.43.2
+- vlc 3.0.10
+- vscode 1.44.0
+- vscode.install 1.44.0
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
-- winscp 5.17.2.20200316
-- winscp.install 5.17.2.20200316
-- wireshark 3.2.2
+- winscp 5.17.5
+- winscp.install 5.17.5
+- wireshark 3.2.3
 - XnView 2.49.2
-- yarn 1.22.0
-- zoom 4.8.5336.0932
-- 146 packages installed.
+- yarn 1.22.4
+- zoom 5.0.23168.0427
+- zoom-client 5.1.0.0
+- 147 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.006.20042
@@ -174,19 +175,19 @@
 - DIY DataRecovery MBRtool|2.3.200
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|85.10.0
+- Figma|85.12.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
-- FontBase 2.9.4|2.9.4
 - Fork - a fast and friendly git client|1.43.3
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Gameguard|1.0.0.0
+- GameInput Redistributable|10.1.19041.1147
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|80.0.3987.149
+- Google Chrome|81.0.4044.138
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -204,9 +205,9 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.2.9.6
+- IntelR Driver &amp; Support Assistant|20.4.17.5
 - ITE Infrared Transceiver|1.08.0001
-- Java 8 Update 241|8.0.2410.7
+- Java 8 Update 251|8.0.2510.8
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Laragon 3.5.0|3.5.0.181017
@@ -215,7 +216,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|81.0.416.45
+- Microsoft Edge Beta|83.0.478.28
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -232,11 +233,11 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127|14.24.28127.4
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127|14.24.28127.4
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.25.28508|14.25.28508.3
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508|14.25.28508.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|74.0.1
-- Mozilla Thunderbird 68.6.0 (x86 cs)|68.6.0
+- Mozilla Maintenance Service|76.0.1
+- Mozilla Thunderbird 68.8.0 (x86 cs)|68.8.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -245,16 +246,17 @@
 - Nucleo 2.5.5|2.5.5
 - Nucleo 2.6.2|2.6.2
 - NVIDIA PhysX|9.14.0702
-- Ochrana koncov‚ho bodu Trusteer|3.5.1950.120
+- Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
+- Opera Stable 68.0.3618.63|68.0.3618.63
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
-- Overwolf|0.143.0.24
+- Overwolf|0.145.0.20
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.20.1|7.20.1
+- Postman-win64-7.23.0|7.23.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -263,8 +265,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
-- Skype verze 8.58|8.58
-- Slack|4.4.0
+- Slack|4.5.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -272,12 +273,12 @@
 - Steam|2.10.91.91
 - Storyboarder 1.18.0|1.18.0
 - Storyboarder 1.6.1|1.6.1
+- Strawberry Perl|5.8.2309
 - Strawberry Perl (64-bit)|5.26.2001
 - Sublime Merge|
 - Sublime Text 3|
-- Subtitle Edit 3.5.14|3.5.14.1
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 2.0.1|2.0.1
+- Telegram Desktop version 2.1.4|2.1.4
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit

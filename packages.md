@@ -130,6 +130,7 @@ vcredist
 vcredist 
 vcredist 
 vcredist 
+vim 
 visualstudiocode 
 vlc 
 vscode 
@@ -144,4 +145,5 @@ wireshark
 XnView 
 yarn 
 zoom 
+zoom-client 
  packages installed
