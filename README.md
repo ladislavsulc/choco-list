@@ -2,8 +2,8 @@
 
 - Chocolatey v0.10.15
 - ack 3.1.1
-- adb 29.0.6
-- adobereader 2020.006.20042
+- adb 30.0.1
+- adobereader 2020.009.20063
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -23,22 +23,22 @@
 - cinebench 20.0.0.1
 - composer 5.1.0
 - coretemp 1.15.1.20190411
-- cryptomator 1.5.3
+- cryptomator 1.5.4
 - crystaldiskmark 6.0.2
 - curl 7.70.0
-- dart-sdk 2.8.1
+- dart-sdk 2.8.2
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.2.0.5
+- docker-desktop 2.3.0.2
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 97.3.451
+- dropbox 97.4.467
 - emacs 26.3.0.20191219
-- etcher 1.5.86
+- etcher 1.5.89
 - ffmpeg 4.2.2
 - filezilla 3.48.0
 - Firefox 76.0.1
@@ -116,14 +116,14 @@
 - slack 4.5.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
-- strawberryperl 5.30.2.1
+- strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.15
 - TcpView 3.05
 - teamspeak 3.5.2
 - teamviewer 15.5.3
-- thunderbird 68.7.0
-- tor-browser 9.0.9
+- thunderbird 68.8.0
+- tor-browser 9.0.10
 - typora 0.9.83
 - unetbootin 6.7.7
 - vcredist140 14.25.28508.3
@@ -135,8 +135,8 @@
 - vim 8.2.0676
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.10
-- vscode 1.44.0
-- vscode.install 1.44.0
+- vscode 1.45.0
+- vscode.install 1.45.0
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -146,12 +146,12 @@
 - wireshark 3.2.3
 - XnView 2.49.2
 - yarn 1.22.4
-- zoom 5.0.23168.0427
+- zoom 5.0.23502.0430
 - zoom-client 5.1.0.0
 - 147 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.006.20042
+- Adobe Acrobat Reader DC MUI|20.009.20063
 - Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.2.620
@@ -160,6 +160,7 @@
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
 - balenaEtcher 1.5.60|1.5.60
+- balenaEtcher 1.5.86|1.5.86
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Blender|2.82.1
@@ -205,7 +206,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.4.17.5
+- IntelR Driver &amp; Support Assistant|20.5.20.3
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 251|8.0.2510.8
 - KeePass Password Safe 2.38|2.38
@@ -216,7 +217,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|83.0.478.28
+- Microsoft Edge Beta|83.0.478.33
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -248,7 +249,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 68.0.3618.63|68.0.3618.63
+- Opera Stable 68.0.3618.104|68.0.3618.104
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -273,12 +274,11 @@
 - Steam|2.10.91.91
 - Storyboarder 1.18.0|1.18.0
 - Storyboarder 1.6.1|1.6.1
-- Strawberry Perl|5.8.2309
 - Strawberry Perl (64-bit)|5.26.2001
 - Sublime Merge|
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
-- Telegram Desktop version 2.1.4|2.1.4
+- Telegram Desktop version 2.1.6|2.1.6
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
