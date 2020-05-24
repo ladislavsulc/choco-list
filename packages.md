@@ -118,7 +118,6 @@ strawberryperl
 sublimetext 
 subtitleedit 
 TcpView 
-teamspeak 
 teamviewer 
 thunderbird 
 tor-browser 

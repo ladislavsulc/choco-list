@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 3.1.1
 - adb 30.0.1
-- adobereader 2020.009.20063
+- adobereader 2020.009.20065
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -38,9 +38,9 @@
 - dotnetfx 4.8.0.20190930
 - dropbox 97.4.467
 - emacs 26.3.0.20191219
-- etcher 1.5.89
+- etcher 1.5.91
 - ffmpeg 4.2.2
-- filezilla 3.48.0
+- filezilla 3.48.1
 - Firefox 76.0.1
 - fontbase 2.11.3
 - fzf 0.21.1
@@ -50,14 +50,14 @@
 - gnucash 3.10
 - google-backup-and-sync 3.49.9800.000
 - gptgen 1.1.20180516
-- grepwin 2.0.0
+- grepwin 2.0.1
 - heidisql 11.0.0.5919
-- hugo 0.70.0
-- hwinfo 6.24
-- hwinfo.install 6.24
+- hugo 0.71.0
+- hwinfo 6.26
+- hwinfo.install 6.26
 - iCloud 7.18.0.22
-- imagemagick 7.0.10.11
-- imagemagick.app 7.0.10.11
+- imagemagick 7.0.10.14
+- imagemagick.app 7.0.10.14
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -69,8 +69,8 @@
 - KB3035131 1.0.3
 - keepass 2.45
 - kindle 1.25.52064
-- kitty 0.73.2.13
-- kodi 18.6
+- kitty 0.73.2.16
+- kodi 18.7
 - krita 4.2.9
 - libreoffice-fresh 6.4.3
 - mc 4.8.21.209
@@ -82,13 +82,13 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 14.2.0
-- nodejs.install 14.2.0
+- nodejs 14.3.0
+- nodejs.install 14.3.0
 - nvm.portable 1.1.7
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
 - openssh 8.0.0.1
-- Opera 68.0.3618.63
+- Opera 68.0.3618.125
 - partitionwizard 12.0
 - performancetest 9.0.1031
 - php 7.4.5
@@ -96,32 +96,31 @@
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.23.0
+- postman 7.25.0
 - putty 0.73
 - putty.portable 0.73
-- python 3.8.2
+- python 3.8.3
 - python2 2.7.18
-- python3 3.8.2
+- python3 3.8.3
 - qbittorrent 4.2.5
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
 - ricochet 1.1.4
-- ripgrep 12.0.1
+- ripgrep 12.1.0
 - rsync 5.7.1.20180411
 - ruby 2.7.1.1
 - rufus 3.10
 - sharex 13.1.0
-- skype 8.59.0.77
-- slack 4.5.0
+- skype 8.60.0.76
+- slack 4.6.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.15
 - TcpView 3.05
-- teamspeak 3.5.2
-- teamviewer 15.5.3
+- teamviewer 15.5.6
 - thunderbird 68.8.0
 - tor-browser 9.0.10
 - typora 0.9.83
@@ -148,19 +147,17 @@
 - yarn 1.22.4
 - zoom 5.0.23502.0430
 - zoom-client 5.1.0.0
-- 147 packages installed.
+- 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.009.20063
+- Adobe Acrobat Reader DC MUI|20.009.20065
 - Adobe Creative Cloud|5.0.0.354
 - Adobe Photoshop 2020|21.0.2
-- Affinity Designer|1.8.2.620
+- Affinity Designer|1.8.3.641
 - Age of Empires II: Definitive Edition|
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
-- balenaEtcher 1.5.60|1.5.60
-- balenaEtcher 1.5.86|1.5.86
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Blender|2.82.1
@@ -183,7 +180,7 @@
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Gameguard|1.0.0.0
-- GameInput Redistributable|10.1.19041.1147
+- GameInput Redistributable|10.1.19041.1870
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
@@ -217,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|83.0.478.33
+- Microsoft Edge Beta|83.0.478.37
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -249,7 +246,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 68.0.3618.104|68.0.3618.104
+- Opera Stable 68.0.3618.125|68.0.3618.125
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -257,7 +254,7 @@
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.145.0.20
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.23.0|7.23.0
+- Postman-win64-7.25.0|7.25.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -266,7 +263,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
-- Slack|4.5.0
+- Slack|4.5.1
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -278,6 +275,8 @@
 - Sublime Merge|
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
+- TeamSpeak 3 Client|3.5.2
+- TeamViewer|15.5.3
 - Telegram Desktop version 2.1.6|2.1.6
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
@@ -300,3 +299,7 @@
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
 - 149 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
