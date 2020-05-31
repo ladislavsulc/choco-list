@@ -125,33 +125,33 @@
 - tor-browser 9.0.10
 - typora 0.9.83
 - unetbootin 6.7.7
-- vcredist140 14.25.28508.3
+- vcredist140 14.26.28720.3
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.0676
+- vim 8.2.0814
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.10
-- vscode 1.45.0
-- vscode.install 1.45.0
+- vscode 1.45.1
+- vscode.install 1.45.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
 - winscp 5.17.5
 - winscp.install 5.17.5
-- wireshark 3.2.3
+- wireshark 3.2.4
 - XnView 2.49.2
 - yarn 1.22.4
-- zoom 5.0.23502.0430
+- zoom 5.0.24951.0515
 - zoom-client 5.1.0.0
 - 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.009.20065
-- Adobe Creative Cloud|5.0.0.354
+- Adobe Creative Cloud|5.1.0.407
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
 - Age of Empires II: Definitive Edition|
@@ -185,7 +185,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|81.0.4044.138
+- Google Chrome|83.0.4103.61
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -203,7 +203,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.5.20.3
+- IntelR Driver &amp; Support Assistant|20.6.22.6
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 251|8.0.2510.8
 - KeePass Password Safe 2.38|2.38
@@ -231,11 +231,12 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.25.28508|14.25.28508.3
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508|14.25.28508.3
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.26.28720|14.26.28720.3
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
+- Microsoft Visual Studio Code|1.45.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|76.0.1
-- Mozilla Thunderbird 68.8.0 (x86 cs)|68.8.0
+- Mozilla Thunderbird 68.8.1 (x86 cs)|68.8.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -276,7 +277,6 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- TeamViewer|15.5.3
 - Telegram Desktop version 2.1.6|2.1.6
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
@@ -299,7 +299,3 @@
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
 - 149 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
