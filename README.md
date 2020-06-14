@@ -150,7 +150,7 @@
 - 146 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.009.20065
+- Adobe Acrobat Reader DC MUI|20.009.20067
 - Adobe Creative Cloud|5.1.0.407
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
@@ -185,7 +185,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|83.0.4103.61
+- Google Chrome|83.0.4103.97
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -214,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|83.0.478.37
+- Microsoft Edge Beta|84.0.522.15
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -236,7 +236,7 @@
 - Microsoft Visual Studio Code|1.45.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Maintenance Service|76.0.1
-- Mozilla Thunderbird 68.8.1 (x86 cs)|68.8.1
+- Mozilla Thunderbird 68.9.0 (x86 cs)|68.9.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -253,7 +253,7 @@
 - Outline 1.3.2|1.3.2
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
-- Overwolf|0.145.0.20
+- Overwolf|0.148.0.4
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
 - Postman-win64-7.25.0|7.25.0
 - Python 3.6.5 (64-bit)|3.6.5150.0
@@ -264,7 +264,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
-- Slack|4.5.1
+- Slack|4.6.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -277,7 +277,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.1.6|2.1.6
+- Telegram Desktop version 2.1.10|2.1.10
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
