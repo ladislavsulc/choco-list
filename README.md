@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 3.1.1
 - adb 30.0.1
-- adobereader 2020.009.20065
+- adobereader 2020.009.20067
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -23,41 +23,39 @@
 - cinebench 20.0.0.1
 - composer 5.1.0
 - coretemp 1.15.1.20190411
-- cryptomator 1.5.4
+- cryptomator 1.5.6
 - crystaldiskmark 6.0.2
-- curl 7.70.0
-- dart-sdk 2.8.2
+- curl 7.71.0
+- dart-sdk 2.8.4
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.3
-- docker-desktop 2.3.0.2
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 97.4.467
+- dropbox 99.4.501
 - emacs 26.3.0.20191219
-- etcher 1.5.91
-- ffmpeg 4.2.2
+- etcher 1.5.100
+- ffmpeg 4.3
 - filezilla 3.48.1
-- Firefox 76.0.1
+- Firefox 77.0.1
 - fontbase 2.11.3
 - fzf 0.21.1
-- git 2.26.2
-- git.install 2.26.2
+- git 2.27.0
+- git.install 2.27.0
 - gitbook-editor 7.0.12
 - gnucash 3.10
 - google-backup-and-sync 3.49.9800.000
 - gptgen 1.1.20180516
-- grepwin 2.0.1
+- grepwin 2.0.2
 - heidisql 11.0.0.5919
-- hugo 0.71.0
-- hwinfo 6.26
-- hwinfo.install 6.26
-- iCloud 7.18.0.22
-- imagemagick 7.0.10.14
-- imagemagick.app 7.0.10.14
+- hugo 0.73.0
+- hwinfo 6.28
+- hwinfo.install 6.28
+- iCloud 7.19.0.10
+- imagemagick.app 7.0.10.19
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -147,7 +145,7 @@
 - yarn 1.22.4
 - zoom 5.0.24951.0515
 - zoom-client 5.1.0.0
-- 146 packages installed.
+- 144 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.009.20067
@@ -171,21 +169,22 @@
 - Discord|0.0.306
 - Ditto|
 - DIY DataRecovery MBRtool|2.3.200
+- Docker Desktop|2.3.0.2
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|85.12.0
+- Figma|86.4.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Fork - a fast and friendly git client|1.43.3
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Gameguard|1.0.0.0
-- GameInput Redistributable|10.1.19041.1870
+- GameInput Redistributable|10.1.19041.3357
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|83.0.4103.97
+- Google Chrome|83.0.4103.116
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -203,7 +202,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.6.22.6
+- IntelR Driver &amp; Support Assistant|20.7.26.6
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 251|8.0.2510.8
 - KeePass Password Safe 2.38|2.38
@@ -214,7 +213,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|84.0.522.15
+- Microsoft Edge Beta|84.0.522.28
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -235,7 +234,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Code|1.45.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|76.0.1
+- Mozilla Maintenance Service|77.0.1
 - Mozilla Thunderbird 68.9.0 (x86 cs)|68.9.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -247,7 +246,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 68.0.3618.125|68.0.3618.125
+- Opera Stable 68.0.3618.173|68.0.3618.173
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -264,6 +263,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
+- Skype verze 8.61|8.61
 - Slack|4.6.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -277,7 +277,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.1.10|2.1.10
+- Telegram Desktop version 2.1.13|2.1.13
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -298,4 +298,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 149 applications not managed with Chocolatey.
+- 151 applications not managed with Chocolatey.

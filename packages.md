@@ -28,7 +28,6 @@ dart-sdk
 ditto 
 docker 
 docker-cli 
-docker-desktop 
 docker-for-windows 
 DotNet 
 dotnet 
@@ -54,7 +53,6 @@ hugo
 hwinfo 
 hwinfoinstall 
 iCloud 
-imagemagick 
 imagemagickapp 
 insomnia-rest-api-client 
 javaruntime 
