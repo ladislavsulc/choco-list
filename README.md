@@ -8,7 +8,7 @@
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.7.000
-- autohotkey.portable 1.1.32.00
+- autohotkey.portable 1.1.33.00
 - Bitnami-XAMPP 7.3.4
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
@@ -25,7 +25,7 @@
 - coretemp 1.15.1.20190411
 - cryptomator 1.5.6
 - crystaldiskmark 6.0.2
-- curl 7.71.0
+- curl 7.71.1
 - dart-sdk 2.8.4
 - ditto 3.22.89.0
 - docker 99.0.0
@@ -38,15 +38,15 @@
 - dropbox 99.4.501
 - emacs 26.3.0.20191219
 - etcher 1.5.100
-- ffmpeg 4.3
+- ffmpeg 4.3.0.20200630
 - filezilla 3.48.1
-- Firefox 77.0.1
+- Firefox 78.0.1
 - fontbase 2.11.3
 - fzf 0.21.1
 - git 2.27.0
 - git.install 2.27.0
 - gitbook-editor 7.0.12
-- gnucash 3.10
+- gnucash 4.0
 - google-backup-and-sync 3.49.9800.000
 - gptgen 1.1.20180516
 - grepwin 2.0.2
@@ -55,6 +55,7 @@
 - hwinfo 6.28
 - hwinfo.install 6.28
 - iCloud 7.19.0.10
+- imagemagick 7.0.10.19
 - imagemagick.app 7.0.10.19
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
@@ -67,10 +68,10 @@
 - KB3035131 1.0.3
 - keepass 2.45
 - kindle 1.25.52064
-- kitty 0.73.2.16
+- kitty 0.74.0.2
 - kodi 18.7
-- krita 4.2.9
-- libreoffice-fresh 6.4.3
+- krita 4.3.0
+- libreoffice-fresh 6.4.4
 - mc 4.8.21.209
 - mkcert 1.4.1
 - mobaxterm 20.2.0
@@ -80,23 +81,22 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 14.3.0
-- nodejs.install 14.3.0
+- nodejs 14.5.0
+- nodejs.install 14.5.0
 - nvm.portable 1.1.7
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
 - openssh 8.0.0.1
-- Opera 68.0.3618.125
 - partitionwizard 12.0
 - performancetest 9.0.1031
-- php 7.4.5
+- php 7.4.7
 - pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.25.0
-- putty 0.73
-- putty.portable 0.73
+- postman 7.27.1
+- putty 0.74
+- putty.portable 0.74
 - python 3.8.3
 - python2 2.7.18
 - python3 3.8.3
@@ -105,20 +105,20 @@
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
 - ricochet 1.1.4
-- ripgrep 12.1.0
+- ripgrep 12.1.1
 - rsync 5.7.1.20180411
 - ruby 2.7.1.1
-- rufus 3.10
+- rufus 3.11
 - sharex 13.1.0
-- skype 8.60.0.76
-- slack 4.6.0
+- skype 8.61.0.87
+- slack 4.7.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
-- subtitleedit 3.5.15
+- subtitleedit 3.5.16
 - TcpView 3.05
-- teamviewer 15.5.6
+- teamviewer 15.7.6
 - thunderbird 68.8.0
 - tor-browser 9.0.10
 - typora 0.9.83
@@ -179,7 +179,7 @@
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Gameguard|1.0.0.0
-- GameInput Redistributable|10.1.19041.3357
+- GameInput Redistributable|10.1.19041.3378
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
@@ -234,8 +234,8 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Code|1.45.1
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|77.0.1
-- Mozilla Thunderbird 68.9.0 (x86 cs)|68.9.0
+- Mozilla Maintenance Service|78.0.1
+- Mozilla Thunderbird 68.10.0 (x86 cs)|68.10.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -252,9 +252,9 @@
 - Outline 1.3.2|1.3.2
 - Outline Manager 1.2.4|1.2.4
 - Outline Manager 1.3.0|1.3.0
-- Overwolf|0.148.0.4
+- Overwolf|0.148.81.21
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.25.0|7.25.0
+- Postman-win64-7.27.1|7.27.1
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
@@ -277,6 +277,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
+- TeamViewer|15.5.6
 - Telegram Desktop version 2.1.13|2.1.13
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
@@ -298,4 +299,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 151 applications not managed with Chocolatey.
+- 152 applications not managed with Chocolatey.

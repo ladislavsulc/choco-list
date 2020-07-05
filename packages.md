@@ -53,6 +53,7 @@ hugo
 hwinfo 
 hwinfoinstall 
 iCloud 
+imagemagick 
 imagemagickapp 
 insomnia-rest-api-client 
 javaruntime 
@@ -84,7 +85,6 @@ nvmportable
 obs-studio 
 obs-studioinstall 
 openssh 
-Opera 
 partitionwizard 
 performancetest 
 php 
