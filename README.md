@@ -1,15 +1,15 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
-- ack 3.1.1
+- ack 3.4.0
 - adb 30.0.1
-- adobereader 2020.009.20067
+- adobereader 2020.009.20074
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
 - airdroid 3.6.7.000
-- autohotkey.portable 1.1.33.00
-- Bitnami-XAMPP 7.3.4
+- autohotkey.portable 1.1.33.02
+- Bitnami-XAMPP 7.4.6
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -21,7 +21,7 @@
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
-- composer 5.1.0
+- composer 5.1.0.20200713
 - coretemp 1.15.1.20190411
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
@@ -29,15 +29,15 @@
 - dart-sdk 2.8.4
 - ditto 3.22.89.0
 - docker 99.0.0
-- docker-cli 19.03.3
+- docker-cli 19.03.12
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 99.4.501
+- dropbox 102.4.431
 - emacs 26.3.0.20191219
-- etcher 1.5.101
+- etcher 1.5.102
 - ffmpeg 4.3.0.20200630
 - filezilla 3.48.1
 - Firefox 78.0.2
@@ -149,13 +149,14 @@
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.009.20074
-- Adobe Creative Cloud|5.1.0.407
+- Adobe Creative Cloud|5.2.0.436
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
 - Age of Empires II: Definitive Edition|
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
+- balenaEtcher 1.5.101|1.5.101
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Blender|2.82.1
@@ -173,7 +174,7 @@
 - Docker Desktop|2.3.0.2
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|86.4.0
+- Figma|86.5.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Fork - a fast and friendly git client|1.43.3
@@ -185,7 +186,7 @@
 - ghostwriter version 1.5.0|1.5.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|84.0.4147.89
+- Google Chrome|84.0.4147.105
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -203,7 +204,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.7.26.7
+- IntelR Driver &amp; Support Assistant|20.8.30.5
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 251|8.0.2510.8
 - KeePass Password Safe 2.38|2.38
@@ -214,7 +215,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|84.0.522.39
+- Microsoft Edge Beta|85.0.564.18
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -246,7 +247,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 68.0.3618.173|68.0.3618.173
+- Opera Stable 69.0.3686.95|69.0.3686.95
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -259,6 +260,7 @@
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0
 - Realtek High Definition Audio Driver|6.0.1.7982
+- ResponsivelyApp 0.9.0|0.9.0
 - Rocket League|
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
@@ -276,7 +278,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.1.13|2.1.13
+- Telegram Desktop version 2.2|2.2
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -297,4 +299,4 @@
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 150 applications not managed with Chocolatey.
+- 152 applications not managed with Chocolatey.
