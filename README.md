@@ -26,7 +26,7 @@
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
 - curl 7.71.1
-- dart-sdk 2.8.4
+- dart-sdk 2.9.0
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.12
@@ -35,23 +35,22 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 102.4.431
+- dropbox 103.4.383
 - emacs 26.3.0.20191219
 - etcher 1.5.102
-- ffmpeg 4.3.0.20200630
-- filezilla 3.48.1
-- Firefox 78.0.2
+- ffmpeg 4.3.1
+- filezilla 3.49.1
+- Firefox 79.0.0.20200805
 - fontbase 2.11.3
-- fzf 0.21.1
-- git 2.27.0
-- git.install 2.27.0
+- fzf 0.22.0
+- git 2.28.0
 - gitbook-editor 7.0.12
-- gnucash 4.0
+- gnucash 4.1
 - google-backup-and-sync 3.50.3166.0017
 - gptgen 1.1.20180516
-- grepwin 2.0.2
+- grepwin 2.0.3
 - heidisql 11.0.0.5919
-- hugo 0.73.0
+- hugo 0.74.3
 - hwinfo 6.28
 - hwinfo.install 6.28
 - iCloud 7.19.0.10
@@ -60,7 +59,7 @@
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
-- jre8 8.0.251
+- jre8 8.0.261
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -68,59 +67,59 @@
 - KB3035131 1.0.3
 - keepass 2.45
 - kindle 1.25.52064
-- kitty 0.74.0.2
+- kitty 0.74.0.3
 - kodi 18.7
 - krita 4.3.0
 - libreoffice-fresh 6.4.4
 - mc 4.8.21.209
 - mkcert 1.4.1
-- mobaxterm 20.2.0
-- mysql.workbench 8.0.20
+- mobaxterm 20.3.0
+- mysql.workbench 8.0.21
 - nano 2.5.3
 - neovim 0.4.3
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 14.5.0
-- nodejs.install 14.5.0
+- nodejs 14.7.0
+- nodejs.install 14.7.0
 - nvm.portable 1.1.7
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
 - openssh 8.0.0.1
 - partitionwizard 12.0
 - performancetest 9.0.1031
-- php 7.4.7
+- php 7.4.9
 - pinta 1.6
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
-- postman 7.27.1
+- postman 7.29.1
 - putty 0.74
 - putty.portable 0.74
-- python 3.8.3
+- python 3.8.5.20200721
 - python2 2.7.18
-- python3 3.8.3
+- python3 3.8.5.20200721
 - qbittorrent 4.2.5
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
 - rainmeter 4.3.0.3321
 - ricochet 1.1.4
-- ripgrep 12.1.1
+- ripgrep 12.1.1.20200727
 - rsync 5.7.1.20180411
 - ruby 2.7.1.1
 - rufus 3.11
 - sharex 13.1.0
-- skype 8.62.0.83
-- slack 4.7.0
+- skype 8.63.0.76
+- slack 4.8.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.16
 - TcpView 3.05
-- teamviewer 15.7.7
-- thunderbird 68.10.0
-- tor-browser 9.5.1
+- teamviewer 15.8.3
+- thunderbird 78.1.1
+- tor-browser 9.5.3
 - typora 0.9.89
 - unetbootin 6.8.1
 - vcredist140 14.26.28720.3
@@ -129,23 +128,23 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.1176
+- vim 8.2.1399
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.11
-- vscode 1.47.0
-- vscode.install 1.47.0
+- vscode 1.47.3
+- vscode.install 1.47.3
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
 - winmerge 2.16.4.20191007
-- winscp 5.17.6
-- winscp.install 5.17.6
+- winscp 5.17.7
+- winscp.install 5.17.7
 - wireshark 3.2.5
 - XnView 2.49.3
 - yarn 1.22.4
-- zoom 5.1.28656.0709
+- zoom 5.2.42619.0804
 - zoom-client 5.1.0.0
-- 144 packages installed.
+- 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.009.20074
@@ -156,7 +155,6 @@
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
-- balenaEtcher 1.5.101|1.5.101
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Blender|2.82.1
@@ -168,7 +166,7 @@
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
 - CrystalDiskMark 6.0.2|6.0.2
-- Discord|0.0.306
+- Discord|0.0.307
 - Ditto|
 - DIY DataRecovery MBRtool|2.3.200
 - Docker Desktop|2.3.0.2
@@ -184,6 +182,7 @@
 - GameInput Redistributable|10.1.19041.3225
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
+- Git version 2.27.0|2.27.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
 - Google Chrome|84.0.4147.105
@@ -204,9 +203,9 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.8.30.5
+- IntelR Driver &amp; Support Assistant|20.8.30.6
 - ITE Infrared Transceiver|1.08.0001
-- Java 8 Update 251|8.0.2510.8
+- Java 8 Update 261|8.0.2610.12
 - KeePass Password Safe 2.38|2.38
 - Kodi|
 - Laragon 3.5.0|3.5.0.181017
@@ -215,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|85.0.564.18
+- Microsoft Edge Beta|85.0.564.23
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -235,8 +234,8 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.26.28720|14.26.28720.3
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|78.0.2
-- Mozilla Thunderbird 68.10.0 (x86 cs)|68.10.0
+- Mozilla Firefox 79.0 (x64 en-US)|79.0
+- Mozilla Thunderbird 78.1.1 (x86 cs)|78.1.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -255,7 +254,7 @@
 - Outline Manager 1.3.0|1.3.0
 - Overwolf|0.149.2.30
 - Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.27.1|7.27.1
+- Postman-win64-7.29.1|7.29.1
 - Python 3.6.5 (64-bit)|3.6.5150.0
 - Python 3.7.4 (64-bit)|3.7.4150.0
 - Python Launcher|3.8.6860.0

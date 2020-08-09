@@ -42,7 +42,6 @@ Firefox
 fontbase 
 fzf 
 git 
-gitinstall 
 gitbook-editor 
 gnucash 
 google-backup-and-sync 
