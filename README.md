@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 3.4.0
 - adb 30.0.1
-- adobereader 2020.009.20074
+- adobereader 2020.012.20041
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -21,12 +21,12 @@
 - chocolatey-misc-helpers.extension 0.0.3.1
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
-- composer 5.1.0.20200713
+- composer 6.0.0
 - coretemp 1.15.1.20190411
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
 - curl 7.71.1
-- dart-sdk 2.9.0
+- dart-sdk 2.9.1
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.12
@@ -35,7 +35,7 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 103.4.383
+- dropbox 104.4.175
 - emacs 26.3.0.20191219
 - etcher 1.5.102
 - ffmpeg 4.3.1
@@ -53,9 +53,9 @@
 - hugo 0.74.3
 - hwinfo 6.28
 - hwinfo.install 6.28
-- iCloud 7.19.0.10
-- imagemagick 7.0.10.19
-- imagemagick.app 7.0.10.19
+- iCloud 7.20.0.17
+- imagemagick 7.0.10.27
+- imagemagick.app 7.0.10.27
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -67,10 +67,10 @@
 - KB3035131 1.0.3
 - keepass 2.45
 - kindle 1.25.52064
-- kitty 0.74.0.3
+- kitty 0.74.0.4
 - kodi 18.7
 - krita 4.3.0
-- libreoffice-fresh 6.4.4
+- libreoffice-fresh 6.4.6
 - mc 4.8.21.209
 - mkcert 1.4.1
 - mobaxterm 20.3.0
@@ -147,7 +147,7 @@
 - 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.009.20074
+- Adobe Acrobat Reader DC MUI|20.012.20041
 - Adobe Creative Cloud|5.2.0.436
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
@@ -161,7 +161,6 @@
 - Blender|2.80.0
 - Bonjour|3.0.0.10
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
-- Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
@@ -185,7 +184,7 @@
 - Git version 2.27.0|2.27.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|84.0.4147.105
+- Google Chrome|84.0.4147.125
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -194,6 +193,7 @@
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
 - Iconset 1.3.8|1.3.8
+- ImageMagick 7.0.10-27 Q16-HDRI (64-bit) (2020-08-10)|7.0.10
 - Insomnia|7.1.1
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
@@ -214,7 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|85.0.564.23
+- Microsoft Edge Beta|85.0.564.30
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -264,7 +264,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
-- Slack|4.7.0
+- Slack|4.8.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -277,7 +277,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.2|2.2
+- Telegram Desktop version 2.3|2.3
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
