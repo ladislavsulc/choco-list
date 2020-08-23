@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 3.4.0
 - adb 30.0.1
-- adobereader 2020.012.20041
+- adobereader 2020.012.20043
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -25,7 +25,7 @@
 - coretemp 1.15.1.20190411
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
-- curl 7.71.1
+- curl 7.72.0
 - dart-sdk 2.9.1
 - ditto 3.22.89.0
 - docker 99.0.0
@@ -37,11 +37,11 @@
 - dotnetfx 4.8.0.20190930
 - dropbox 104.4.175
 - emacs 26.3.0.20191219
-- etcher 1.5.102
+- etcher 1.5.104
 - ffmpeg 4.3.1
 - filezilla 3.49.1
-- Firefox 79.0.0.20200805
-- fontbase 2.11.3
+- Firefox 79.0.0.20200817
+- fontbase 2.13.2
 - fzf 0.22.0
 - git 2.28.0
 - gitbook-editor 7.0.12
@@ -54,8 +54,8 @@
 - hwinfo 6.28
 - hwinfo.install 6.28
 - iCloud 7.20.0.17
-- imagemagick 7.0.10.27
-- imagemagick.app 7.0.10.27
+- imagemagick 7.0.10.28
+- imagemagick.app 7.0.10.28
 - insomnia-rest-api-client 7.1.1
 - javaruntime 8.0.231
 - jq 1.6
@@ -66,7 +66,7 @@
 - KB3033929 1.0.5
 - KB3035131 1.0.3
 - keepass 2.45
-- kindle 1.25.52064
+- kindle 1.29.58059
 - kitty 0.74.0.4
 - kodi 18.7
 - krita 4.3.0
@@ -80,8 +80,8 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 14.7.0
-- nodejs.install 14.7.0
+- nodejs 14.8.0
+- nodejs.install 14.8.0
 - nvm.portable 1.1.7
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
@@ -128,26 +128,26 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.1399
+- vim 8.2.1512
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.11
-- vscode 1.47.3
-- vscode.install 1.47.3
+- vscode 1.48.1
+- vscode.install 1.48.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
-- winmerge 2.16.4.20191007
+- winmerge 2.16.6.1
 - winscp 5.17.7
 - winscp.install 5.17.7
 - wireshark 3.2.5
 - XnView 2.49.3
 - yarn 1.22.4
-- zoom 5.2.42619.0804
+- zoom 5.2.44052.0816
 - zoom-client 5.1.0.0
 - 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.012.20041
+- Adobe Acrobat Reader DC MUI|20.012.20043
 - Adobe Creative Cloud|5.2.0.436
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
@@ -184,7 +184,7 @@
 - Git version 2.27.0|2.27.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|84.0.4147.125
+- Google Chrome|84.0.4147.135
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -193,7 +193,6 @@
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
 - Iconset 1.3.8|1.3.8
-- ImageMagick 7.0.10-27 Q16-HDRI (64-bit) (2020-08-10)|7.0.10
 - Insomnia|7.1.1
 - Intel Processor Diagnostic Tool 64bit|4.1.0.24
 - Intel(R) Computing Improvement Program|2.4.04370
@@ -214,7 +213,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|85.0.564.30
+- Microsoft Edge Beta|85.0.564.40
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -246,7 +245,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 69.0.3686.95|69.0.3686.95
+- Opera Stable 70.0.3728.106|70.0.3728.106
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -277,7 +276,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.3|2.3
+- Telegram Desktop version 2.3.1|2.3.1
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -296,6 +295,5 @@
 - Windows 7 USB/DVD Download Tool|1.0.30
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
-- WinMerge 2.16.4.0 x64|2.16.4.0
 - Xenu's Link Sleuth|1.3.9
-- 152 applications not managed with Chocolatey.
+- 150 applications not managed with Chocolatey.
