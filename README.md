@@ -18,7 +18,7 @@
 - chocolatey 0.10.15
 - chocolatey-core.extension 1.3.5.1
 - chocolatey-dotnetfx.extension 1.0.1
-- chocolatey-misc-helpers.extension 0.0.3.1
+- chocolatey-misc-helpers.extension 0.0.4
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
 - composer 6.0.0
@@ -26,7 +26,7 @@
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
 - curl 7.72.0
-- dart-sdk 2.9.1
+- dart-sdk 2.9.2
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.12
@@ -37,7 +37,7 @@
 - dotnetfx 4.8.0.20190930
 - dropbox 104.4.175
 - emacs 26.3.0.20191219
-- etcher 1.5.104
+- etcher 1.5.106
 - ffmpeg 4.3.1
 - filezilla 3.49.1
 - Firefox 79.0.0.20200817
@@ -51,8 +51,8 @@
 - grepwin 2.0.3
 - heidisql 11.0.0.5919
 - hugo 0.74.3
-- hwinfo 6.28
-- hwinfo.install 6.28
+- hwinfo 6.30
+- hwinfo.install 6.30
 - iCloud 7.20.0.17
 - imagemagick 7.0.10.28
 - imagemagick.app 7.0.10.28
@@ -67,7 +67,7 @@
 - KB3035131 1.0.3
 - keepass 2.45
 - kindle 1.29.58059
-- kitty 0.74.0.4
+- kitty 0.74.0.5
 - kodi 18.7
 - krita 4.3.0
 - libreoffice-fresh 6.4.6
@@ -86,7 +86,7 @@
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
 - openssh 8.0.0.1
-- partitionwizard 12.0
+- partitionwizard 12.1.01
 - performancetest 9.0.1031
 - php 7.4.9
 - pinta 1.6
@@ -118,8 +118,8 @@
 - subtitleedit 3.5.16
 - TcpView 3.05
 - teamviewer 15.8.3
-- thunderbird 78.1.1
-- tor-browser 9.5.3
+- thunderbird 78.2.0
+- tor-browser 9.5.4
 - typora 0.9.89
 - unetbootin 6.8.1
 - vcredist140 14.26.28720.3
@@ -128,7 +128,7 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.1512
+- vim 8.2.1542
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.11
 - vscode 1.48.1
@@ -141,7 +141,7 @@
 - winscp.install 5.17.7
 - wireshark 3.2.5
 - XnView 2.49.3
-- yarn 1.22.4
+- yarn 1.22.5
 - zoom 5.2.44052.0816
 - zoom-client 5.1.0.0
 - 143 packages installed.
@@ -171,7 +171,7 @@
 - Docker Desktop|2.3.0.2
 - Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
 - Etcher 1.4.6 (only current user)|1.4.6
-- Figma|86.5.0
+- Figma|88.1.0
 - Figma Font Helper|21.0
 - FontBase|2.3.0
 - Fork - a fast and friendly git client|1.43.3
@@ -213,7 +213,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|85.0.564.40
+- Microsoft Edge Beta|85.0.564.41
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -234,7 +234,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Firefox 79.0 (x64 en-US)|79.0
-- Mozilla Thunderbird 78.1.1 (x86 cs)|78.1.1
+- Mozilla Thunderbird 78.2.0 (x86 cs)|78.2.0
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
