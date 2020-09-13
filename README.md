@@ -2,14 +2,14 @@
 
 - Chocolatey v0.10.15
 - ack 3.4.0
-- adb 30.0.1
+- adb 30.0.4
 - adobereader 2020.012.20043
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
-- airdroid 3.6.7.000
+- airdroid 3.6.8.000
 - autohotkey.portable 1.1.33.02
-- Bitnami-XAMPP 7.4.6
+- Bitnami-XAMPP 7.4.9
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -21,12 +21,12 @@
 - chocolatey-misc-helpers.extension 0.0.4
 - chocolatey-windowsupdate.extension 1.0.4
 - cinebench 20.0.0.1
-- composer 6.0.0
+- composer 6.1.0
 - coretemp 1.15.1.20190411
 - cryptomator 1.5.6
 - crystaldiskmark 7.0.0.104
 - curl 7.72.0
-- dart-sdk 2.9.2
+- dart-sdk 2.9.3
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.12
@@ -72,6 +72,7 @@
 - krita 4.3.0
 - libreoffice-fresh 6.4.6
 - mc 4.8.21.209
+- microsoft-windows-terminal 1.2.2381.0
 - mkcert 1.4.1
 - mobaxterm 20.3.0
 - mysql.workbench 8.0.21
@@ -144,7 +145,7 @@
 - yarn 1.22.5
 - zoom 5.2.44052.0816
 - zoom-client 5.1.0.0
-- 143 packages installed.
+- 144 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.012.20043
@@ -161,11 +162,12 @@
 - Blender|2.80.0
 - Bonjour|3.0.0.10
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
+- Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
 - CrystalDiskMark 6.0.2|6.0.2
-- Discord|0.0.307
+- Discord|0.0.308
 - Ditto|
 - DIY DataRecovery MBRtool|2.3.200
 - Docker Desktop|2.3.0.2
@@ -178,13 +180,13 @@
 - FormApps Signing Extension|2.24.0.43
 - Freeter|1.2.1
 - Gameguard|1.0.0.0
-- GameInput Redistributable|10.1.19041.3225
+- GameInput Redistributable|10.1.19041.3906
 - Geekbench 4|
 - ghostwriter version 1.5.0|1.5.0
 - Git version 2.27.0|2.27.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|84.0.4147.135
+- Google Chrome|85.0.4183.102
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
@@ -213,7 +215,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge Beta|85.0.564.41
+- Microsoft Edge Beta|86.0.622.11
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -234,7 +236,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
 - Mozilla Firefox 79.0 (x64 en-US)|79.0
-- Mozilla Thunderbird 78.2.0 (x86 cs)|78.2.0
+- Mozilla Thunderbird 78.2.2 (x86 cs)|78.2.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -245,7 +247,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.1955.62
 - OpenAL|
-- Opera Stable 70.0.3728.106|70.0.3728.106
+- Opera Stable 70.0.3728.178|70.0.3728.178
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -263,7 +265,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.1.0.170
-- Slack|4.8.0
+- Slack|4.9.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
 - Spectrum 1.0.1 (only current user)|1.0.1
@@ -295,5 +297,6 @@
 - Windows 7 USB/DVD Download Tool|1.0.30
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
+- Windows Subsystem for Linux Update|4.19.128
 - Xenu's Link Sleuth|1.3.9
-- 150 applications not managed with Chocolatey.
+- 152 applications not managed with Chocolatey.

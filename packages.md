@@ -70,6 +70,7 @@ kodi
 krita 
 libreoffice-fresh 
 mc 
+microsoft-windows-terminal 
 mkcert 
 mobaxterm 
 mysqlworkbench 
