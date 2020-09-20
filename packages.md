@@ -79,7 +79,6 @@ neovim
 netfx- 
 nexus-root-toolkit 
 nmap 
-nodejs 
 nodejsinstall 
 nvmportable 
 obs-studio 
