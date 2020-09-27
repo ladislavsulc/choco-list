@@ -3,7 +3,7 @@
 - Chocolatey v0.10.15
 - ack 3.4.0
 - adb 30.0.4
-- adobereader 2020.012.20043
+- adobereader 2020.012.20048
 - advanced-ip-scanner 2.5.3850
 - advor 0.3.1.2
 - ag 2.1.0.1
@@ -35,12 +35,12 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 105.4.651
+- dropbox 106.4.368
 - emacs 27.1.0.20200909
 - etcher 1.5.109
 - ffmpeg 4.3.1.20200831
 - filezilla 3.50.0
-- Firefox 80.0.1
+- Firefox 81.0
 - fontbase 2.13.2
 - fzf 0.22.0
 - git 2.28.0
@@ -48,12 +48,12 @@
 - gnucash 4.1
 - google-backup-and-sync 3.51.3307.8076
 - gptgen 1.1.20180516
-- grepwin 2.0.3
+- grepwin 2.0.4
 - heidisql 11.0.0.5919
 - hugo 0.75.1
 - hwinfo 6.30
 - hwinfo.install 6.30
-- iCloud 7.20.0.17
+- iCloud 7.21.0.23
 - imagemagick 7.0.10.29
 - imagemagick.app 7.0.10.29
 - insomnia-rest-api-client 7.1.1
@@ -67,12 +67,12 @@
 - KB3035131 1.0.3
 - keepass 2.46
 - kindle 1.29.58059
-- kitty 0.74.2.1
+- kitty 0.74.2.3
 - kodi 18.8.0.20200913
 - krita 4.3.0
 - libreoffice-fresh 6.4.6
 - mc 4.8.24.214
-- microsoft-windows-terminal 1.2.2381.0
+- microsoft-windows-terminal 1.3.2651.0
 - mkcert 1.4.1
 - mobaxterm 20.3.0
 - mysql.workbench 8.0.21
@@ -81,7 +81,8 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs.install 14.11.0
+- nodejs 14.12.0
+- nodejs.install 14.12.0
 - nvm.portable 1.1.7
 - obs-studio 25.0.8
 - obs-studio.install 25.0.8
@@ -89,16 +90,16 @@
 - partitionwizard 12.1.01
 - performancetest 9.0.1031
 - php 7.4.9
-- pinta 1.6
+- pinta 1.7
 - pngquant 2.12.3
 - pngyu 1.0.1
 - poedit 2.2.3
 - postman 7.29.1
 - putty 0.74
 - putty.portable 0.74
-- python 3.8.5.20200721
+- python 3.8.6
 - python2 2.7.18
-- python3 3.8.5.20200721
+- python3 3.8.6
 - qbittorrent 4.2.5
 - radmin-server 3.5.2.1
 - radmin-viewer 3.5.2.1
@@ -108,19 +109,19 @@
 - rsync 5.7.1.20180411
 - ruby 2.7.1.1
 - rufus 3.11
-- sharex 13.1.0
-- skype 8.63.0.76
-- slack 4.8.0
+- sharex 13.2.1
+- skype 8.64.0.88
+- slack 4.9.0
 - sopcast 3.9.3
 - steam 3.0.1.20190215
 - strawberryperl 5.8.9.5
 - sublimetext3 3.2.2
 - subtitleedit 3.5.16
 - TcpView 3.05
-- teamviewer 15.8.3
-- thunderbird 78.2.0
+- teamviewer 15.10.5
+- thunderbird 78.2.2
 - tor-browser 9.5.4
-- typora 0.9.89
+- typora 0.9.96
 - unetbootin 6.8.1
 - vcredist140 14.26.28720.3
 - vcredist2008 9.0.30729.6163
@@ -128,26 +129,26 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.1542
+- vim 8.2.1712
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.11
-- vscode 1.48.1
-- vscode.install 1.48.1
+- vscode 1.49.1
+- vscode.install 1.49.1
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
-- winmerge 2.16.6.1
+- winmerge 2.16.8.20200913
 - winscp 5.17.7
 - winscp.install 5.17.7
-- wireshark 3.2.5
+- wireshark 3.2.6
 - XnView 2.49.3
 - yarn 1.22.5
-- zoom 5.2.44052.0816
+- zoom 5.2.45120.0906
 - zoom-client 5.1.0.0
-- 143 packages installed.
+- 144 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.012.20043
+- Adobe Acrobat Reader DC MUI|20.012.20048
 - Adobe Creative Cloud|5.2.0.436
 - Adobe Photoshop 2020|21.0.2
 - Affinity Designer|1.8.3.641
@@ -185,12 +186,11 @@
 - Git version 2.27.0|2.27.0
 - GitBook Editor|7.0.12
 - GNU Privacy Guard|2.2.7
-- Google Chrome|85.0.4183.102
+- Google Chrome|85.0.4183.121
 - Google2SRT|0.7.7
 - Gpg4win (3.1.1)|3.1.1
 - Gtk# for .Net 2.12.45|2.12.45
 - GTK2-Runtime|2.22.0-2010-10-21-ash
-- HiSuite|9.0.3.300
 - HLSW v1.4.0.2|
 - Hyper|3.0.0
 - Iconset 1.3.8|1.3.8
@@ -214,6 +214,7 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
+- Microsoft Edge|85.0.564.63
 - Microsoft Edge Beta|86.0.622.19
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
@@ -231,9 +232,10 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.26.28720|14.26.28720.3
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016|14.27.29016.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
+- Mozilla Maintenance Service|81.0
 - Mozilla Thunderbird 78.2.2 (x86 cs)|78.2.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
@@ -263,6 +265,7 @@
 - Ruby 2.5.3-1-x64|2.5.3-1
 - Ruby 2.6.5-1-x64|2.6.5-1
 - Samsung Magician|6.2.0.250
+- Skype verze 8.64|8.64
 - Slack|4.9.0
 - Slack|3.3.7.0
 - SopCast 4.2.0|4.2.0
@@ -296,5 +299,6 @@
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Subsystem for Linux Update|4.19.128
+- Wireshark 3.2.6 64-bit|3.2.6
 - Xenu's Link Sleuth|1.3.9
-- 151 applications not managed with Chocolatey.
+- 154 applications not managed with Chocolatey.
