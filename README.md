@@ -9,7 +9,7 @@
 - ag 2.1.0.1
 - airdroid 3.6.8.000
 - autohotkey.portable 1.1.33.02
-- Bitnami-XAMPP 7.4.9
+- Bitnami-XAMPP 7.4.10
 - Boxstarter 2.12.0
 - Boxstarter.Bootstrapper 2.12.0
 - Boxstarter.Common 2.12.0
@@ -23,7 +23,7 @@
 - cinebench 20.0.0.1
 - composer 6.1.0
 - coretemp 1.16.20200918
-- cryptomator 1.5.6
+- cryptomator 1.5.8
 - crystaldiskmark 7.0.0.104
 - curl 7.72.0
 - dart-sdk 2.9.3
@@ -119,7 +119,7 @@
 - subtitleedit 3.5.16
 - TcpView 3.05
 - teamviewer 15.10.5
-- thunderbird 78.2.2
+- thunderbird 78.3.1
 - tor-browser 9.5.4
 - typora 0.9.96
 - unetbootin 6.8.1
@@ -129,11 +129,11 @@
 - vcredist2013 12.0.40660.20180427
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vim 8.2.1712
+- vim 8.2.1751
 - visualstudiocode 1.23.1.20180730
 - vlc 3.0.11
-- vscode 1.49.1
-- vscode.install 1.49.1
+- vscode 1.49.2
+- vscode.install 1.49.2
 - webp 1.0.0
 - Wget 1.20.3.20190531
 - whois 1.20
@@ -143,7 +143,7 @@
 - wireshark 3.2.6
 - XnView 2.49.3
 - yarn 1.22.5
-- zoom 5.2.45120.0906
+- zoom 5.3.52670.0921
 - zoom-client 5.1.0.0
 - 144 packages installed.
 - 
@@ -164,6 +164,8 @@
 - Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
 - Composer - Php Dependency Manager|
 - CPUID CPU-Z 1.86|1.86
+- Cryptomator|1.5.6
+- Cryptomator|1.4.6
 - CryptSignX verze 2.3.21113.0|
 - CrystalDiskMark 5.2.0|5.2.0
 - CrystalDiskMark 6.0.2|6.0.2
@@ -203,7 +205,7 @@
 - Intel(R) Processor Graphics|25.20.100.6519
 - Intel(R) Rapid Storage Technology|15.9.0.1015
 - Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.8.30.6
+- IntelR Driver &amp; Support Assistant|20.9.36.10
 - ITE Infrared Transceiver|1.08.0001
 - Java 8 Update 261|8.0.2610.12
 - KeePass Password Safe 2.38|2.38
@@ -214,8 +216,8 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge|85.0.564.63
-- Microsoft Edge Beta|86.0.622.19
+- Microsoft Edge|85.0.564.68
+- Microsoft Edge Beta|86.0.622.31
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -235,8 +237,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016|14.27.29016.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Maintenance Service|81.0
-- Mozilla Thunderbird 78.2.2 (x86 cs)|78.2.2
+- Mozilla Thunderbird 78.3.1 (x86 cs)|78.3.1
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -279,7 +280,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.3.1|2.3.1
+- Telegram Desktop version 2.4.2|2.4.2
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -301,4 +302,4 @@
 - Windows Subsystem for Linux Update|4.19.128
 - Wireshark 3.2.6 64-bit|3.2.6
 - Xenu's Link Sleuth|1.3.9
-- 154 applications not managed with Chocolatey.
+- 155 applications not managed with Chocolatey.
