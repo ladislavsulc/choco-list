@@ -21,7 +21,6 @@ chocolatey-windowsupdateextension
 cinebench 
 composer 
 coretemp 
-cryptomator 
 crystaldiskmark 
 curl 
 dart-sdk 

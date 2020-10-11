@@ -23,10 +23,9 @@
 - cinebench 20.0.0.1
 - composer 6.1.0
 - coretemp 1.16.20200918
-- cryptomator 1.5.8
 - crystaldiskmark 7.0.0.104
 - curl 7.72.0
-- dart-sdk 2.9.3
+- dart-sdk 2.10.1
 - ditto 3.22.89.0
 - docker 99.0.0
 - docker-cli 19.03.12
@@ -35,24 +34,24 @@
 - dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20190930
-- dropbox 106.4.368
+- dropbox 107.4.443
 - emacs 27.1.0.20200909
-- etcher 1.5.109
+- etcher 1.5.109.20201003
 - ffmpeg 4.3.1.20200831
 - filezilla 3.50.0
-- Firefox 81.0
+- Firefox 81.0.1
 - fontbase 2.13.2
 - fzf 0.22.0
 - git 2.28.0
 - gitbook-editor 7.0.12
-- gnucash 4.1
+- gnucash 4.2
 - google-backup-and-sync 3.51.3307.8076
 - gptgen 1.1.20180516
 - grepwin 2.0.4
 - heidisql 11.0.0.5919
-- hugo 0.75.1
-- hwinfo 6.30
-- hwinfo.install 6.30
+- hugo 0.76.3
+- hwinfo 6.32
+- hwinfo.install 6.32
 - iCloud 7.21.0.23
 - imagemagick 7.0.10.29
 - imagemagick.app 7.0.10.29
@@ -67,7 +66,7 @@
 - KB3035131 1.0.3
 - keepass 2.46
 - kindle 1.29.58059
-- kitty 0.74.2.3
+- kitty 0.74.2.6
 - kodi 18.8.0.20200913
 - krita 4.3.0
 - libreoffice-fresh 6.4.6
@@ -81,11 +80,11 @@
 - netfx-4.6.2 4.6.2.20190930
 - nexus-root-toolkit 2.1.9.20170607
 - nmap 7.80
-- nodejs 14.12.0
-- nodejs.install 14.12.0
+- nodejs 14.13.1
+- nodejs.install 14.13.1
 - nvm.portable 1.1.7
-- obs-studio 25.0.8
-- obs-studio.install 25.0.8
+- obs-studio 26.0.2
+- obs-studio.install 26.0.2
 - openssh 8.0.0.1
 - partitionwizard 12.1.01
 - performancetest 9.0.1031
@@ -145,17 +144,18 @@
 - yarn 1.22.5
 - zoom 5.3.52670.0921
 - zoom-client 5.1.0.0
-- 144 packages installed.
+- 143 packages installed.
 - 
 - Ace Stream Media 3.1.20.4|3.1.20.4
 - Adobe Acrobat Reader DC MUI|20.012.20048
 - Adobe Creative Cloud|5.2.0.436
 - Adobe Photoshop 2020|21.0.2
-- Affinity Designer|1.8.3.641
+- Affinity Designer|1.8.5.703
 - Age of Empires II: Definitive Edition|
 - Age of Wonders III|
 - Aplikace IntelR PROSet/Wireless|20.80.0
 - AutoHotkey 1.1.31.00|1.1.31.00
+- balenaEtcher 1.5.109|1.5.109
 - Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - BleachBit|2.0
 - Blender|2.82.1
@@ -216,8 +216,8 @@
 - Loom 0.12.1|0.12.1
 - Malwarebytes verze 3.6.1.2711|3.6.1.2711
 - Mark Text 0.9.25|0.9.25
-- Microsoft Edge|85.0.564.68
-- Microsoft Edge Beta|86.0.622.31
+- Microsoft Edge|86.0.622.38
+- Microsoft Edge Beta|86.0.622.38
 - Microsoft Power BI Desktop|2.55.5010.641
 - Microsoft Power BI Desktop (x64)|2.68.5432.661
 - Microsoft Teams|1.2.00.22654
@@ -237,7 +237,7 @@
 - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016|14.27.29016.0
 - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
 - Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Thunderbird 78.3.1 (x86 cs)|78.3.1
+- Mozilla Thunderbird 78.3.2 (x86 cs)|78.3.2
 - MySQL Compare 1|1.0.1.4
 - MySQL Data Compare 1|1.0.1.1
 - Need for Speed: Hot Pursuit|
@@ -248,7 +248,7 @@
 - NVIDIA PhysX|9.14.0702
 - Ochrana koncov‚ho bodu Trusteer|3.5.2004.84
 - OpenAL|
-- Opera Stable 70.0.3728.189|70.0.3728.189
+- Opera Stable 71.0.3770.228|71.0.3770.228
 - Oracle VM VirtualBox 5.2.4|5.2.4
 - Outline 1.2.34|1.2.34
 - Outline 1.3.2|1.3.2
@@ -280,7 +280,7 @@
 - Sublime Text 3|
 - TeamSpeak|1.0.0.1
 - TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.4.2|2.4.2
+- Telegram Desktop version 2.4.3|2.4.3
 - Terminus|1.0.77
 - Termius 4.9.7|4.9.7
 - Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
@@ -302,4 +302,8 @@
 - Windows Subsystem for Linux Update|4.19.128
 - Wireshark 3.2.6 64-bit|3.2.6
 - Xenu's Link Sleuth|1.3.9
-- 155 applications not managed with Chocolatey.
+- 156 applications not managed with Chocolatey.
+- 
+- Did you know Pro / Business automatically syncs with Programs and
+-  Features? Learn more about Package Synchronizer at
+-  https://chocolatey.org/compare
