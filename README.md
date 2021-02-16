@@ -1,232 +1,123 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v0.10.15
-- ack 3.4.0
-- adb 30.0.4
-- adobereader 2020.012.20048
-- advanced-ip-scanner 2.5.3850
-- advor 0.3.1.2
-- ag 2.1.0.1
-- airdroid 3.6.8.000
+- acestream 3.1.32
+- adobereader 2020.013.20074
+- autohotkey.install 1.1.33.02
 - autohotkey.portable 1.1.33.02
-- Bitnami-XAMPP 7.4.10
-- Boxstarter 2.12.0
-- Boxstarter.Bootstrapper 2.12.0
-- Boxstarter.Common 2.12.0
-- Boxstarter.WinConfig 2.12.0
+- blender 2.91.2
 - bsplayer 2.73.1084
 - chocolatey 0.10.15
 - chocolatey-core.extension 1.3.5.1
 - chocolatey-dotnetfx.extension 1.0.1
-- chocolatey-misc-helpers.extension 0.0.4
+- chocolatey-visualstudio.extension 1.8.1
 - chocolatey-windowsupdate.extension 1.0.4
-- cinebench 20.0.0.1
+- Cmder 1.3.17
 - composer 6.1.0
-- coretemp 1.16.20200918
-- crystaldiskmark 7.0.0.104
-- curl 7.72.0
-- dart-sdk 2.10.1
-- ditto 3.22.89.0
-- docker 99.0.0
+- coretemp 1.16.20210109
+- crystaldiskmark 8.0.0.97
+- discord 0.0.309
+- discord.install 0.0.309
 - docker-cli 19.03.12
+- docker-desktop 3.1.0
 - docker-for-windows 99.0.0.0
 - DotNet4.5.2 4.5.2.20140902
-- dotnet4.6.2 4.6.01590.20190822
 - dotnet4.7.1 4.7.2558.20190226
+- dotnet4.7.2 4.7.2.20180712
 - dotnetfx 4.8.0.20190930
-- dropbox 107.4.443
-- emacs 27.1.0.20200909
-- etcher 1.5.109.20201003
-- ffmpeg 4.3.1.20200831
-- filezilla 3.50.0
-- Firefox 81.0.1
-- fontbase 2.13.2
-- fzf 0.22.0
-- git 2.28.0
-- gitbook-editor 7.0.12
-- gnucash 4.2
-- google-backup-and-sync 3.51.3307.8076
+- dropbox 114.4.426
+- filezilla 3.52.2
+- Firefox 85.0
+- firefox-dev 86.0.4-beta
+- git 2.30.0.2
+- git-fork 1.58.0
+- git.install 2.30.0.2
+- google-backup-and-sync 3.54.3529.0458
+- GoogleChrome 88.0.4324.104
 - gptgen 1.1.20180516
-- grepwin 2.0.4
-- heidisql 11.0.0.5919
-- hugo 0.76.3
-- hwinfo 6.32
-- hwinfo.install 6.32
-- iCloud 7.21.0.23
-- imagemagick 7.0.10.29
-- imagemagick.app 7.0.10.29
-- insomnia-rest-api-client 7.1.1
-- javaruntime 8.0.231
-- jq 1.6
-- jre8 8.0.261
+- grepwin 2.0.5
+- heidisql 11.1.0.6116
+- hwinfo 6.42
+- hwinfo.install 6.42
+- inter 2.5
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
 - KB3033929 1.0.5
 - KB3035131 1.0.3
-- keepass 2.46
-- kindle 1.29.58059
-- kitty 0.74.2.6
-- kodi 18.8.0.20200913
-- krita 4.3.0
-- libreoffice-fresh 6.4.6
-- mc 4.8.24.214
-- microsoft-windows-terminal 1.3.2651.0
-- mkcert 1.4.1
-- mobaxterm 20.3.0
-- mysql.workbench 8.0.21
-- nano 2.5.3
-- neovim 0.4.4
-- netfx-4.6.2 4.6.2.20190930
-- nexus-root-toolkit 2.1.9.20170607
-- nmap 7.80
-- nodejs 14.13.1
-- nodejs.install 14.13.1
-- nvm.portable 1.1.7
-- obs-studio 26.0.2
-- obs-studio.install 26.0.2
-- openssh 8.0.0.1
-- partitionwizard 12.1.01
-- performancetest 9.0.1031
-- php 7.4.9
-- pinta 1.7
-- pngquant 2.12.3
-- pngyu 1.0.1
-- poedit 2.2.3
-- postman 7.29.1
-- putty 0.74
-- putty.portable 0.74
-- python 3.8.6
-- python2 2.7.18
-- python3 3.8.6
-- qbittorrent 4.2.5
-- radmin-server 3.5.2.1
-- radmin-viewer 3.5.2.1
+- keepass 2.47
+- keypirinha 2.26
+- kindle 1.30.59056
+- libreoffice-fresh 7.0.4
+- microsoft-windows-terminal 1.5.10271.0
+- mkcert 1.4.3
+- nodejs 15.7.0
+- nodejs.install 15.7.0
+- Opera 73.0.3856.344
+- php 8.0.1
+- qbittorrent 4.3.3
 - rainmeter 4.3.0.3321
-- ricochet 1.1.4
-- ripgrep 12.1.1.20200727
-- rsync 5.7.1.20180411
-- ruby 2.7.1.1
-- rufus 3.11
-- sharex 13.2.1
-- skype 8.64.0.88
-- slack 4.9.0
-- sopcast 3.9.3
-- steam 3.0.1.20190215
-- strawberryperl 5.8.9.5
+- responsively 0.15.0
+- rsync 5.5.0.20190204
+- ruby 3.0.0.1
+- rufus 3.13
+- sharex 13.4.0
+- skype 8.68.0.96
+- slack 4.12.2
+- sublimemerge 0.0.2039
 - sublimetext3 3.2.2
-- subtitleedit 3.5.16
+- subtitleedit 3.5.18
 - TcpView 3.05
-- teamviewer 15.10.5
-- thunderbird 78.3.1
-- tor-browser 9.5.4
-- typora 0.9.96
-- unetbootin 6.8.1
-- vcredist140 14.26.28720.3
+- teamviewer 15.14.3
+- telegram 2.5.8
+- telegram.install 2.5.8
+- themekit 1.1.1
+- thunderbird 78.7.0
+- typora 0.9.98
+- unetbootin 7.0.0
+- vcredist140 14.28.29325.2
 - vcredist2008 9.0.30729.6163
 - vcredist2010 10.0.40219.2
 - vcredist2013 12.0.40660.20180427
-- vcredist2015 14.0.24215.20170201
-- vcredist2017 14.16.27033
-- vim 8.2.1751
-- visualstudiocode 1.23.1.20180730
-- vlc 3.0.11
-- vscode 1.49.2
-- vscode.install 1.49.2
-- webp 1.0.0
+- vim 8.2.2445
+- visualstudio-installer 2.0.1
+- visualstudio2019buildtools 16.8.4.0
+- vlc 3.0.12
+- vscode 1.52.1
+- vscode.install 1.52.1
 - Wget 1.20.3.20190531
-- whois 1.20
 - winmerge 2.16.8.20200913
-- winscp 5.17.7
-- winscp.install 5.17.7
-- wireshark 3.2.6
-- XnView 2.49.3
+- winscp 5.17.10
+- winscp.install 5.17.10
 - yarn 1.22.5
-- zoom 5.3.52670.0921
-- zoom-client 5.1.0.0
-- 143 packages installed.
+- zoom 5.4.59931.0110
+- 90 packages installed.
 - 
-- Ace Stream Media 3.1.20.4|3.1.20.4
-- Adobe Acrobat Reader DC MUI|20.012.20048
-- Adobe Creative Cloud|5.2.0.436
-- Adobe Photoshop 2020|21.0.2
-- Affinity Designer|1.8.5.703
+- Affinity Designer|1.9.0.932
+- Age of Empires II (2013)|
 - Age of Empires II: Definitive Edition|
-- Age of Wonders III|
-- Aplikace IntelR PROSet/Wireless|20.80.0
-- AutoHotkey 1.1.31.00|1.1.31.00
-- balenaEtcher 1.5.109|1.5.109
-- Bal¡Ÿek ovladaŸe syst‚mu Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
-- BleachBit|2.0
-- Blender|2.82.1
-- Blender|2.80.0
-- Bonjour|3.0.0.10
-- Command &amp; Conquer Tiberian Sun|3.0 Beta 12 Revision 3
-- Composer - Php Dependency Manager|
-- CPUID CPU-Z 1.86|1.86
-- Cryptomator|1.5.6
-- Cryptomator|1.4.6
-- CryptSignX verze 2.3.21113.0|
-- CrystalDiskMark 5.2.0|5.2.0
-- CrystalDiskMark 6.0.2|6.0.2
-- Discord|0.0.308
-- Ditto|
-- DIY DataRecovery MBRtool|2.3.200
-- Docker Desktop|2.3.0.2
-- Dokan Library 1.2.0.1000 (x64)|1.2.0.1000
-- Etcher 1.4.6 (only current user)|1.4.6
-- Figma|88.1.0
+- AMD Software|20.11.2
+- Aplikace IntelÂ® PROSet/Wireless|20.90.0.0u
+- Clockify 1.8.65|1.8.65
+- Counter-Strike|
+- CrystalDiskMark 7.0.0h|7.0.0h
+- Discord|0.0.309
+- Figma|93.4.0
 - Figma Font Helper|21.0
-- FontBase|2.3.0
-- Fork - a fast and friendly git client|1.43.3
-- FormApps Signing Extension|2.24.0.43
-- Freeter|1.2.1
-- Gameguard|1.0.0.0
-- GameInput Redistributable|10.1.19041.3906
-- Geekbench 4|
-- ghostwriter version 1.5.0|1.5.0
-- Git version 2.27.0|2.27.0
-- GitBook Editor|7.0.12
-- GNU Privacy Guard|2.2.7
-- Google Chrome|85.0.4183.121
-- Google2SRT|0.7.7
-- Gpg4win (3.1.1)|3.1.1
-- Gtk# for .Net 2.12.45|2.12.45
-- GTK2-Runtime|2.22.0-2010-10-21-ash
-- HLSW v1.4.0.2|
-- Hyper|3.0.0
-- Iconset 1.3.8|1.3.8
-- Insomnia|7.1.1
-- Intel Processor Diagnostic Tool 64bit|4.1.0.24
-- Intel(R) Computing Improvement Program|2.4.04370
-- Intel(R) Extreme Tuning Utility|6.5.1.321
-- Intel(R) Management Engine Components|1950.14.0.1443
-- Intel(R) Network Connections 24.3.0.6|24.3.0.6
-- Intel(R) Processor Graphics|25.20.100.6519
-- Intel(R) Rapid Storage Technology|15.9.0.1015
-- Intel(R) Wireless Bluetooth(R)|21.50.0.1
-- IntelR Driver &amp; Support Assistant|20.9.36.10
-- ITE Infrared Transceiver|1.08.0001
-- Java 8 Update 261|8.0.2610.12
-- KeePass Password Safe 2.38|2.38
-- Kodi|
-- Laragon 3.5.0|3.5.0.181017
-- Logitech Capture|1.10.110
-- Logitech Gaming Software 8.96|8.96.88
-- Loom 0.12.1|0.12.1
-- Malwarebytes verze 3.6.1.2711|3.6.1.2711
-- Mark Text 0.9.25|0.9.25
-- Microsoft Edge|86.0.622.38
-- Microsoft Edge Beta|86.0.622.38
-- Microsoft Power BI Desktop|2.55.5010.641
-- Microsoft Power BI Desktop (x64)|2.68.5432.661
-- Microsoft Teams|1.2.00.22654
-- Microsoft Visual C++ 2005 Redistributable|8.0.56336
-- Microsoft Visual C++ 2005 Redistributable (x64)|8.0.56336
-- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17|9.0.30729
+- Firefox Developer Edition 86.0 (x64 cs)|86.0
+- Fork - a fast and friendly git client|1.59.0
+- Google Chrome|88.0.4324.182
+- KeePass Password Safe 2.46|2.46
+- Laragon 4.0.15|4.0.15.190704
+- Logitech Capture|2.04.13
+- Logitech G HUB|
+- MariaDB 10.5 (x64)|10.5.6.0
+- Microsoft .NET Framework 4.7.2 SDK|4.7.03081
+- Microsoft .NET Framework 4.7.2 Targeting Pack|4.7.03062
+- Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)|4.7.03062
+- Microsoft OneDrive|21.002.0104.0005
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
-- Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219|10.0.40219
 - Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219|10.0.40219
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
 - Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|11.0.61030.0
@@ -234,76 +125,36 @@
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016|14.27.29016.0
-- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720|14.26.28720.3
-- Microsoft Visual Studio Installer|1.18.1080.1029
-- Mozilla Thunderbird 78.3.2 (x86 cs)|78.3.2
-- MySQL Compare 1|1.0.1.4
-- MySQL Data Compare 1|1.0.1.1
+- Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29325|14.28.29325.2
+- Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29325|14.28.29325.2
+- Microsoft Visual Studio Code|1.53.2
+- Microsoft Visual Studio Installer|2.8.3074.1022
+- mitmproxy|6.0.2
+- Mozilla Thunderbird 78.7.1 (x64 cs)|78.7.1
+- MSYS2 64bit|20190524
 - Need for Speed: Hot Pursuit|
-- Nexus Root Toolkit|2.1.9
-- Npcap 0.9982|0.9982
-- Nucleo 2.5.5|2.5.5
 - Nucleo 2.6.2|2.6.2
-- NVIDIA PhysX|9.14.0702
-- Ochrana koncov‚ho bodu Trusteer|3.5.2004.84
-- OpenAL|
-- Opera Stable 71.0.3770.228|71.0.3770.228
-- Oracle VM VirtualBox 5.2.4|5.2.4
-- Outline 1.2.34|1.2.34
-- Outline 1.3.2|1.3.2
-- Outline Manager 1.2.4|1.2.4
-- Outline Manager 1.3.0|1.3.0
-- Overwolf|0.149.2.30
-- Pomocn¡k s aktualizac¡ Windows 10|1.4.9200.22589
-- Postman-win64-7.29.1|7.29.1
-- Python 3.6.5 (64-bit)|3.6.5150.0
-- Python 3.7.4 (64-bit)|3.7.4150.0
-- Python Launcher|3.8.6860.0
-- Realtek High Definition Audio Driver|6.0.1.7982
-- ResponsivelyApp 0.9.0|0.9.0
-- Rocket League|
-- Ruby 2.5.3-1-x64|2.5.3-1
-- Ruby 2.6.5-1-x64|2.6.5-1
-- Samsung Magician|6.2.0.250
-- Skype verze 8.64|8.64
-- Slack|4.9.0
-- Slack|3.3.7.0
-- SopCast 4.2.0|4.2.0
-- Spectrum 1.0.1 (only current user)|1.0.1
-- StarDict (remove only)|
+- Opera Stable 74.0.3911.107|74.0.3911.107
+- PC Manager|11.0.6.78
+- Prepros|7.3.33
+- ProtonVPN|1.17.5
+- ProtonVPNTap|1.1.0
+- Python 2.7.15 (64-bit)|2.7.15150
+- Ruby 2.7.2-1-x64|2.7.2-1
+- ShareX|13.4.0
+- SSDScopeApp version 4.0|4.0
 - Steam|2.10.91.91
-- Storyboarder 1.18.0|1.18.0
-- Storyboarder 1.6.1|1.6.1
-- Strawberry Perl (64-bit)|5.26.2001
 - Sublime Merge|
-- Sublime Text 3|
-- TeamSpeak|1.0.0.1
-- TeamSpeak 3 Client|3.5.2
-- Telegram Desktop version 2.4.3|2.4.3
-- Terminus|1.0.77
-- Termius 4.9.7|4.9.7
-- Total Commander 64-bit (Remove or Repair)|9.50 beta 13  64 bit
-- TreeSize Free V4.4.1|4.4.1
-- Unified Remote|3.6.1
-- UninstallTabletDeviceDriver|v13.15.2.170911
-- Update for Windows 10 for x64-based Systems (KB4023057)|2.56.0.0
-- Vim 8.0.604|
-- Vim 8.1 (x64)|8.1
+- Syberia|
+- Syberia 2|
+- Syberia 3|
+- The Witcher 3: Wild Hunt|
+- Total Commander 64-bit (Remove or Repair)|9.12
 - Vim 8.2 (x64)|8.2
-- Visual Studio Build Tools 2017|15.9.28307.145
-- WD Discovery|3.6.163
-- WD Drive Utilities|2.0.0.70
-- WD Security|2.0.0.70
-- Win10Pcap|10.2.5002
-- Windows 7 USB/DVD Download Tool|1.0.30
+- Visual Studio Build Tools 2017|15.9.28307.1321
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Subsystem for Linux Update|4.19.128
-- Wireshark 3.2.6 64-bit|3.2.6
-- Xenu's Link Sleuth|1.3.9
-- 156 applications not managed with Chocolatey.
-- 
-- Did you know Pro / Business automatically syncs with Programs and
--  Features? Learn more about Package Synchronizer at
--  https://chocolatey.org/compare
+- Xenu's Link Sleuth|1.3.8
+- XnView 2.49.4|2.49.4
+- 64 applications not managed with Chocolatey.
