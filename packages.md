@@ -1,9 +1,17 @@
 Chocolatey v
+ validations performed  success(es),  warning(s), and  error(s)
+
+Validation Warnings:
+ - A pending system reboot request has been detected, however, this is
+   being ignored due to the current command being used 'list'
+   It is recommended that you reboot at your earliest convenience
+
 acestream 
 adobereader 
 autohotkeyinstall 
 autohotkeyportable 
 blender 
+brave 
 bsplayer 
 chocolatey 
 chocolatey-coreextension 
@@ -13,6 +21,9 @@ chocolatey-windowsupdateextension
 Cmder 
 composer 
 coretemp 
+cpu-z 
+cpu-zinstall 
+cryptomator 
 crystaldiskmark 
 discord 
 discordinstall 
@@ -31,6 +42,9 @@ git
 git-fork 
 gitinstall 
 google-backup-and-sync 
+google-drive-file-stream 
+googlesrt 
+googlesrtinstall 
 GoogleChrome 
 gptgen 
 grepwin 
@@ -38,6 +52,7 @@ heidisql
 hwinfo 
 hwinfoinstall 
 inter 
+jre 
 KB 
 KB 
 KB 
@@ -46,11 +61,14 @@ KB
 keepass 
 keypirinha 
 kindle 
+kodi 
 libreoffice-fresh 
 microsoft-windows-terminal 
 mkcert 
-nodejs 
+netfx- 
 nodejsinstall 
+obs-studio 
+obs-studioinstall 
 Opera 
 php 
 qbittorrent 
@@ -59,6 +77,7 @@ responsively
 rsync 
 ruby 
 rufus 
+salamander 
 sharex 
 skype 
 slack 
@@ -73,6 +92,7 @@ themekit
 thunderbird 
 typora 
 unetbootin 
+vcredist 
 vcredist 
 vcredist 
 vcredist 
