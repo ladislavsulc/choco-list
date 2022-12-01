@@ -66,7 +66,7 @@
 - nvm.install 1.1.9
 - nvm.portable 1.1.9
 - obs-studio 28.1.0
-- Opera 92.0.4561.33
+- Opera 93.0.4585.21
 - partitionwizard 12.6
 - python 3.11.0
 - python3 3.11.0
@@ -107,14 +107,16 @@
 - zoom 5.12.3.9638
 - 104 packages installed.
 - 
+- acreom 1.0.0|1.0.0
 - Affinity Designer|1.10.5.1342
 - Affinity Photo|1.10.5.1342
 - Affinity Publisher|1.10.5.1342
 - Age of Empires II: Definitive Edition|
 - Age of Empires: Definitive Edition|
-- Amazon Photos|8.1.1
+- Amazon Photos|8.2.0
 - Amazon Send to Kindle|1.1.0.253
 - Ashampoo Home Design 6|6.0.0
+- Balíček ovladače systému Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - Battle.net|
 - Counter-Strike|
 - Counter-Strike: Global Offensive|
@@ -123,15 +125,16 @@
 - Dell Display Manager|1.56.2107
 - Descript 28.1.3-release.20211215.15|28.1.3-release.20211215.15
 - Discord|1.0.9005
-- EA app|12.33.0.5290
+- EA app|12.45.0.5302
 - Epic Games Launcher|1.3.23.0
 - Epic Online Services|2.0.33.0
-- FIFA 23|1.0.78.25353
+- FIFA 23|1.0.78.48877
 - Figma Agent|116.2.3
-- Google Drive|65.0.4.0
-- Grammarly for Windows|1.0.18.296
+- Google Drive|67.0.2.0
+- Grammarly for Windows|1.0.21.329
 - HP Easy Printer Manager|2.0.1.64
 - HP Laser 103 107 108|V1.17 (05.08.2021)
+- HuionTablet|15.6.3.132
 - KeePass Password Safe 2.49|2.49
 - Kontrola stavu osobního počítače s Windows|3.6.2204.08001
 - Legion Arena|1.4.0.37
@@ -144,8 +147,8 @@
 - LT Browser 1.9.7|1.9.7
 - Lunacy|8.6.2
 - Madden NFL 22|
-- Microsoft Edge WebView2 Runtime|107.0.1418.26
-- Microsoft Update Health Tools|3.67.0.0
+- Microsoft Edge WebView2 Runtime|107.0.1418.62
+- Microsoft Update Health Tools|3.68.0.0
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|11.0.60610.1
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
@@ -156,24 +159,25 @@
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
 - Microsoft Visual Studio Installer|2.11.52.58712
-- Mozilla Thunderbird (x64 cs)|102.4.1
+- Mozilla Thunderbird (x64 cs)|102.5.0
 - n8n 1.3.0|1.3.0
 - Notion 2.0.34|2.0.34
 - Nucleo 3.1.7|3.1.7
 - NVIDIA FrameView SDK 1.3.8107.31782123|1.3.8107.31782123
 - NVIDIA GeForce Experience 3.26.0.154|3.26.0.154
 - NVIDIA Ovladač HD audia 1.3.39.16|1.3.39.16
-- NVIDIA Ovladače grafiky 526.47|526.47
+- NVIDIA Ovladače grafiky 526.98|526.98
 - NVIDIA Systémový software PhysX 9.21.0713|9.21.0713
 - NVIDIA USBC Driver 1.50.831.832|1.50.831.832
 - NVM for Windows |
 - OBS Studio|27.2.4
-- Opera Stable 92.0.4561.33|92.0.4561.33
+- Opera Stable 93.0.4585.21|93.0.4585.21
 - Power Automate for desktop|2.15.284.21354
 - ProtonMail Bridge|2.1.3
-- ProtonVPN|2.1.1
+- ProtonVPN|2.2.1
 - ProtonVPNTap|1.1.4
 - ProtonVPNTun|0.13.1
+- ProtoPie|7.3.3
 - Python 2.7.15 (64-bit)|2.7.15150
 - Python 3.10.8 (64-bit)|3.10.8150.0
 - Recorder Devices for ShareX 0.12.10|0.12.10
@@ -193,12 +197,14 @@
 - TreeSize Free V4.5.3|4.5.3
 - TreeSize Free V4.6.1 (64 bit) (64-bit)|4.6.1
 - Typora 1.4|1.4.7
+- UninstallTabletDeviceDriver|v13.15.2.170911
 - Visual Studio Build Tools 2017|15.9.41
 - Visual Studio Build Tools 2019|16.11.7
-- Vivaldi|5.5.2805.42
+- Vivaldi|5.5.2805.48
+- VLI Hub FW Upgrade Tool version 3.5.9.2|3.5.9.2
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Software Development Kit - Windows 10.0.19041.685|10.1.19041.685
-- Windows Subsystem for Linux Update|5.10.16
+- Windows Subsystem for Linux Update|5.10.102.1
 - World of Soccer RELOADED|
-- 94 applications not managed with Chocolatey.
+- 100 applications not managed with Chocolatey.
