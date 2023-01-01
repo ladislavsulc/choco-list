@@ -8,6 +8,7 @@ autohotkeyinstall
 autohotkeyportable 
 autoit 
 autoitinstall 
+bitwarden 
 blender 
 bsplayer 
 chocolatey 
@@ -96,6 +97,7 @@ vcredist
 vlc 
 vlcinstall 
 vscodeinstall 
+WhatsApp 
 windowsfirewallcontrol 
 winmerge 
 winscp 

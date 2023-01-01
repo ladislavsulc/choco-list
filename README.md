@@ -1,27 +1,28 @@
 # My Favourite Chocolatey packages
 
-- Chocolatey v1.2.0
+- Chocolatey v1.2.1
 - 7zip 22.1
 - 7zip.install 22.1
 - acestream 3.1.32
-- adobereader 2022.003.20263
+- adobereader 2022.003.20282
 - audioswitcher 1.8.0.142
-- autohotkey.install 1.1.35.00
-- autohotkey.portable 1.1.34.04
+- autohotkey.install 1.1.36.02
+- autohotkey.portable 2.0.0
 - autoit 3.3.16.1
 - autoit.install 3.3.16.1
-- blender 3.3.1
+- bitwarden 2022.12.0
+- blender 3.4.1
 - bsplayer 2.73.1084
-- chocolatey 1.2.0
+- chocolatey 1.2.1
 - chocolatey-compatibility.extension 1.0.0
 - chocolatey-core.extension 1.4.0
 - chocolatey-dotnetfx.extension 1.0.1
 - chocolatey-misc-helpers.extension 0.0.4
 - chocolatey-windowsupdate.extension 1.0.5
 - clockify 2.0.2
-- coretemp 1.17.1
-- cpu-z 2.3.0.20221018
-- cpu-z.install 2.3.0.20221018
+- coretemp 1.18
+- cpu-z 2.3.0.20221125
+- cpu-z.install 2.3.0.20221125
 - crystaldiskmark 8.0.4.99
 - discord 1.0.9005
 - discord.install 1.0.9005
@@ -32,19 +33,19 @@
 - DotNet4.6.1 4.6.01055.20170308
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20220524
-- dropbox 160.4.4703
-- etcher 1.7.9
+- dropbox 163.4.5456
+- etcher 1.10.6
 - ffmpeg 5.1.2
-- filezilla 3.62.0
-- Firefox 106.0.3
-- git 2.38.1
-- git-fork 1.78.1
-- git.install 2.38.1
+- filezilla 3.62.2
+- Firefox 108.0.1
+- git 2.39.0
+- git-fork 1.79.2
+- git.install 2.39.0
 - google-drive-file-stream 56.0.11.2022
-- GoogleChrome 107.0.5304.88
+- GoogleChrome 108.0.5359.125
 - heidisql 12.1.0.6537
-- hwinfo 7.30
-- hwinfo.install 7.30
+- hwinfo 7.34
+- hwinfo.install 7.34
 - inter 2.5
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
@@ -54,58 +55,59 @@
 - KB3063858 1.0.0
 - keepass 2.52
 - keypirinha 2.26
-- kindle 1.39.65323
+- kindle 1.39.65383
 - laragon 4.0.15.20210114
 - laragon.install 4.0.15.20210114
-- libreoffice-fresh 7.4.2
-- malwarebytes 4.5.15.296
-- microsoft-windows-terminal 1.15.2874.0
-- neovim 0.8.0
+- libreoffice-fresh 7.4.3
+- malwarebytes 4.5.19.299
+- microsoft-windows-terminal 1.15.3465.0
+- neovim 0.8.2
 - netfx-4.7.2 4.7.2.0
 - nvm 1.1.9
 - nvm.install 1.1.9
 - nvm.portable 1.1.9
-- obs-studio 28.1.0
-- Opera 93.0.4585.21
-- partitionwizard 12.6
+- obs-studio 28.1.2
+- Opera 94.0.4606.38
+- partitionwizard 12.7
 - python 3.11.0
 - python3 3.11.0
-- qbittorrent 4.4.5
+- qbittorrent 4.5.0
 - rainmeter 4.3.0.3321
 - responsively 0.19.1
-- ruby 3.1.2.1
-- ruby.install 3.1.2.1
-- rufus 3.20
+- ruby 3.1.3.1
+- ruby.install 3.1.3.1
+- rufus 3.21
 - sharex 14.1.0
-- slack 4.29.144
+- slack 4.29.149
 - steam 3.0.1.20200226
 - steam-client 2.10.91.92
 - sublimetext3 3.2.2
-- sublimetext4 4.0.0.412600
-- subtitleedit 3.6.8
-- Sudo 1.1.2
+- sublimetext4 4.0.0.414300
+- subtitleedit 3.6.10
+- Sudo 1.1.3
 - teamviewer 15.31.5
-- telegram 4.2.4
-- telegram.install 4.2.4
-- thunderbird 102.4.1
-- treesizefree 4.6.1.2
+- telegram 4.5.0
+- telegram.install 4.5.0
+- thunderbird 102.6.1
+- treesizefree 4.6.3
 - typora 1.4.8
-- vcredist140 14.32.31332
+- vcredist140 14.34.31931
 - vcredist2008 9.0.30729.616104
 - vcredist2010 10.0.40219.32503
 - vcredist2015 14.0.24215.20170201
 - vcredist2017 14.16.27033
-- vlc 3.0.17.4
-- vlc.install 3.0.17.4
-- vscode.install 1.72.2
+- vlc 3.0.18
+- vlc.install 3.0.18
+- vscode.install 1.74.2
+- WhatsApp 2.2245.9
 - windowsfirewallcontrol 6.8.2.0
 - winmerge 2.16.24
-- winscp 5.21.5
-- winscp.install 5.21.5
+- winscp 5.21.6
+- winscp.install 5.21.6
 - XnView 2.51.1
 - yarn 1.22.19
-- zoom 5.12.3.9638
-- 104 packages installed.
+- zoom 5.13.3.11494
+- 106 packages installed.
 - 
 - acreom 1.0.0|1.0.0
 - Affinity Designer|1.10.5.1342
@@ -118,63 +120,77 @@
 - Ashampoo Home Design 6|6.0.0
 - Balíček ovladače systému Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - Battle.net|
+- Blackmagic RAW Common Components|2.8
 - Counter-Strike|
 - Counter-Strike: Global Offensive|
+- CPUID CPU-Z 2.03|2.03
 - CPUID HWMonitor 1.46|1.46
+- DaVinci Resolve|18.1.20006
+- DaVinci Resolve Control Panels|2.0.6.0
 - DeepL|
 - Dell Display Manager|1.56.2107
 - Descript 28.1.3-release.20211215.15|28.1.3-release.20211215.15
 - Discord|1.0.9005
-- EA app|12.45.0.5302
+- EA app|12.69.0.5326
 - Epic Games Launcher|1.3.23.0
 - Epic Online Services|2.0.33.0
-- FIFA 23|1.0.78.48877
+- Fairlight Audio Accelerator Utility|1.0.13
+- FIFA 23|1.0.78.54457
 - Figma Agent|116.2.3
-- Google Drive|67.0.2.0
-- Grammarly for Windows|1.0.21.329
+- Fork - a fast and friendly git client|1.79.2
+- GOG GALAXY|
+- Google Drive|68.0.2.0
+- Google Chrome|108.0.5359.125
+- Grammarly for Windows|1.0.23.343
 - HP Easy Printer Manager|2.0.1.64
 - HP Laser 103 107 108|V1.17 (05.08.2021)
 - HuionTablet|15.6.3.132
 - KeePass Password Safe 2.49|2.49
 - Kontrola stavu osobního počítače s Windows|3.6.2204.08001
+- Left 4 Dead 2|
 - Legion Arena|1.4.0.37
 - Lenovo Service Bridge|5.0.2.13
 - Lenovo System Health Manager version 1.20.13.0|1.20.13.0
 - Lenovo System Update|5.07.0140
-- Lenovo Vantage Service|3.13.14.0
+- Lenovo Vantage Service|3.13.43.0
+- Linear 1.13.0|1.13.0
 - Logitech Capture|2.06.12
-- Logitech G HUB|2022.10.326382
+- Logitech G HUB|2022.12.348746
 - LT Browser 1.9.7|1.9.7
 - Lunacy|8.6.2
 - Madden NFL 22|
-- Microsoft Edge WebView2 Runtime|107.0.1418.62
+- Microsoft Edge WebView2 Runtime|108.0.1462.54
 - Microsoft Update Health Tools|3.68.0.0
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|11.0.60610.1
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|11.0.61030.0
 - Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|11.0.60610.1
 - Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|11.0.61030.0
 - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660|12.0.40660.0
+- Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664|12.0.40664.0
 - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|12.0.30501.0
-- Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660|12.0.40660.0
+- Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664|12.0.40664.0
 - Microsoft Visual Studio Installer|2.11.52.58712
-- Mozilla Thunderbird (x64 cs)|102.5.0
+- Microsoft Xbox One Controller for Windows|1.0.2
+- Mortal Kombat 4|2.1
+- Mozilla Thunderbird (x64 cs)|102.6.1
 - n8n 1.3.0|1.3.0
+- Need for Speed: Hot Pursuit|
 - Notion 2.0.34|2.0.34
 - Nucleo 3.1.7|3.1.7
 - NVIDIA FrameView SDK 1.3.8107.31782123|1.3.8107.31782123
 - NVIDIA GeForce Experience 3.26.0.154|3.26.0.154
 - NVIDIA Ovladač HD audia 1.3.39.16|1.3.39.16
-- NVIDIA Ovladače grafiky 526.98|526.98
+- NVIDIA Ovladače grafiky 527.56|527.56
 - NVIDIA Systémový software PhysX 9.21.0713|9.21.0713
 - NVIDIA USBC Driver 1.50.831.832|1.50.831.832
 - NVM for Windows |
 - OBS Studio|27.2.4
-- Opera Stable 93.0.4585.21|93.0.4585.21
+- Opera Stable 94.0.4606.38|94.0.4606.38
 - Power Automate for desktop|2.15.284.21354
 - ProtonMail Bridge|2.1.3
-- ProtonVPN|2.2.1
+- ProtonVPN|2.3.1
 - ProtonVPNTap|1.1.4
 - ProtonVPNTun|0.13.1
 - ProtoPie|7.3.3
@@ -182,9 +198,11 @@
 - Python 3.10.8 (64-bit)|3.10.8150.0
 - Recorder Devices for ShareX 0.12.10|0.12.10
 - RetroArch|
+- Rocket League|
 - Ruby 3.0.3-1-x64-msvcrt|3.0.3-1
 - Samsung Magician|7.2.0.930
 - Screaming Frog SEO Spider|16.5
+- Sensible World of Soccer 96-97|1.0
 - Spline 0.5.1|0.5.1
 - StartAllBack|3.5.2
 - Steam|2.10.91.91
@@ -194,17 +212,17 @@
 - TeamViewer|15.28.9
 - The Witcher 3: Wild Hunt|
 - Total Commander 64-bit (Remove or Repair)|9.12
-- TreeSize Free V4.5.3|4.5.3
-- TreeSize Free V4.6.1 (64 bit) (64-bit)|4.6.1
 - Typora 1.4|1.4.7
 - UninstallTabletDeviceDriver|v13.15.2.170911
+- Unreal Tournament: Game of the Year Edition|
 - Visual Studio Build Tools 2017|15.9.41
 - Visual Studio Build Tools 2019|16.11.7
-- Vivaldi|5.5.2805.48
+- Vivaldi|5.6.2867.50
 - VLI Hub FW Upgrade Tool version 3.5.9.2|3.5.9.2
+- WhatsApp|2.2246.10
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Software Development Kit - Windows 10.0.19041.685|10.1.19041.685
 - Windows Subsystem for Linux Update|5.10.102.1
 - World of Soccer RELOADED|
-- 100 applications not managed with Chocolatey.
+- 116 applications not managed with Chocolatey.
