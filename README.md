@@ -26,6 +26,7 @@
 - crystaldiskmark 8.0.4.99
 - discord 1.0.9005
 - discord.install 1.0.9005
+- ditto 3.24.238.0
 - dotnet-5.0-runtime 5.0.17
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5 4.5.20120822
@@ -107,20 +108,19 @@
 - XnView 2.51.1
 - yarn 1.22.19
 - zoom 5.13.3.11494
-- 106 packages installed.
+- 107 packages installed.
 - 
-- acreom 1.0.0|1.0.0
-- Affinity Designer|1.10.5.1342
-- Affinity Photo|1.10.5.1342
-- Affinity Publisher|1.10.5.1342
 - Age of Empires II: Definitive Edition|
 - Age of Empires: Definitive Edition|
 - Amazon Photos|8.2.0
 - Amazon Send to Kindle|1.1.0.253
-- Ashampoo Home Design 6|6.0.0
 - Balíček ovladače systému Windows - Graphics Tablet (WinUsb) USBDevice  (04/10/2014 8.33.30.0)|04/10/2014 8.33.30.0
 - Battle.net|
 - Blackmagic RAW Common Components|2.8
+- Canon Utilities EOS Lens Registration Tool|1.16.0.0
+- Canon Utilities EOS Network Setting Tool|1.3.1.1
+- Canon Utilities EOS Utility 3|3.16.0.7
+- Canon Utilities EOS Web Service Registration Tool|1.13.20.0
 - Counter-Strike|
 - Counter-Strike: Global Offensive|
 - CPUID CPU-Z 2.03|2.03
@@ -131,17 +131,17 @@
 - Dell Display Manager|1.56.2107
 - Descript 28.1.3-release.20211215.15|28.1.3-release.20211215.15
 - Discord|1.0.9005
-- EA app|12.69.0.5326
+- EA app|12.89.0.5346
 - Epic Games Launcher|1.3.23.0
 - Epic Online Services|2.0.33.0
 - Fairlight Audio Accelerator Utility|1.0.13
-- FIFA 23|1.0.78.54457
+- FIFA 23|1.0.79.4793
 - Figma Agent|116.2.3
 - Fork - a fast and friendly git client|1.79.2
 - GOG GALAXY|
-- Google Drive|68.0.2.0
-- Google Chrome|108.0.5359.125
-- Grammarly for Windows|1.0.23.343
+- Google Drive|69.0.0.0
+- Google Chrome|109.0.5414.120
+- Grammarly for Windows|1.0.24.360
 - HP Easy Printer Manager|2.0.1.64
 - HP Laser 103 107 108|V1.17 (05.08.2021)
 - HuionTablet|15.6.3.132
@@ -151,16 +151,16 @@
 - Legion Arena|1.4.0.37
 - Lenovo Service Bridge|5.0.2.13
 - Lenovo System Health Manager version 1.20.13.0|1.20.13.0
-- Lenovo System Update|5.07.0140
+- Lenovo System Update|5.08.01.0005
 - Lenovo Vantage Service|3.13.43.0
 - Linear 1.13.0|1.13.0
 - Logitech Capture|2.06.12
-- Logitech G HUB|2022.12.348746
+- Logitech G HUB|2023.1.364016
 - LT Browser 1.9.7|1.9.7
 - Lunacy|8.6.2
 - Madden NFL 22|
-- Microsoft Edge WebView2 Runtime|108.0.1462.54
-- Microsoft Update Health Tools|3.68.0.0
+- Microsoft Edge WebView2 Runtime|109.0.1518.70
+- Microsoft Update Health Tools|3.70.0.0
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|11.0.60610.1
@@ -179,33 +179,36 @@
 - Need for Speed: Hot Pursuit|
 - Notion 2.0.34|2.0.34
 - Nucleo 3.1.7|3.1.7
-- NVIDIA FrameView SDK 1.3.8107.31782123|1.3.8107.31782123
-- NVIDIA GeForce Experience 3.26.0.154|3.26.0.154
+- NVIDIA FrameView SDK 1.3.8513.32290073|1.3.8513.32290073
+- NVIDIA GeForce Experience 3.27.0.112|3.27.0.112
 - NVIDIA Ovladač HD audia 1.3.39.16|1.3.39.16
-- NVIDIA Ovladače grafiky 527.56|527.56
+- NVIDIA Ovladače grafiky 528.24|528.24
 - NVIDIA Systémový software PhysX 9.21.0713|9.21.0713
 - NVIDIA USBC Driver 1.50.831.832|1.50.831.832
 - NVM for Windows |
 - OBS Studio|27.2.4
-- Opera Stable 94.0.4606.38|94.0.4606.38
+- Opera Stable 94.0.4606.76|94.0.4606.76
 - Power Automate for desktop|2.15.284.21354
 - ProtonMail Bridge|2.1.3
-- ProtonVPN|2.3.1
+- ProtonVPN|2.3.2
 - ProtonVPNTap|1.1.4
 - ProtonVPNTun|0.13.1
 - ProtoPie|7.3.3
 - Python 2.7.15 (64-bit)|2.7.15150
 - Python 3.10.8 (64-bit)|3.10.8150.0
 - Recorder Devices for ShareX 0.12.10|0.12.10
+- ResponsivelyApp 1.0.0-beta.5|1.0.0-beta.5
 - RetroArch|
 - Rocket League|
 - Ruby 3.0.3-1-x64-msvcrt|3.0.3-1
-- Samsung Magician|7.2.0.930
+- Samsung Magician|7.2.1.980
 - Screaming Frog SEO Spider|16.5
 - Sensible World of Soccer 96-97|1.0
+- Sizzy 70.4.0|70.4.0
 - Spline 0.5.1|0.5.1
 - StartAllBack|3.5.2
 - Steam|2.10.91.91
+- Storyboarder 2.1.0|2.1.0
 - Sublime Text|
 - Syberia 3|
 - TapeX 1.7.0|1.7.0
@@ -217,12 +220,12 @@
 - Unreal Tournament: Game of the Year Edition|
 - Visual Studio Build Tools 2017|15.9.41
 - Visual Studio Build Tools 2019|16.11.7
-- Vivaldi|5.6.2867.50
+- Vivaldi|5.6.2867.62
 - VLI Hub FW Upgrade Tool version 3.5.9.2|3.5.9.2
-- WhatsApp|2.2246.10
+- WhatsApp|2.2304.7
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Software Development Kit - Windows 10.0.19041.685|10.1.19041.685
 - Windows Subsystem for Linux Update|5.10.102.1
 - World of Soccer RELOADED|
-- 116 applications not managed with Chocolatey.
+- 118 applications not managed with Chocolatey.
