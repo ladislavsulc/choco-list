@@ -55,6 +55,7 @@ KB
 keepass 
 keypirinha 
 kindle 
+kodi 
 laragon 
 laragoninstall 
 libreoffice-fresh 
