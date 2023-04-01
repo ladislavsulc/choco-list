@@ -26,6 +26,8 @@ discord
 discordinstall 
 ditto 
 dotnet--runtime 
+dotnet--desktopruntime 
+dotnet-desktopruntime 
 DotNet 
 DotNet 
 DotNet 
@@ -41,11 +43,14 @@ git
 git-fork 
 gitinstall 
 google-drive-file-stream 
+googlesrt 
+googlesrtinstall 
 GoogleChrome 
 heidisql 
 hwinfo 
 hwinfoinstall 
 inter 
+jre 
 KB 
 KB 
 KB 
@@ -69,6 +74,7 @@ nvmportable
 obs-studio 
 Opera 
 partitionwizard 
+powertoys 
 python 
 python 
 qbittorrent 
@@ -77,6 +83,8 @@ responsively
 ruby 
 rubyinstall 
 rufus 
+screentogif 
+screentogifportable 
 sharex 
 slack 
 steam 

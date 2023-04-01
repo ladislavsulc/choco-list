@@ -21,13 +21,15 @@
 - chocolatey-windowsupdate.extension 1.0.5
 - clockify 2.0.2
 - coretemp 1.18
-- cpu-z 2.04
-- cpu-z.install 2.04
+- cpu-z 2.05
+- cpu-z.install 2.05
 - crystaldiskmark 8.0.4.99
 - discord 1.0.9005
 - discord.install 1.0.9005
 - ditto 3.24.238.0
 - dotnet-5.0-runtime 5.0.17
+- dotnet-7.0-desktopruntime 7.0.3
+- dotnet-desktopruntime 7.0.3
 - DotNet4.0 4.0.30319.20141222
 - DotNet4.5 4.5.20120822
 - DotNet4.5.2 4.5.2.20140902
@@ -35,19 +37,22 @@
 - dotnet4.7.1 4.7.2558.20190226
 - dotnetfx 4.8.0.20220524
 - dropbox 168.4.4802
-- etcher 1.14.3
-- ffmpeg 5.1.2
-- filezilla 3.63.2
-- Firefox 110.0
+- etcher 1.18.4
+- ffmpeg 6.0
+- filezilla 3.63.2.1
+- Firefox 110.0.1
 - git 2.39.2
-- git-fork 1.81.1
+- git-fork 1.82.1
 - git.install 2.39.2
 - google-drive-file-stream 56.0.11.2022
+- google2srt 0.7.10
+- google2srt.install 0.7.10
 - GoogleChrome 110.0.5481.178
 - heidisql 12.3.0.6589
 - hwinfo 7.40
 - hwinfo.install 7.40
 - inter 2.5
+- jre8 8.0.361
 - KB2919355 1.0.20160915
 - KB2919442 1.0.20160915
 - KB2999226 1.0.20181019
@@ -56,12 +61,12 @@
 - KB3063858 1.0.0
 - keepass 2.53.1
 - keypirinha 2.26
-- kindle 1.40.65415
+- kindle 1.40.65535
 - kodi 20.0
 - laragon 4.0.15.20210114
 - laragon.install 4.0.15.20210114
 - libreoffice-fresh 7.4.5
-- malwarebytes 4.5.21.308
+- malwarebytes 4.5.24.322
 - microsoft-windows-terminal 1.16.10261.0
 - neovim 0.8.3
 - netfx-4.7.2 4.7.2.0
@@ -71,6 +76,7 @@
 - obs-studio 29.0.2
 - Opera 96.0.4693.20
 - partitionwizard 12.7
+- powertoys 0.68.0
 - python 3.11.0
 - python3 3.11.0
 - qbittorrent 4.5.1
@@ -79,6 +85,8 @@
 - ruby 3.1.3.1
 - ruby.install 3.1.3.1
 - rufus 3.21
+- screentogif 2.37.0
+- screentogif.portable 2.37.0
 - sharex 15.0.0
 - slack 4.29.149
 - steam 3.0.1.20200226
@@ -109,7 +117,7 @@
 - XnView 2.51.1
 - yarn 1.22.19
 - zoom 5.13.7.12602
-- 108 packages installed.
+- 116 packages installed.
 - 
 - Adobe Creative Cloud|5.9.1.377
 - Age of Empires II: Definitive Edition|
@@ -139,11 +147,11 @@
 - Epic Online Services|2.0.33.0
 - Fairlight Audio Accelerator Utility|1.0.13
 - FIFA 23|1.0.79.4793
-- Figma Agent|116.2.3
-- Fork - a fast and friendly git client|1.82.0
+- Figma Agent|116.7.5
+- Fork - a fast and friendly git client|1.82.1
 - GOG GALAXY|
-- Google Drive|71.0.3.0
-- Grammarly for Windows|1.0.25.378
+- Google Drive|72.0.3.0
+- Grammarly for Windows|1.0.27.421
 - HP Easy Printer Manager|2.0.1.64
 - HP Laser 103 107 108|V1.17 (05.08.2021)
 - HuionTablet|15.6.3.132
@@ -161,7 +169,8 @@
 - LT Browser 1.9.7|1.9.7
 - Lunacy|8.6.2
 - Madden NFL 22|
-- Microsoft Edge WebView2 Runtime|110.0.1587.57
+- Malwarebytes version 4.5.23.241|4.5.23.241
+- Microsoft Edge WebView2 Runtime|111.0.1661.54
 - Microsoft Update Health Tools|3.70.0.0
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
@@ -178,17 +187,17 @@
 - Mortal Kombat 4|2.1
 - n8n 1.3.0|1.3.0
 - Need for Speed: Hot Pursuit|
-- Notion 2.0.34|2.0.34
+- Notion 2.0.41|2.0.41
 - Nucleo 3.1.7|3.1.7
 - NVIDIA FrameView SDK 1.3.8513.32290073|1.3.8513.32290073
 - NVIDIA GeForce Experience 3.27.0.112|3.27.0.112
-- NVIDIA Ovladač HD audia 1.3.39.16|1.3.39.16
-- NVIDIA Ovladače grafiky 528.49|528.49
+- NVIDIA Ovladač HD audia 1.3.40.14|1.3.40.14
+- NVIDIA Ovladače grafiky 531.41|531.41
 - NVIDIA Systémový software PhysX 9.21.0713|9.21.0713
 - NVIDIA USBC Driver 1.50.831.832|1.50.831.832
 - NVM for Windows |
 - OBS Studio|27.2.4
-- Opera Stable 96.0.4693.20|96.0.4693.20
+- Opera Stable 97.0.4719.43|97.0.4719.43
 - Power Automate for desktop|2.15.284.21354
 - ProtonMail Bridge|2.1.3
 - ProtonVPN|2.3.2
@@ -202,7 +211,7 @@
 - RetroArch|
 - Rocket League|
 - Ruby 3.0.3-1-x64-msvcrt|3.0.3-1
-- Samsung Magician|7.2.1.980
+- Samsung Magician|7.3.0.1100
 - Screaming Frog SEO Spider|16.5
 - Sensible World of Soccer 96-97|1.0
 - Sizzy 70.4.0|70.4.0
@@ -221,12 +230,12 @@
 - Unreal Tournament: Game of the Year Edition|
 - Visual Studio Build Tools 2017|15.9.41
 - Visual Studio Build Tools 2019|16.11.7
-- Vivaldi|5.7.2921.60
+- Vivaldi|5.7.2921.65
 - VLI Hub FW Upgrade Tool version 3.5.9.2|3.5.9.2
-- WhatsApp|2.2306.9
+- WhatsApp|2.2310.5
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Software Development Kit - Windows 10.0.19041.685|10.1.19041.685
 - Windows Subsystem for Linux Update|5.10.102.1
 - World of Soccer RELOADED|
-- 118 applications not managed with Chocolatey.
+- 119 applications not managed with Chocolatey.
