@@ -1,13 +1,6 @@
 # My Favourite Chocolatey packages
 
 - Chocolatey v1.3.1
-- 2 validations performed. 1 success(es), 1 warning(s), and 0 error(s).
-- 
-- Validation Warnings:
--  - A pending system reboot request has been detected, however, this is
--    being ignored due to the current command being used 'list'.
--    It is recommended that you reboot at your earliest convenience.
-- 
 - 7zip 22.1
 - 7zip.install 22.1
 - acestream 3.1.32
@@ -77,6 +70,7 @@
 - microsoft-windows-terminal 1.16.10261.0
 - neovim 0.8.3
 - netfx-4.7.2 4.7.2.0
+- ngrok 3.3.0
 - nvm 1.1.9
 - nvm.install 1.1.10
 - nvm.portable 1.1.9
@@ -125,7 +119,7 @@
 - XnView 2.51.2
 - yarn 1.22.19
 - zoom 5.14.2.14578
-- 117 packages installed.
+- 118 packages installed.
 - 
 - Adobe Creative Cloud|5.9.1.377
 - Age of Empires II: Definitive Edition|
@@ -147,23 +141,21 @@
 - CPUID CPU-Z 2.05|2.05
 - CPUID HWMonitor 1.46|1.46
 - Datovka 4.21.1|4.21.1.0
-- DaVinci Resolve|18.1.20006
+- DaVinci Resolve|18.1.40009
 - DaVinci Resolve Control Panels|2.0.6.0
 - DeepL|
 - Dell Display Manager|1.56.2107
 - Descript 28.1.3-release.20211215.15|28.1.3-release.20211215.15
 - Discord|1.0.9005
 - DW Test Citrix VDA FFM|1.0
-- EA app|12.123.0.5380
-- Epic Games Launcher|1.3.23.0
-- Epic Online Services|2.0.33.0
+- EA app|12.184.0.5441
 - Fairlight Audio Accelerator Utility|1.0.13
-- FIFA 23|1.0.79.4793
+- FIFA 23|1.0.81.11233
 - Figma Agent|116.8.4
 - Fork - a fast and friendly git client|1.82.1
 - GOG GALAXY|
-- Google Drive|74.0.3.0
-- Grammarly for Windows|1.0.29.469
+- Google Drive|75.0.3.0
+- Grammarly for Windows|1.0.33.520
 - HP Easy Printer Manager|2.0.1.64
 - HP Laser 103 107 108|V1.17 (05.08.2021)
 - HuionTablet|15.6.3.132
@@ -177,13 +169,13 @@
 - Lenovo Vantage Service|3.13.43.0
 - Linear 1.13.0|1.13.0
 - Logitech Capture|2.06.12
-- Logitech G HUB|2023.3.396302
+- Logitech G HUB|2023.4.407679
 - LT Browser 1.9.7|1.9.7
 - Lunacy|8.6.2
-- Madden NFL 22|
 - Microsoft ASP.NET Core 6.0.13 - Shared Framework (x64)|6.0.13.22580
-- Microsoft Edge WebView2 Runtime|112.0.1722.64
-- Microsoft Update Health Tools|3.70.0.0
+- Microsoft Edge WebView2 Runtime|113.0.1774.57
+- Microsoft Update Health Tools|3.72.0.0
+- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148|9.0.30729.4148
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17|9.0.30729
 - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161|9.0.30729.6161
 - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|11.0.60610.1
@@ -199,21 +191,21 @@
 - Microsoft Windows Desktop Runtime - 6.0.13 (x64)|6.0.13.32001
 - Microsoft Xbox One Controller for Windows|1.0.2
 - Mortal Kombat 4|2.1
-- Mozilla Thunderbird (x64 cs)|102.10.1
+- Mozilla Thunderbird (x64 cs)|102.11.2
 - n8n 1.3.0|1.3.0
 - Need for Speed: Hot Pursuit|
-- Notion 2.0.41|2.0.41
+- Notion 2.0.45|2.0.45
 - Nucleo 3.1.7|3.1.7
 - NVIDIA FrameView SDK 1.3.8513.32290073|1.3.8513.32290073
 - NVIDIA GeForce Experience 3.27.0.112|3.27.0.112
 - NVIDIA Ovladač HD audia 1.3.40.14|1.3.40.14
-- NVIDIA Ovladače grafiky 531.68|531.68
+- NVIDIA Ovladače grafiky 535.98|535.98
 - NVIDIA Systémový software PhysX 9.21.0713|9.21.0713
 - NVIDIA USBC Driver 1.50.831.832|1.50.831.832
 - OBS Studio|27.2.4
-- Opera Crypto Stable 98.0.4759.9|98.0.4759.9
-- Opera developer 99.0.4780.0|99.0.4780.0
-- Opera Stable 98.0.4759.15|98.0.4759.15
+- Opera Crypto Stable 99.0.4788.13|99.0.4788.13
+- Opera developer 100.0.4815.0|100.0.4815.0
+- Opera Stable 99.0.4788.31|99.0.4788.31
 - Power Automate for desktop|2.15.284.21354
 - PowerToys (Preview) x64|0.68.1
 - Proton VPN|3.0.5
@@ -228,8 +220,10 @@
 - Rocket League|
 - Ruby 3.0.3-1-x64-msvcrt|3.0.3-1
 - Samsung Magician|7.3.0.1100
+- Samsung Portable SSD Software 1.0|1.7.4.3
 - Screaming Frog SEO Spider|16.5
 - Sensible World of Soccer 96-97|1.0
+- SIGMA Optimization Pro|1.7.0.1
 - Sizzy 70.4.0|70.4.0
 - Spline 0.5.1|0.5.1
 - StartAllBack|3.5.2
@@ -246,11 +240,13 @@
 - Unreal Tournament: Game of the Year Edition|
 - Visual Studio Build Tools 2017|15.9.41
 - Visual Studio Build Tools 2019|16.11.7
-- Vivaldi|6.0.2979.15
+- Vivaldi|6.0.2979.22
 - VLI Hub FW Upgrade Tool version 3.5.9.2|3.5.9.2
 - Windows SDK AddOn|10.1.0.0
 - Windows Software Development Kit - Windows 10.0.17763.132|10.1.17763.132
 - Windows Software Development Kit - Windows 10.0.19041.685|10.1.19041.685
 - Windows Subsystem for Linux Update|5.10.102.1
+- Wondershare Helper Compact 2.6.0|2.6.0
+- Wondershare NativePush(Build 1.0.0.7)|
 - World of Soccer RELOADED|
-- 126 applications not managed with Chocolatey.
+- 128 applications not managed with Chocolatey.

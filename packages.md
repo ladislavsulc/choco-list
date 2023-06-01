@@ -1,11 +1,4 @@
 Chocolatey v
- validations performed  success(es),  warning(s), and  error(s)
-
-Validation Warnings:
- - A pending system reboot request has been detected, however, this is
-   being ignored due to the current command being used 'list'
-   It is recommended that you reboot at your earliest convenience
-
 zip 
 zipinstall 
 acestream 
@@ -75,6 +68,7 @@ malwarebytes
 microsoft-windows-terminal 
 neovim 
 netfx- 
+ngrok 
 nvm 
 nvminstall 
 nvmportable 
@@ -124,7 +118,3 @@ XnView
 yarn 
 zoom 
  packages installed
-
-Did you know Pro / Business automatically syncs with Programs and
- Features? Learn more about Package Synchronizer at
- https://chocolateyorg/compare
