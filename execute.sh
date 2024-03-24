@@ -1,8 +1,16 @@
 #!/bin/bash
 
-choco list | awk '{print $1}' | sort | uniq > temp.txt
+# List all installed Chocolatey packages
+choco list -l -r | awk '$1 ~ /^[a-zA-Z]/ {print $1}' | sort | uniq -d > temp.txt
 
-grep -f temp.txt packages.md > packages_temp.md
+# Read the duplicate packages and keep the original name
+while IFS= read -r pkg
+do
+  echo -n "$pkg "
+done < temp.txt > packages_temp.md
 
-mv packages_temp.md packages.md
+# Remove duplicate packages
+cat packages_temp.md packages.md | tr '\n' ' ' | sed 's/ *$//' > packages.md
+
+rm temp.txt packages_temp.md
 
