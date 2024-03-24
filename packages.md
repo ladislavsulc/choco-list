@@ -1,12 +1,8 @@
 Chocolatey v
-zip 
-zipinstall 
 acestream 
 adobereader 
 audacity 
 audioswitcher 
-autohotkeyinstall 
-autohotkeyportable 
 autoit 
 autoitinstall 
 bitwarden 
@@ -20,13 +16,6 @@ crystaldiskmark
 discord 
 discordinstall 
 ditto 
-DotNet 
-DotNet 
-DotNet 
-dotnet 
-dotnet--runtime 
-dotnet--desktopruntime 
-dotnet--desktopruntime 
 dotnet-desktopruntime 
 dotnetfx 
 dropbox 
@@ -37,8 +26,6 @@ Firefox
 git 
 gitinstall 
 git-fork 
-googlesrt 
-googlesrtinstall 
 google-drive-file-stream 
 GoogleChrome 
 heidisql 
@@ -52,13 +39,6 @@ chocolatey-font-helpersextension
 chocolatey-misc-helpersextension 
 chocolatey-windowsupdateextension 
 inter 
-jre 
-KB 
-KB 
-KB 
-KB 
-KB 
-KB 
 keepass 
 keypirinha 
 kindle 
@@ -70,7 +50,6 @@ logseq
 malwarebytes 
 microsoft-windows-terminal 
 neovim 
-netfx- 
 ngrok 
 nvm 
 nvminstall 
@@ -99,8 +78,6 @@ slack
 speedtest 
 steam 
 steam-client 
-sublimetext 
-sublimetext 
 subtitleedit 
 Sudo 
 teamviewer 
@@ -108,14 +85,8 @@ telegram
 telegraminstall 
 thunderbird 
 treesizefree 
-vcredist 
-vcredist 
-vcredist 
-vcredist 
-vcredist 
 vlc 
 vlcinstall 
-vscodeinstall 
 WhatsApp 
 windowsfirewallcontrol 
 winmerge 
@@ -124,8 +95,4 @@ winscpinstall
 XnView 
 yarn 
 zoom 
- packages installed
-
-Did you know Pro / Business automatically syncs with Programs and
- Features? Learn more about Package Synchronizer at
  https://chocolateyorg/compare
