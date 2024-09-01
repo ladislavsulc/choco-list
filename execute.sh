@@ -1,4 +1,4 @@
 #!/bin/bash
 
-choco list | sort | uniq > choco-packages.md
+choco list --id-only | sort | uniq > choco-packages.md
 

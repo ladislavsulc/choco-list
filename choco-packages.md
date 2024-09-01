@@ -1,135 +1,135 @@
 133 packages installed.
-7zip 24.8.0
-7zip.install 24.8.0
+7zip
+7zip.install
 Chocolatey v2.3.0
-DotNet4.0 4.0.30319.20141222
-DotNet4.5 4.5.20120822
-DotNet4.6.1 4.6.1055.20170308
-Firefox 129.0.2
-GoogleChrome 128.0.6613.114
-KB2919355 1.0.20160915
-KB2919442 1.0.20160915
-KB2999226 1.0.20181019
-KB3033929 1.0.5
-KB3035131 1.0.3
-KB3063858 1.0.0
-Opera 113.0.5230.47
-Sudo 1.1.3
-WhatsApp 2.2323.4
-XnView 2.51.6
-acestream 3.1.32
-adobereader 2024.2.20965
-audacity 3.6.1
-audioswitcher 1.8.0.142
-autohotkey.install 1.1.37.1
-autohotkey.portable 2.0.18
-autoit 3.3.16.1
-autoit.install 3.3.16.1
-bitwarden 2024.7.1
-blender 4.2.1
-bsplayer 2.73.1084
-chocolatey 2.3.0
-chocolatey-compatibility.extension 1.0.0
-chocolatey-core.extension 1.4.0
-chocolatey-dotnetfx.extension 1.0.1
-chocolatey-font-helpers.extension 0.0.4
-chocolatey-misc-helpers.extension 0.0.4
-chocolatey-windowsupdate.extension 1.0.5
-clockify 2.0.2.1782
-coretemp 1.18.1
-cpu-z 2.9.0.20240123
-cpu-z.install 2.9.0.20240123
-crystaldiskmark 8.0.5
-discord 1.0.9161
-discord.install 1.0.9161
-ditto 3.24.246
-dotnet-5.0-runtime 5.0.17
-dotnet-6.0-desktopruntime 6.0.33
-dotnet-7.0-desktopruntime 7.0.20
-dotnet-8.0-desktopruntime 8.0.8
-dotnet-desktopruntime 8.0.8
-dotnet4.7.1 4.7.2558.20190226
-dotnetfx 4.8.0.20220524
-dropbox 206.4.6506
-etcher 1.19.21
-ffmpeg 7.0.2
-filezilla 3.67.1
-flow-launcher 1.19.0
-git 2.46.0
-git-fork 1.99.3
-git.install 2.46.0
-google-drive-file-stream 56.0.11.2022
-google2srt 0.7.10
-google2srt.install 0.7.10
-handbrake 1.8.2
-handbrake.install 1.8.2
-heidisql 12.8.0.6908
-httpie 3.2.2
-hwinfo 7.72.0
-hwinfo.install 8.0.0
-inter 4.0.0
-jre8 8.0.421
-keepass 2.57.0
-keypirinha 2.26.0
-kindle 2.4.70946
-kodi 21.1.0
-laragon 6.0.0
-laragon.install 6.0.0
-libreoffice-fresh 24.2.5
-logseq 0.10.9
-malwarebytes 5.1.8.108
-microsoft-windows-terminal 1.21.2361
-neovim 0.10.1
-netfx-4.7.2 4.7.2
-ngrok 3.14.1
-nvm 1.1.12
-nvm.install 1.1.12
-nvm.portable 1.1.9
-obs-studio 30.2.3
-obsidian 1.6.7
-partitionwizard 12.8.0
-powertoys 0.83.0
-protondrive 1.6.2
-protonvpn 3.3.0
-python 3.12.5
-python3 3.12.5
-python311 3.11.9
-python312 3.12.5
-qbittorrent 4.6.6
-rainmeter 4.3.0.3321
-responsively 1.5.0
-rode-central 2.0.45
-rode-connect 1.3.39
-ruby 3.3.4.1
-ruby.install 3.3.4.1
-rufus 4.5.0
-screentogif 2.41.0
-screentogif.portable 2.41.0
-sharex 16.1.0
-slack 4.40.120
-speedtest 1.2.0
-steam 3.0.1.20200226
-steam-client 2.10.91.92
-streamdeck 6.7.2.20986
-sublimetext3 3.2.2
-sublimetext4 4.0.0.418000
-subtitleedit 4.0.7
-teamviewer 15.31.5
-telegram 5.4.1
-telegram.install 5.4.1
-thunderbird 115.12.2
-treesizefree 4.7.3.1
-vcredist140 14.40.33810
-vcredist2008 9.0.30729.616104
-vcredist2010 10.0.40219.32503
-vcredist2015 14.0.24215.20170201
-vcredist2017 14.16.27033
-vlc 3.0.21
-vlc.install 3.0.21
-vscode.install 1.92.2
-wavelink 1.11.0.2550
-windowsfirewallcontrol 6.11.0
-winscp 6.3.4
-winscp.install 6.3.4
-yarn 1.22.22
-zoom 6.1.11.45504
+DotNet4.0
+DotNet4.5
+DotNet4.6.1
+Firefox
+GoogleChrome
+KB2919355
+KB2919442
+KB2999226
+KB3033929
+KB3035131
+KB3063858
+Opera
+Sudo
+WhatsApp
+XnView
+acestream
+adobereader
+audacity
+audioswitcher
+autohotkey.install
+autohotkey.portable
+autoit
+autoit.install
+bitwarden
+blender
+bsplayer
+chocolatey
+chocolatey-compatibility.extension
+chocolatey-core.extension
+chocolatey-dotnetfx.extension
+chocolatey-font-helpers.extension
+chocolatey-misc-helpers.extension
+chocolatey-windowsupdate.extension
+clockify
+coretemp
+cpu-z
+cpu-z.install
+crystaldiskmark
+discord
+discord.install
+ditto
+dotnet-5.0-runtime
+dotnet-6.0-desktopruntime
+dotnet-7.0-desktopruntime
+dotnet-8.0-desktopruntime
+dotnet-desktopruntime
+dotnet4.7.1
+dotnetfx
+dropbox
+etcher
+ffmpeg
+filezilla
+flow-launcher
+git
+git-fork
+git.install
+google-drive-file-stream
+google2srt
+google2srt.install
+handbrake
+handbrake.install
+heidisql
+httpie
+hwinfo
+hwinfo.install
+inter
+jre8
+keepass
+keypirinha
+kindle
+kodi
+laragon
+laragon.install
+libreoffice-fresh
+logseq
+malwarebytes
+microsoft-windows-terminal
+neovim
+netfx-4.7.2
+ngrok
+nvm
+nvm.install
+nvm.portable
+obs-studio
+obsidian
+partitionwizard
+powertoys
+protondrive
+protonvpn
+python
+python3
+python311
+python312
+qbittorrent
+rainmeter
+responsively
+rode-central
+rode-connect
+ruby
+ruby.install
+rufus
+screentogif
+screentogif.portable
+sharex
+slack
+speedtest
+steam
+steam-client
+streamdeck
+sublimetext3
+sublimetext4
+subtitleedit
+teamviewer
+telegram
+telegram.install
+thunderbird
+treesizefree
+vcredist140
+vcredist2008
+vcredist2010
+vcredist2015
+vcredist2017
+vlc
+vlc.install
+vscode.install
+wavelink
+windowsfirewallcontrol
+winscp
+winscp.install
+yarn
+zoom
