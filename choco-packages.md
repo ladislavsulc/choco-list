@@ -1,4 +1,9 @@
-133 packages installed.
+
+   Chocolatey CLI create it with the proper permissions.
+   Remove the directory 'C:\ProgramData\ChocolateyHttpCache' to have
+ - System Cache directory is not locked down to administrators.
+137 packages installed.
+3 validations performed. 2 success(es), 1 warning(s), and 0 error(s).
 7zip
 7zip.install
 Chocolatey v2.3.0
@@ -15,6 +20,7 @@ KB3035131
 KB3063858
 Opera
 Sudo
+Validation Warnings:
 WhatsApp
 XnView
 acestream
@@ -36,10 +42,12 @@ chocolatey-font-helpers.extension
 chocolatey-misc-helpers.extension
 chocolatey-windowsupdate.extension
 clockify
+cloudflared
 coretemp
 cpu-z
 cpu-z.install
 crystaldiskmark
+deno
 discord
 discord.install
 ditto
@@ -88,6 +96,7 @@ nvm.portable
 obs-studio
 obsidian
 partitionwizard
+postman
 powertoys
 protondrive
 protonvpn
@@ -128,6 +137,7 @@ vlc
 vlc.install
 vscode.install
 wavelink
+whatsapptray
 windowsfirewallcontrol
 winscp
 winscp.install
