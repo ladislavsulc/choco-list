@@ -2,7 +2,7 @@
    Chocolatey CLI create it with the proper permissions.
    Remove the directory 'C:\ProgramData\ChocolateyHttpCache' to have
  - System Cache directory is not locked down to administrators.
-137 packages installed.
+140 packages installed.
 3 validations performed. 2 success(es), 1 warning(s), and 0 error(s).
 7zip
 7zip.install
@@ -32,7 +32,6 @@ autohotkey.portable
 autoit
 autoit.install
 bitwarden
-blender
 bsplayer
 chocolatey
 chocolatey-compatibility.extension
@@ -51,6 +50,9 @@ deno
 discord
 discord.install
 ditto
+docker
+docker-cli
+docker-desktop
 dotnet-5.0-runtime
 dotnet-6.0-desktopruntime
 dotnet-7.0-desktopruntime
@@ -66,6 +68,7 @@ flow-launcher
 git
 git-fork
 git.install
+github-desktop
 google-drive-file-stream
 google2srt
 google2srt.install
