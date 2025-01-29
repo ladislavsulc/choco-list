@@ -2,11 +2,11 @@
    Chocolatey CLI create it with the proper permissions.
    Remove the directory 'C:\ProgramData\ChocolateyHttpCache' to have
  - System Cache directory is not locked down to administrators.
-140 packages installed.
+143 packages installed.
 3 validations performed. 2 success(es), 1 warning(s), and 0 error(s).
 7zip
 7zip.install
-Chocolatey v2.3.0
+Chocolatey v2.4.1
 DotNet4.0
 DotNet4.5
 DotNet4.6.1
@@ -57,6 +57,7 @@ dotnet-5.0-runtime
 dotnet-6.0-desktopruntime
 dotnet-7.0-desktopruntime
 dotnet-8.0-desktopruntime
+dotnet-9.0-desktopruntime
 dotnet-desktopruntime
 dotnet4.7.1
 dotnetfx
@@ -107,6 +108,7 @@ python
 python3
 python311
 python312
+python313
 qbittorrent
 rainmeter
 responsively
@@ -139,6 +141,7 @@ vcredist2017
 vlc
 vlc.install
 vscode.install
+warp
 wavelink
 whatsapptray
 windowsfirewallcontrol
