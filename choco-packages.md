@@ -6,7 +6,7 @@
 3 validations performed. 2 success(es), 1 warning(s), and 0 error(s).
 7zip
 7zip.install
-Chocolatey v2.4.1
+Chocolatey v2.4.2
 DotNet4.0
 DotNet4.5
 DotNet4.6.1
